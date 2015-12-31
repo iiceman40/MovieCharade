@@ -1,0 +1,44 @@
+<div ng-if="currentMovie && gameStatus == 1">
+	<h3>Film</h3>
+	<div ng-if="availableMoviesNumber() > 0">
+		<div ng-if="currentMovie">
+			<div class="panel panel-danger">
+				<div class="panel-heading">
+					<h3 class="panel-title">{{currentMovie.title}}</h3>
+				</div>
+				<div class="panel-body">
+					{{currentMovie.year}}
+					<span ng-if="currentMovie.genres.length">-</span>
+					<span ng-repeat="genre in currentMovie.genres">
+						{{genre}}<span ng-if="!$last">,</span>
+					</span>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div ng-if="timer > 0">
+			<div class="col-xs-6">
+				<button class="btn btn-success btn-lg btn-block" ng-click="movieSuccessfullyGuessed()">Erraten</button>
+			</div>
+			<div class="col-xs-6">
+				<div ng-if="discardsUsed < settings.maxDiscards">
+					<button class="btn btn-warning btn-lg btn-block" ng-click="discardMovie()">Überspringen</button>
+				</div>
+			</div>
+			</div>
+		</div>
+		<div ng-if="timer <= 0">
+			<button class="btn btn-danger btn-lg btn-block" ng-click="endTurn()">Nächstes Team</button>
+		</div>
+		<br/>
+	</div>
+</div>
+<div class="" ng-if="currentTeam && gameStatus == 1">
+	<div class="teamReadyCheck" ng-if="!currentMovie">
+		<button class="btn btn-success btn-lg btn-block" ng-click="teamReady()">{{currentTeam.name}} ist dran! Bereit?</button>
+		<br />
+	</div>
+	<div class="jumbotron text-center time">
+		ZEIT: {{timer}}
+	</div>
+</div>
