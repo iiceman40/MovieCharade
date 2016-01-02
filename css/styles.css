@@ -17,8 +17,10 @@ a:hover,
 	opacity: 1;
 }
 
-.btn-success {
+.btn {
 	color: black;
+	font-weight: bold;
+	text-shadow: none;
 }
 
 .time {

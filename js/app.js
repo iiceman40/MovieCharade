@@ -1,14 +1,18 @@
-var app = angular.module('movieCharadeApp', []);
+var app = angular.module('movieCharadeApp', ['ngRoute']);
+
+// TODO styling
+// TODO separate into distinct controllers for team, game, movies, and info??
+// TODO add services for settings, team and game data
+// TODO reference a server side data source for the movies that can be updated
+// TODO add translations
+// TODO refactor names that have "movie" inside to something more generic
+// TODO add filter for genre
 
 /**
  * Controller
  */
-
-// TODO add genre
-// TODO styling
-
 // List
-app.controller('MoviesCtrl', function ($scope, $filter, $location, MoviesDataService) {
+app.controller('GameController', function ($scope, $filter, $location, MoviesDataService) {
 	$scope.settings = {
 		time: 60,
 		maxDiscards: 1
@@ -19,7 +23,7 @@ app.controller('MoviesCtrl', function ($scope, $filter, $location, MoviesDataSer
 	$scope.currentTeam = null;
 	$scope.timerTimeout = null;
 	$scope.discardsUsed = 0;
-	$scope.gameStatus = 0;
+	$scope.gameState = 0; // 0 - not started // 1 - game in progress // 2 - game finished
 
 	// filter
 	$scope.filter = {
@@ -68,7 +72,7 @@ app.controller('MoviesCtrl', function ($scope, $filter, $location, MoviesDataSer
 	$scope.availableMoviesNumber = function () {
 		var count = $scope.getFilteredMovies().length - $scope.getFilteredDiscardedMovies().length - $scope.getFilteredSuccessfullyGuessedMovies().length;
 		if (count - ($scope.teams.length - ($scope.teams.indexOf($scope.currentTeam) + 1)) <= 0) {
-			$scope.gameStatus = 2;
+			$scope.gameState = 2;
 		}
 		return count;
 	};
@@ -146,7 +150,7 @@ app.controller('MoviesCtrl', function ($scope, $filter, $location, MoviesDataSer
 	};
 
 	$scope.teamIsActive = function (team) {
-		return $scope.gameStatus != 1 || team == $scope.currentTeam;
+		return $scope.gameState != 1 || team == $scope.currentTeam;
 	};
 
 	$scope.toggleEditTeam = function (team) {
@@ -164,7 +168,7 @@ app.controller('MoviesCtrl', function ($scope, $filter, $location, MoviesDataSer
 				localStorage.setItem("teams", JSON.stringify($scope.teams));
 				localStorage.setItem("settings", JSON.stringify($scope.settings));
 			}
-			$scope.gameStatus = 1;
+			$scope.gameState = 1;
 		}
 	};
 
@@ -205,7 +209,7 @@ app.controller('MoviesCtrl', function ($scope, $filter, $location, MoviesDataSer
 			$scope.teams[i].points = 0;
 		}
 		$scope.currentMovie = null;
-		$scope.gameStatus = 0;
+		$scope.gameState = 0;
 	};
 
 	$scope.getRandomColor = function () {
@@ -216,41 +220,5 @@ app.controller('MoviesCtrl', function ($scope, $filter, $location, MoviesDataSer
 		}
 		return color;
 	}
-
-});
-
-/**
- * Filters
- */
-app.filter('yearFilter', function () {
-	return function (items, minYear, maxYear) {
-		var filteredItems = [];
-		angular.forEach(items, function (item, key) {
-			if (item && item.hasOwnProperty('year')) {
-				if (item.year <= maxYear && item.year >= minYear) {
-					filteredItems.push(item);
-				}
-			}
-		});
-		return filteredItems;
-	};
-});
-
-/**
- * Services
- */
-app.factory('MoviesDataService', function ($http) {
-	var promiseMovies = null;
-
-	return {
-		getMovies: function () {
-			if (!promiseMovies) {
-				promiseMovies = $http.get('data/movies.json').then(function (moviesResponse) {
-					return moviesResponse.data;
-				});
-			}
-			return promiseMovies;
-		}
-	};
 
 });

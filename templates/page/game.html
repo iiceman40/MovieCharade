@@ -1,0 +1,29 @@
+<div ng-if="teams.length">
+	<div ng-include="'templates/page/movies/currentMovie.html'"></div>
+	<div ng-if="currentTeam && gameState == 1">
+		<div class="teamReadyCheck" ng-if="!currentMovie">
+			<button class="btn btn-success btn-lg btn-block" ng-click="teamReady()">{{currentTeam.name}} ist dran! Bereit?</button>
+			<br />
+		</div>
+		<div class="well well-lg text-center time">
+			ZEIT: {{timer}}
+		</div>
+	</div>
+</div>
+<div ng-if="gameState == 0">
+	<button class="btn btn-success btn-lg btn-block" ng-click="startGame()">Spiel starten</button>
+</div>
+<div ng-if="gameState == 2">
+	<br/>
+	<div class="alert alert-info">
+		<span class="glyphicon glyphicon-info-sign"></span> Nicht mehr genügend Filme übrig.
+	</div>
+	<button class="btn btn-success btn-lg btn-block" ng-click="resetStack()">Neues Spiel</button>
+
+	<hr/>
+
+	<div class="results">
+		<h2>Zusammenfassung</h2>
+		<div ng-include="'templates/page/game/results.html'"></div>
+	</div>
+</div>

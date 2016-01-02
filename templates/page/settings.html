@@ -1,7 +1,7 @@
-<div ng-if="!currentMovie && gameStatus != 1">
+<div ng-if="!currentMovie && gameState != 1">
 	<h3>Spiel Einstellungen</h3>
 	<div class="row">
-		<div class="col-xs-6">
+		<div class="col-sm-6">
 			<div class="panel">
 				<div class="panel-heading">
 					<h3 class="panel-title">Regeln</h3>
@@ -18,7 +18,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-xs-6">
+		<div class="col-sm-6">
 			<div class="panel">
 				<div class="panel-heading">
 					<h3 class="panel-title">Filter</h3>
@@ -32,24 +32,9 @@
 						<label for="year-to">Bis zu diesem Jahr</label>
 						<input id="year-to" type="number" ng-model="filter.maxYear" class="form-control input-sm"/>
 					</div>
+					(Anzahl Filme nach Filter: {{availableMoviesNumber()}})
 				</div>
 			</div>
 		</div>
-	</div>
-	(Anzahl Filme nach Filter: {{availableMoviesNumber()}})
-	<button class="btn btn-success btn-lg btn-block" ng-click="startGame()">Spiel starten</button>
-</div>
-<div ng-if="gameStatus == 2">
-	<br/>
-	<div class="alert alert-info">
-		<span class="glyphicon glyphicon-info-sign"></span> Nicht mehr genügend Filme übrig.
-	</div>
-	<button class="btn btn-success btn-lg btn-block" ng-click="resetStack()">Neues Spiel</button>
-
-	<hr/>
-
-	<div class="results">
-		<h2>Zusammenfassung</h2>
-		<div ng-include="'templates/page/movies/results.html'"></div>
 	</div>
 </div>

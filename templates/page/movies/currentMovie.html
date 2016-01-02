@@ -1,4 +1,4 @@
-<div ng-if="currentMovie && gameStatus == 1">
+<div ng-if="currentMovie && gameState == 1">
 	<h3>Film</h3>
 	<div ng-if="availableMoviesNumber() > 0">
 		<div ng-if="currentMovie">
@@ -31,14 +31,5 @@
 			<button class="btn btn-danger btn-lg btn-block" ng-click="endTurn()">Nächstes Team</button>
 		</div>
 		<br/>
-	</div>
-</div>
-<div class="" ng-if="currentTeam && gameStatus == 1">
-	<div class="teamReadyCheck" ng-if="!currentMovie">
-		<button class="btn btn-success btn-lg btn-block" ng-click="teamReady()">{{currentTeam.name}} ist dran! Bereit?</button>
-		<br />
-	</div>
-	<div class="jumbotron text-center time">
-		ZEIT: {{timer}}
 	</div>
 </div>
