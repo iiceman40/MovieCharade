@@ -13,30 +13,38 @@ var app = angular.module('movieCharadeApp', ['ngRoute']);
  */
 // List
 app.controller('GameController', function ($scope, $filter, $location, MoviesDataService) {
+	// SETTINGS
 	$scope.settings = {
 		time: 60,
 		maxDiscards: 1
 	};
-
-	$scope.currentMovie = null;
+	// TEAMS
 	$scope.teams = [];
 	$scope.currentTeam = null;
+	// GAME STATE
+	// 0 - not started
+	// 1 - game in progress
+	// 2 - game finished
+	$scope.gameState = 0;
+	// TURN ACTIONS
+	$scope.currentMovie = null;
 	$scope.timerTimeout = null;
 	$scope.discardsUsed = 0;
-	$scope.gameState = 0; // 0 - not started // 1 - game in progress // 2 - game finished
-
-	// filter
+	// TURN STATE
+	// 0 - waiting for team ready
+	// 1 - team is ready, movie is drawn
+	$scope.turnState = 0;
+	// FILTER
 	$scope.filter = {
 		minYear: 1900,
 		maxYear: 2100
 	};
-
-	// movie lists
+	// MOVIE LISTS
 	$scope.movies = null;
 	$scope.discardedMovies = [];
 	$scope.successfullyGuessedMovies = [];
 
-	// init teams and settings from local storage
+	// init teams, settings and filter from local storage
 	if (typeof(Storage) !== "undefined") {
 		var teams = angular.fromJson(localStorage.getItem("teams"));
 		if (teams) {
@@ -52,9 +60,23 @@ app.controller('GameController', function ($scope, $filter, $location, MoviesDat
 		if (localStorage.getItem("settings")) {
 			$scope.settings = angular.fromJson(localStorage.getItem("settings"));
 		}
+		if (localStorage.getItem("filter")) {
+			$scope.filter = angular.fromJson(localStorage.getItem("filter"));
+		}
 	} else {
 		// Sorry! No Web Storage support..
 	}
+
+	// WATCHER
+	$scope.$watch('settings', function(){
+		$scope.saveSettings();
+	}, true);
+	$scope.$watch('teams', function(){
+		$scope.saveTeams();
+	}, true);
+	$scope.$watch('filter', function(){
+		$scope.saveFilter();
+	}, true);
 
 	$scope.timer = $scope.settings.time.toFixed(2);
 
@@ -72,7 +94,9 @@ app.controller('GameController', function ($scope, $filter, $location, MoviesDat
 	$scope.availableMoviesNumber = function () {
 		var count = $scope.getFilteredMovies().length - $scope.getFilteredDiscardedMovies().length - $scope.getFilteredSuccessfullyGuessedMovies().length;
 		if (count - ($scope.teams.length - ($scope.teams.indexOf($scope.currentTeam) + 1)) <= 0) {
-			$scope.gameState = 2;
+			if ($scope.gameState == 1) {
+				$scope.gameState = 2;
+			}
 		}
 		return count;
 	};
@@ -89,6 +113,7 @@ app.controller('GameController', function ($scope, $filter, $location, MoviesDat
 		}
 		$scope.currentMovie = null;
 		$scope.currentTeam.points++;
+		$scope.turnState = 0;
 		$scope.currentTeam = $scope.nextTeam();
 	};
 
@@ -101,7 +126,13 @@ app.controller('GameController', function ($scope, $filter, $location, MoviesDat
 	};
 
 	$scope.teamReady = function () {
+		$scope.turnState = 1;
+		$scope.timer = $scope.settings.time.toFixed(2);
 		$scope.getRandomMovie();
+	};
+
+	$scope.startExplaining = function () {
+		$scope.turnState = 2;
 		$scope.startTimer();
 	};
 
@@ -137,16 +168,10 @@ app.controller('GameController', function ($scope, $filter, $location, MoviesDat
 			points: 0,
 			edit: false
 		});
-		if (typeof(Storage) !== "undefined") {
-			localStorage.setItem("teams", JSON.stringify($scope.teams));
-		}
 	};
 
 	$scope.removeTeam = function (team) {
 		$scope.teams.splice($scope.teams.indexOf(team), 1);
-		if (typeof(Storage) !== "undefined") {
-			localStorage.setItem("teams", JSON.stringify($scope.teams));
-		}
 	};
 
 	$scope.teamIsActive = function (team) {
@@ -155,20 +180,34 @@ app.controller('GameController', function ($scope, $filter, $location, MoviesDat
 
 	$scope.toggleEditTeam = function (team) {
 		team.edit = !team.edit;
-		if (typeof(Storage) !== "undefined") {
-			localStorage.setItem("teams", JSON.stringify($scope.teams));
-		}
 	};
 
 	$scope.startGame = function () {
 		if ($scope.teams.length) {
 			$scope.currentTeam = $scope.teams[0];
 			$scope.timer = $scope.settings.time.toFixed(2);
-			if (typeof(Storage) !== "undefined") {
-				localStorage.setItem("teams", JSON.stringify($scope.teams));
-				localStorage.setItem("settings", JSON.stringify($scope.settings));
-			}
 			$scope.gameState = 1;
+		}
+	};
+
+	$scope.saveTeams = function(){
+		console.log('saving teams');
+		if (typeof(Storage) !== "undefined") {
+			localStorage.setItem("teams", JSON.stringify($scope.teams));
+		}
+	};
+
+	$scope.saveSettings = function(){
+		console.log('saving settings');
+		if (typeof(Storage) !== "undefined") {
+			localStorage.setItem("settings", JSON.stringify($scope.settings));
+		}
+	};
+
+	$scope.saveFilter = function(){
+		console.log('saving filter');
+		if (typeof(Storage) !== "undefined") {
+			localStorage.setItem("filter", JSON.stringify($scope.filter));
 		}
 	};
 
