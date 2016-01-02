@@ -1,7 +1,1252 @@
 [
-  {"title": "Die Verurteilten", "year": 1994, "genres": []},
-  {"title": "Der Pate", "year": 1972, "genres": []},
-  {"title": "Der Pate 2", "year": 1974, "genres": []},
-  {"title": "The Dark Knight", "year": 2008, "genres": ["Action"]},
-  {"title": "Die zwölf Geschworenen", "year": 1957, "genres": []}
+  {
+    "title": "Die Verurteilten",
+    "year": 1994,
+    "genres": []
+  },
+  {
+    "title": "Der Pate",
+    "year": 1972,
+    "genres": []
+  },
+  {
+    "title": "Der Pate 2",
+    "year": 1974,
+    "genres": []
+  },
+  {
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genres": []
+  },
+  {
+    "title": "Die zwölf Geschworenen",
+    "year": 1957,
+    "genres": []
+  },
+  {
+    "title": "Schindlers Liste",
+    "year": 1993,
+    "genres": []
+  },
+  {
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "genres": []
+  },
+  {
+    "title": "Zwei glorreiche Halunken",
+    "year": 1966,
+    "genres": []
+  },
+  {
+    "title": "Der Herr der Ringe - Die Rückkehr des Königs",
+    "year": 2003,
+    "genres": []
+  },
+  {
+    "title": "Fight Club",
+    "year": 1999,
+    "genres": []
+  },
+  {
+    "title": "Der Herr der Ringe - Die Gefährten",
+    "year": 2001,
+    "genres": []
+  },
+  {
+    "title": "Das Imperium schlägt zurück",
+    "year": 1980,
+    "genres": []
+  },
+  {
+    "title": "Forrest Gump",
+    "year": 1994,
+    "genres": []
+  },
+  {
+    "title": "Inception",
+    "year": 2010,
+    "genres": []
+  },
+  {
+    "title": "Einer flog über das Kuckucksnest",
+    "year": 1975,
+    "genres": []
+  },
+  {
+    "title": "Der Herr der Ringe - Die zwei Türme",
+    "year": 2002,
+    "genres": []
+  },
+  {
+    "title": "Matrix",
+    "year": 1999,
+    "genres": []
+  },
+  {
+    "title": "GoodFellas - Drei Jahrzehnte in der Mafia",
+    "year": 1990,
+    "genres": []
+  },
+  {
+    "title": "Krieg der Sterne",
+    "year": 1977,
+    "genres": []
+  },
+  {
+    "title": "Die sieben Samurai",
+    "year": 1954,
+    "genres": []
+  },
+  {
+    "title": "City of God",
+    "year": 2002,
+    "genres": []
+  },
+  {
+    "title": "Sieben",
+    "year": 1995,
+    "genres": []
+  },
+  {
+    "title": "Das Schweigen der Lämmer",
+    "year": 1991,
+    "genres": []
+  },
+  {
+    "title": "Die üblichen Verdächtigen",
+    "year": 1995,
+    "genres": []
+  },
+  {
+    "title": "Ist das Leben nicht schön?",
+    "year": 1946,
+    "genres": []
+  },
+  {
+    "title": "Das Leben ist schön",
+    "year": 1997,
+    "genres": []
+  },
+  {
+    "title": "Léon - Der Profi",
+    "year": 1994,
+    "genres": []
+  },
+  {
+    "title": "Spiel mir das Lied vom Tod",
+    "year": 1968,
+    "genres": []
+  },
+  {
+    "title": "Interstellar",
+    "year": 2014,
+    "genres": []
+  },
+  {
+    "title": "Chihiros Reise ins Zauberland",
+    "year": 2001,
+    "genres": []
+  },
+  {
+    "title": "Der Soldat James Ryan",
+    "year": 1998,
+    "genres": []
+  },
+  {
+    "title": "American History X",
+    "year": 1998,
+    "genres": []
+  },
+  {
+    "title": "Casablanca",
+    "year": 1942,
+    "genres": []
+  },
+  {
+    "title": "Lichter der Großstadt",
+    "year": 1931,
+    "genres": []
+  },
+  {
+    "title": "Psycho",
+    "year": 1960,
+    "genres": []
+  },
+  {
+    "title": "Jäger des verlorenen Schatzes",
+    "year": 1981,
+    "genres": []
+  },
+  {
+    "title": "Das Fenster zum Hof",
+    "year": 1954,
+    "genres": []
+  },
+  {
+    "title": "Ziemlich beste Freunde",
+    "year": 2011,
+    "genres": []
+  },
+  {
+    "title": "Moderne Zeiten",
+    "year": 1936,
+    "genres": []
+  },
+  {
+    "title": "Star Wars: Das Erwachen der Macht",
+    "year": 2015,
+    "genres": []
+  },
+  {
+    "title": "The Green Mile",
+    "year": 1999,
+    "genres": []
+  },
+  {
+    "title": "Terminator 2 - Tag der Abrechnung",
+    "year": 1991,
+    "genres": []
+  },
+  {
+    "title": "Der Pianist",
+    "year": 2002,
+    "genres": []
+  },
+  {
+    "title": "Whiplash",
+    "year": 2014,
+    "genres": []
+  },
+  {
+    "title": "Departed - Unter Feinden",
+    "year": 2006,
+    "genres": []
+  },
+  {
+    "title": "Zurück in die Zukunft",
+    "year": 1985,
+    "genres": []
+  },
+  {
+    "title": "Memento",
+    "year": 2000,
+    "genres": []
+  },
+  {
+    "title": "Gladiator",
+    "year": 2000,
+    "genres": []
+  },
+  {
+    "title": "Apocalypse Now",
+    "year": 1979,
+    "genres": []
+  },
+  {
+    "title": "Dr. Seltsam, oder wie ich lernte, die Bombe zu lieben",
+    "year": 1964,
+    "genres": []
+  },
+  {
+    "title": "Boulevard der Dämmerung",
+    "year": 1950,
+    "genres": []
+  },
+  {
+    "title": "Prestige - Die Meister der Magie",
+    "year": 2006,
+    "genres": []
+  },
+  {
+    "title": "Alien - Das unheimliche Wesen aus einer fremden Welt",
+    "year": 1979,
+    "genres": []
+  },
+  {
+    "title": "Der König der Löwen",
+    "year": 1994,
+    "genres": []
+  },
+  {
+    "title": "Der große Diktator",
+    "year": 1940,
+    "genres": []
+  },
+  {
+    "title": "Das Leben der Anderen",
+    "year": 2006,
+    "genres": []
+  },
+  {
+    "title": "Cinema Paradiso",
+    "year": 1988,
+    "genres": []
+  },
+  {
+    "title": "Shining",
+    "year": 1980,
+    "genres": []
+  },
+  {
+    "title": "Wege zum Ruhm",
+    "year": 1957,
+    "genres": []
+  },
+  {
+    "title": "Django Unchained",
+    "year": 2012,
+    "genres": []
+  },
+  {
+    "title": "The Dark Knight Rises",
+    "year": 2012,
+    "genres": []
+  },
+  {
+    "title": "WALL·E - Der Letzte räumt die Erde auf",
+    "year": 2008,
+    "genres": []
+  },
+  {
+    "title": "American Beauty",
+    "year": 1999,
+    "genres": []
+  },
+  {
+    "title": "Die letzten Glühwürmchen",
+    "year": 1988,
+    "genres": []
+  },
+  {
+    "title": "Aliens - Die Rückkehr",
+    "year": 1986,
+    "genres": []
+  },
+  {
+    "title": "Citizen Kane",
+    "year": 1941,
+    "genres": []
+  },
+  {
+    "title": "Der unsichtbare Dritte",
+    "year": 1959,
+    "genres": []
+  },
+  {
+    "title": "Prinzessin Mononoke",
+    "year": 1997,
+    "genres": []
+  },
+  {
+    "title": "Oldboy",
+    "year": 2003,
+    "genres": []
+  },
+  {
+    "title": "Vertigo - Aus dem Reich der Toten",
+    "year": 1958,
+    "genres": []
+  },
+  {
+    "title": "Das Boot",
+    "year": 1981,
+    "genres": []
+  },
+  {
+    "title": "Die Rückkehr der Jedi-Ritter",
+    "year": 1983,
+    "genres": []
+  },
+  {
+    "title": "Es war einmal in Amerika",
+    "year": 1984,
+    "genres": []
+  },
+  {
+    "title": "M - Eine Stadt sucht einen Mörder",
+    "year": 1931,
+    "genres": []
+  },
+  {
+    "title": "Die fabelhafte Welt der Amelie",
+    "year": 2001,
+    "genres": []
+  },
+  {
+    "title": "Zeugin der Anklage",
+    "year": 1957,
+    "genres": []
+  },
+  {
+    "title": "Reservoir Dogs - Wilde Hunde",
+    "year": 1992,
+    "genres": []
+  },
+  {
+    "title": "Braveheart",
+    "year": 1995,
+    "genres": []
+  },
+  {
+    "title": "Uhrwerk Orange",
+    "year": 1971,
+    "genres": []
+  },
+  {
+    "title": "Toy Story 3",
+    "year": 2010,
+    "genres": []
+  },
+  {
+    "title": "Requiem for a Dream",
+    "year": 2000,
+    "genres": []
+  },
+  {
+    "title": "Taxi Driver",
+    "year": 1976,
+    "genres": []
+  },
+  {
+    "title": "Frau ohne Gewissen",
+    "year": 1944,
+    "genres": []
+  },
+  {
+    "title": "Wer die Nachtigall stört",
+    "year": 1962,
+    "genres": []
+  },
+  {
+    "title": "Lawrence von Arabien",
+    "year": 1962,
+    "genres": []
+  },
+  {
+    "title": "Vergiss mein nicht",
+    "year": 2004,
+    "genres": []
+  },
+  {
+    "title": "Full Metal Jacket",
+    "year": 1987,
+    "genres": []
+  },
+  {
+    "title": "Amadeus",
+    "year": 1984,
+    "genres": []
+  },
+  {
+    "title": "Der Clou",
+    "year": 1973,
+    "genres": []
+  },
+  {
+    "title": "Du sollst mein Glücksstern sein",
+    "year": 1952,
+    "genres": []
+  },
+  {
+    "title": "Fahrraddiebe",
+    "year": 1948,
+    "genres": []
+  },
+  {
+    "title": "2001: Odyssee im Weltraum",
+    "year": 1968,
+    "genres": []
+  },
+  {
+    "title": "Alles steht Kopf",
+    "year": 2015,
+    "genres": []
+  },
+  {
+    "title": "Snatch - Schweine und Diamanten",
+    "year": 2000,
+    "genres": []
+  },
+  {
+    "title": "Die Ritter der Kokosnuß",
+    "year": 1975,
+    "genres": []
+  },
+  {
+    "title": "Der Vagabund und das Kind",
+    "year": 1921,
+    "genres": []
+  },
+  {
+    "title": "Toy Story",
+    "year": 1995,
+    "genres": []
+  },
+  {
+    "title": "Für ein paar Dollar mehr",
+    "year": 1965,
+    "genres": []
+  },
+  {
+    "title": "L.A. Confidential",
+    "year": 1997,
+    "genres": []
+  },
+  {
+    "title": "Rashomon",
+    "year": 1950,
+    "genres": []
+  },
+  {
+    "title": "Inglourious Basterds",
+    "year": 2009,
+    "genres": []
+  },
+  {
+    "title": "Das Appartement",
+    "year": 1960,
+    "genres": []
+  },
+  {
+    "title": "Alles über Eva",
+    "year": 1950,
+    "genres": []
+  },
+  {
+    "title": "Indiana Jones und der letzte Kreuzzug",
+    "year": 1989,
+    "genres": []
+  },
+  {
+    "title": "Nader und Simin - eine Trennung",
+    "year": 2011,
+    "genres": []
+  },
+  {
+    "title": "Metropolis",
+    "year": 1927,
+    "genres": []
+  },
+  {
+    "title": "Der Schatz der Sierra Madre",
+    "year": 1948,
+    "genres": []
+  },
+  {
+    "title": "Yojimbo - Der Leibwächter",
+    "year": 1961,
+    "genres": []
+  },
+  {
+    "title": "Scarface",
+    "year": 1983,
+    "genres": []
+  },
+  {
+    "title": "Manche mögen's heiß",
+    "year": 1959,
+    "genres": []
+  },
+  {
+    "title": "Batman Begins",
+    "year": 2005,
+    "genres": []
+  },
+  {
+    "title": "Der dritte Mann",
+    "year": 1949,
+    "genres": []
+  },
+  {
+    "title": "Erbarmungslos",
+    "year": 1992,
+    "genres": []
+  },
+  {
+    "title": "3 Idiots",
+    "year": 2009,
+    "genres": []
+  },
+  {
+    "title": "Oben",
+    "year": 2009,
+    "genres": []
+  },
+  {
+    "title": "Die Jagd",
+    "year": 2012,
+    "genres": []
+  },
+  {
+    "title": "Wie ein wilder Stier",
+    "year": 1980,
+    "genres": []
+  },
+  {
+    "title": "Der Untergang",
+    "year": 2004,
+    "genres": []
+  },
+  {
+    "title": "Good Will Hunting - Der gute Will Hunting",
+    "year": 1997,
+    "genres": []
+  },
+  {
+    "title": "Stirb langsam",
+    "year": 1988,
+    "genres": []
+  },
+  {
+    "title": "Gesprengte Ketten",
+    "year": 1963,
+    "genres": []
+  },
+  {
+    "title": "Chinatown",
+    "year": 1974,
+    "genres": []
+  },
+  {
+    "title": "Sholay",
+    "year": 1975,
+    "genres": []
+  },
+  {
+    "title": "Heat",
+    "year": 1995,
+    "genres": []
+  },
+  {
+    "title": "Sonnenaufgang",
+    "year": 1927,
+    "genres": []
+  },
+  {
+    "title": "Die Faust im Nacken",
+    "year": 1954,
+    "genres": []
+  },
+  {
+    "title": "Pans Labyrinth",
+    "year": 2006,
+    "genres": []
+  },
+  {
+    "title": "Mr. Smith geht nach Washington",
+    "year": 1939,
+    "genres": []
+  },
+  {
+    "title": "Mein Nachbar Totoro",
+    "year": 1988,
+    "genres": []
+  },
+  {
+    "title": "Die Brücke am Kwai",
+    "year": 1957,
+    "genres": []
+  },
+  {
+    "title": "Ikiru - Einmal wirklich leben",
+    "year": 1952,
+    "genres": []
+  },
+  {
+    "title": "Ran",
+    "year": 1985,
+    "genres": []
+  },
+  {
+    "title": "Goldrausch",
+    "year": 1925,
+    "genres": []
+  },
+  {
+    "title": "Das siebente Siegel",
+    "year": 1957,
+    "genres": []
+  },
+  {
+    "title": "Der Blade Runner",
+    "year": 1982,
+    "genres": []
+  },
+  {
+    "title": "In ihren Augen",
+    "year": 2009,
+    "genres": []
+  },
+  {
+    "title": "Wilde Erdbeeren",
+    "year": 1957,
+    "genres": []
+  },
+  {
+    "title": "Bube Dame König grAS",
+    "year": 1998,
+    "genres": []
+  },
+  {
+    "title": "Der General",
+    "year": 1926,
+    "genres": []
+  },
+  {
+    "title": "Der Elefantenmensch",
+    "year": 1980,
+    "genres": []
+  },
+  {
+    "title": "Casino",
+    "year": 1995,
+    "genres": []
+  },
+  {
+    "title": "Das wandelnde Schloss",
+    "year": 2004,
+    "genres": []
+  },
+  {
+    "title": "Warrior",
+    "year": 2011,
+    "genres": []
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "year": 2013,
+    "genres": []
+  },
+  {
+    "title": "V wie Vendetta",
+    "year": 2005,
+    "genres": []
+  },
+  {
+    "title": "Gran Torino",
+    "year": 2008,
+    "genres": []
+  },
+  {
+    "title": "Das Urteil von Nürnberg",
+    "year": 1961,
+    "genres": []
+  },
+  {
+    "title": "The Big Lebowski",
+    "year": 1998,
+    "genres": []
+  },
+  {
+    "title": "A Beautiful Mind - Genie und Wahnsinn",
+    "year": 2001,
+    "genres": []
+  },
+  {
+    "title": "Rebecca",
+    "year": 1940,
+    "genres": []
+  },
+  {
+    "title": "Die durch die Hölle gehen",
+    "year": 1978,
+    "genres": []
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "genres": []
+  },
+  {
+    "title": "Drachenzähmen leicht gemacht",
+    "year": 2010,
+    "genres": []
+  },
+  {
+    "title": "Der Unbeugsame",
+    "year": 1967,
+    "genres": []
+  },
+  {
+    "title": "Vom Winde verweht",
+    "year": 1939,
+    "genres": []
+  },
+  {
+    "title": "Fargo - Blutiger Schnee",
+    "year": 1996,
+    "genres": []
+  },
+  {
+    "title": "Trainspotting - Neue Helden",
+    "year": 1996,
+    "genres": []
+  },
+  {
+    "title": "Bei Anruf Mord",
+    "year": 1954,
+    "genres": []
+  },
+  {
+    "title": "Die Frau die singt - Incendies",
+    "year": 2010,
+    "genres": []
+  },
+  {
+    "title": "Sixth Sense",
+    "year": 1999,
+    "genres": []
+  },
+  {
+    "title": "Into the Wild",
+    "year": 2007,
+    "genres": []
+  },
+  {
+    "title": "Es geschah in einer Nacht",
+    "year": 1934,
+    "genres": []
+  },
+  {
+    "title": "Findet Nemo",
+    "year": 2003,
+    "genres": []
+  },
+  {
+    "title": "Gone Girl - Das perfekte Opfer",
+    "year": 2014,
+    "genres": []
+  },
+  {
+    "title": "No Country for Old Men",
+    "year": 2007,
+    "genres": []
+  },
+  {
+    "title": "Das Ding aus einer anderen Welt",
+    "year": 1982,
+    "genres": []
+  },
+  {
+    "title": "Mary & Max, oder - Schrumpfen Schafe, wenn es regnet",
+    "year": 2009,
+    "genres": []
+  },
+  {
+    "title": "Rush - Alles für den Sieg",
+    "year": 2013,
+    "genres": []
+  },
+  {
+    "title": "Die Spur des Falken",
+    "year": 1941,
+    "genres": []
+  },
+  {
+    "title": "Kill Bill: Vol. 1",
+    "year": 2003,
+    "genres": []
+  },
+  {
+    "title": "Das Leben des Brian",
+    "year": 1979,
+    "genres": []
+  },
+  {
+    "title": "Lohn der Angst",
+    "year": 1953,
+    "genres": []
+  },
+  {
+    "title": "Hotel Ruanda",
+    "year": 2004,
+    "genres": []
+  },
+  {
+    "title": "Platoon",
+    "year": 1986,
+    "genres": []
+  },
+  {
+    "title": "Der Marsianer - Rettet Mark Watney",
+    "year": 2015,
+    "genres": []
+  },
+  {
+    "title": "There Will Be Blood",
+    "year": 2007,
+    "genres": []
+  },
+  {
+    "title": "Butch Cassidy und Sundance Kid",
+    "year": 1969,
+    "genres": []
+  },
+  {
+    "title": "Network",
+    "year": 1976,
+    "genres": []
+  },
+  {
+    "title": "Sie küßten und sie schlugen ihn",
+    "year": 1959,
+    "genres": []
+  },
+  {
+    "title": "Persona",
+    "year": 1966,
+    "genres": []
+  },
+  {
+    "title": "Stand by Me - Das Geheimnis eines Sommers",
+    "year": 1986,
+    "genres": []
+  },
+  {
+    "title": "Im Zeichen des Bösen",
+    "year": 1958,
+    "genres": []
+  },
+  {
+    "title": "12 Years a Slave",
+    "year": 2013,
+    "genres": []
+  },
+  {
+    "title": "Die Braut des Prinzen",
+    "year": 1987,
+    "genres": []
+  },
+  {
+    "title": "Grand Budapest Hotel",
+    "year": 2014,
+    "genres": []
+  },
+  {
+    "title": "Amores perros",
+    "year": 2000,
+    "genres": []
+  },
+  {
+    "title": "Im Namen des Vaters",
+    "year": 1993,
+    "genres": []
+  },
+  {
+    "title": "Million Dollar Baby",
+    "year": 2004,
+    "genres": []
+  },
+  {
+    "title": "Der Stadtneurotiker",
+    "year": 1977,
+    "genres": []
+  },
+  {
+    "title": "Ben Hur",
+    "year": 1959,
+    "genres": []
+  },
+  {
+    "title": "Shutter Island",
+    "year": 2010,
+    "genres": []
+  },
+  {
+    "title": "Früchte des Zorns",
+    "year": 1940,
+    "genres": []
+  },
+  {
+    "title": "Wild Tales: Jeder dreht mal durch!",
+    "year": 2014,
+    "genres": []
+  },
+  {
+    "title": "Hachiko - Eine wunderbare Freundschaft",
+    "year": 2009,
+    "genres": []
+  },
+  {
+    "title": "Nausicaä - Prinzessin aus dem Tal der Winde",
+    "year": 1984,
+    "genres": []
+  },
+  {
+    "title": "Die Teuflischen",
+    "year": 1955,
+    "genres": []
+  },
+  {
+    "title": "Stalker",
+    "year": 1979,
+    "genres": []
+  },
+  {
+    "title": "Jurassic Park",
+    "year": 1993,
+    "genres": []
+  },
+  {
+    "title": "Gandhi",
+    "year": 1982,
+    "genres": []
+  },
+  {
+    "title": "Der Zauberer von Oz",
+    "year": 1939,
+    "genres": []
+  },
+  {
+    "title": "Das Bourne Ultimatum",
+    "year": 2007,
+    "genres": []
+  },
+  {
+    "title": "Die besten Jahre unseres Lebens",
+    "year": 1946,
+    "genres": []
+  },
+  {
+    "title": "Sin City",
+    "year": 2005,
+    "genres": []
+  },
+  {
+    "title": "Donnie Darko",
+    "year": 2001,
+    "genres": []
+  },
+  {
+    "title": "Achteinhalb",
+    "year": 1963,
+    "genres": []
+  },
+  {
+    "title": "Der Fremde im Zug",
+    "year": 1951,
+    "genres": []
+  },
+  {
+    "title": "Before Sunrise - Zwischenstopp in Wien",
+    "year": 1995,
+    "genres": []
+  },
+  {
+    "title": "12 Monkeys",
+    "year": 1995,
+    "genres": []
+  },
+  {
+    "title": "Terminator",
+    "year": 1984,
+    "genres": []
+  },
+  {
+    "title": "Die Truman Show",
+    "year": 1998,
+    "genres": []
+  },
+  {
+    "title": "...und täglich grüßt das Murmeltier",
+    "year": 1993,
+    "genres": []
+  },
+  {
+    "title": "Die Monster AG",
+    "year": 2001,
+    "genres": []
+  },
+  {
+    "title": "Memories of Murder",
+    "year": 2003,
+    "genres": []
+  },
+  {
+    "title": "Schlacht um Algier",
+    "year": 1966,
+    "genres": []
+  },
+  {
+    "title": "Der weiße Hai",
+    "year": 1975,
+    "genres": []
+  },
+  {
+    "title": "Infernal Affairs - Die achte Hölle",
+    "year": 2002,
+    "genres": []
+  },
+  {
+    "title": "Rocky",
+    "year": 1976,
+    "genres": []
+  },
+  {
+    "title": "Marvel's The Avengers",
+    "year": 2012,
+    "genres": []
+  },
+  {
+    "title": "Harry Potter und die Heiligtümer des Todes - Teil 2",
+    "year": 2011,
+    "genres": []
+  },
+  {
+    "title": "Hundstage",
+    "year": 1975,
+    "genres": []
+  },
+  {
+    "title": "Barry Lyndon",
+    "year": 1975,
+    "genres": []
+  },
+  {
+    "title": "Fanny und Alexander",
+    "year": 1982,
+    "genres": []
+  },
+  {
+    "title": "Hass",
+    "year": 1995,
+    "genres": []
+  },
+  {
+    "title": "Das Schloß im Spinnwebwald",
+    "year": 1957,
+    "genres": []
+  },
+  {
+    "title": "Guardians of the Galaxy",
+    "year": 2014,
+    "genres": []
+  },
+  {
+    "title": "Ip Man",
+    "year": 2008,
+    "genres": []
+  },
+  {
+    "title": "The Imitation Game - Ein streng geheimes Leben",
+    "year": 2014,
+    "genres": []
+  },
+  {
+    "title": "The King's Speech - Die Rede des Königs",
+    "year": 2010,
+    "genres": []
+  },
+  {
+    "title": "Für eine Handvoll Dollar",
+    "year": 1964,
+    "genres": []
+  },
+  {
+    "title": "Zwölf Uhr mittags",
+    "year": 1952,
+    "genres": []
+  },
+  {
+    "title": "Prisoners",
+    "year": 2013,
+    "genres": []
+  },
+  {
+    "title": "Fluch der Karibik",
+    "year": 2003,
+    "genres": []
+  },
+  {
+    "title": "Das Schloss im Himmel",
+    "year": 1986,
+    "genres": []
+  },
+  {
+    "title": "The Help",
+    "year": 2011,
+    "genres": []
+  },
+  {
+    "title": "Berüchtigt",
+    "year": 1946,
+    "genres": []
+  },
+  {
+    "title": "Ein Herz und eine Krone",
+    "year": 1953,
+    "genres": []
+  },
+  {
+    "title": "Creed - Rocky's Legacy",
+    "year": 2015,
+    "genres": []
+  },
+  {
+    "title": "Wer hat Angst vor Virginia Woolf?",
+    "year": 1966,
+    "genres": []
+  },
+  {
+    "title": "Papillon",
+    "year": 1973,
+    "genres": []
+  },
+  {
+    "title": "Frühling, Sommer, Herbst, Winter... und Frühling",
+    "year": 2003,
+    "genres": []
+  },
+  {
+    "title": "Die Schöne und das Biest",
+    "year": 1991,
+    "genres": []
+  },
+  {
+    "title": "Die Nacht des Jägers",
+    "year": 1955,
+    "genres": []
+  },
+  {
+    "title": "Anatomie eines Mordes",
+    "year": 1959,
+    "genres": []
+  },
+  {
+    "title": "Before Sunset",
+    "year": 2004,
+    "genres": []
+  },
+  {
+    "title": "Catch Me If You Can",
+    "year": 2002,
+    "genres": []
+  },
+  {
+    "title": "Drei Farben - Rot",
+    "year": 1994,
+    "genres": []
+  },
+  {
+    "title": "Das Lied der Straße",
+    "year": 1954,
+    "genres": []
+  },
+  {
+    "title": "Solaris",
+    "year": 1972,
+    "genres": []
+  },
+  {
+    "title": "Die Rechnung ging nicht auf",
+    "year": 1956,
+    "genres": []
+  },
+  {
+    "title": "In the Mood for Love - Der Klang der Liebe",
+    "year": 2000,
+    "genres": []
+  }
 ]
