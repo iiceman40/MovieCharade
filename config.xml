@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+        xmlns:gap="http://phonegap.com/ns/1.0"
+        id="com.iice.moviecharade"
+        versionCode="010"
+        version="0.1.0">
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Movie Charade</name>
+
+    <description>
+        A Game of Charade with Movies only.
+    </description>
+
+    <author href="https://build.phonegap.com" email="support@phonegap.com">
+        Sascha Siemer
+    </author>
+
+</widget>
+<plugin name="nl.x-services.plugins.insomnia" spec="3.0" source="pgb" />

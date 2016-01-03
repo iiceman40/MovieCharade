@@ -1,5 +1,8 @@
 var app = angular.module('movieCharadeApp', ['ngRoute']);
 
+// TODO settings for max points
+// TODO cancel game button
+
 // TODO styling
 // TODO separate into distinct controllers for team, game, movies, and info??
 // TODO add services for settings, team and game data
