@@ -17,5 +17,6 @@
         Sascha Siemer
     </author>
 
+    <plugin name="nl.x-services.plugins.insomnia" spec="3.0" source="pgb" />
+
 </widget>
-<plugin name="nl.x-services.plugins.insomnia" spec="3.0" source="pgb" />
