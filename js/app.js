@@ -1,5 +1,9 @@
 var app = angular.module('movieCharadeApp', ['ngRoute']);
 
+if(window.plugins && window.plugins.insomnia) {
+	window.plugins.insomnia.keepAwake();
+}
+
 // TODO settings for max points
 // TODO cancel game button
 
