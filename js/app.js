@@ -1,6 +1,8 @@
 var app = angular.module('movieCharadeApp', ['ngRoute']);
 
-if(window.plugins && window.plugins.insomnia) {
+document.addEventListener('deviceready', onDeviceReady, false);
+
+function onDeviceReady() {
 	window.plugins.insomnia.keepAwake();
 }
 
