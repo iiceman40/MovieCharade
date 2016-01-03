@@ -2,6 +2,12 @@ var app = angular.module('movieCharadeApp', ['ngRoute']);
 
 document.addEventListener('deviceready', onDeviceReady, false);
 
+window.onerror = function(a,b,c) {
+	alert(a);
+	alert(b);
+	alert(c);
+};
+
 function onDeviceReady() {
 	window.plugins.insomnia.keepAwake();
 }
