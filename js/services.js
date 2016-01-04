@@ -23,8 +23,10 @@ app.factory('MoviesDataService', function ($http) {
 						var thisMovieInfo = $(this).find('td.titleColumn');
 						var title = thisMovieInfo.find('> a').text();
 						var year = parseInt(thisMovieInfo.find('span.secondaryInfo').text().replace('(', '').replace(')', ''));
+						var imdbId = $(this).find('td.ratingColumn .seen-widget').data('titleid');
 						if(title && !isNaN(year)) {
 							movies.push({
+								imdbId: imdbId,
 								title: title,
 								year: year,
 								genres: []

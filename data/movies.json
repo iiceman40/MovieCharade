@@ -1,1252 +1,2865 @@
 [
   {
-    "title": "Die Verurteilten",
-    "year": 1994,
-    "genres": []
+    "imdbId": "tt3899796",
+    "title": "Sharknado 3: Oh Hell No!",
+    "year": "2015",
+    "genres": [
+      "Horror",
+      " Sci-Fi"
+    ],
+    "$$hashKey": "object:7004",
+    "rating": "4.4"
   },
   {
-    "title": "Der Pate",
-    "year": 1972,
-    "genres": []
+    "imdbId": "tt0111161",
+    "title": "The Shawshank Redemption",
+    "year": "1994",
+    "genres": [
+      "Crime",
+      " Drama"
+    ],
+    "$$hashKey": "object:5",
+    "rating": "9.3"
   },
   {
-    "title": "Der Pate 2",
-    "year": 1974,
-    "genres": []
+    "imdbId": "tt0068646",
+    "title": "The Godfather",
+    "year": "1972",
+    "genres": [
+      "Crime",
+      " Drama"
+    ],
+    "$$hashKey": "object:6",
+    "rating": "9.2"
   },
   {
+    "imdbId": "tt0071562",
+    "title": "The Godfather: Part II",
+    "year": "1974",
+    "genres": [
+      "Crime",
+      " Drama"
+    ],
+    "$$hashKey": "object:7",
+    "rating": "9.0"
+  },
+  {
+    "imdbId": "tt0468569",
     "title": "The Dark Knight",
-    "year": 2008,
-    "genres": []
+    "year": "2008",
+    "genres": [
+      "Action",
+      " Crime",
+      " Drama"
+    ],
+    "$$hashKey": "object:8",
+    "rating": "9.0"
   },
   {
-    "title": "Die zwölf Geschworenen",
-    "year": 1957,
-    "genres": []
+    "imdbId": "tt0050083",
+    "title": "12 Angry Men",
+    "year": "1957",
+    "genres": [
+      "Crime",
+      " Drama"
+    ],
+    "$$hashKey": "object:9",
+    "rating": "8.9"
   },
   {
-    "title": "Schindlers Liste",
-    "year": 1993,
-    "genres": []
+    "imdbId": "tt0108052",
+    "title": "Schindler's List",
+    "year": "1993",
+    "genres": [
+      "Biography",
+      " Drama",
+      " History"
+    ],
+    "$$hashKey": "object:10",
+    "rating": "8.9"
   },
   {
+    "imdbId": "tt0110912",
     "title": "Pulp Fiction",
-    "year": 1994,
-    "genres": []
+    "year": "1994",
+    "genres": [
+      "Crime",
+      " Drama"
+    ],
+    "$$hashKey": "object:11",
+    "rating": "8.9"
   },
   {
-    "title": "Zwei glorreiche Halunken",
-    "year": 1966,
-    "genres": []
+    "imdbId": "tt0060196",
+    "title": "The Good, the Bad and the Ugly",
+    "year": "1966",
+    "genres": [
+      "Western"
+    ],
+    "$$hashKey": "object:12",
+    "rating": "8.9"
   },
   {
-    "title": "Der Herr der Ringe - Die Rückkehr des Königs",
-    "year": 2003,
-    "genres": []
+    "imdbId": "tt0167260",
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": "2003",
+    "genres": [
+      "Adventure",
+      " Drama",
+      " Fantasy"
+    ],
+    "$$hashKey": "object:13",
+    "rating": "8.9"
   },
   {
+    "imdbId": "tt0137523",
     "title": "Fight Club",
-    "year": 1999,
-    "genres": []
+    "year": "1999",
+    "genres": [
+      "Drama"
+    ],
+    "$$hashKey": "object:14",
+    "rating": "8.9"
   },
   {
-    "title": "Der Herr der Ringe - Die Gefährten",
-    "year": 2001,
-    "genres": []
+    "imdbId": "tt0120737",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": "2001",
+    "genres": [
+      "Adventure",
+      " Drama",
+      " Fantasy"
+    ],
+    "$$hashKey": "object:15",
+    "rating": "8.8"
   },
   {
-    "title": "Das Imperium schlägt zurück",
-    "year": 1980,
-    "genres": []
+    "imdbId": "tt0080684",
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "year": "1980",
+    "genres": [
+      "Action",
+      " Adventure",
+      " Fantasy"
+    ],
+    "$$hashKey": "object:16",
+    "rating": "8.8"
   },
   {
+    "imdbId": "tt0109830",
     "title": "Forrest Gump",
-    "year": 1994,
-    "genres": []
+    "year": "1994",
+    "genres": [
+      "Drama",
+      " Romance"
+    ],
+    "$$hashKey": "object:17",
+    "rating": "8.8"
   },
   {
+    "imdbId": "tt1375666",
     "title": "Inception",
-    "year": 2010,
-    "genres": []
+    "year": "2010",
+    "genres": [
+      "Action",
+      " Mystery",
+      " Sci-Fi"
+    ],
+    "$$hashKey": "object:18",
+    "rating": "8.8"
   },
   {
-    "title": "Einer flog über das Kuckucksnest",
-    "year": 1975,
-    "genres": []
+    "imdbId": "tt0073486",
+    "title": "One Flew Over the Cuckoo's Nest",
+    "year": "1975",
+    "genres": [
+      "Drama"
+    ],
+    "$$hashKey": "object:19",
+    "rating": "8.7"
   },
   {
-    "title": "Der Herr der Ringe - Die zwei Türme",
-    "year": 2002,
-    "genres": []
+    "imdbId": "tt0167261",
+    "title": "The Lord of the Rings: The Two Towers",
+    "year": "2002",
+    "genres": [
+      "Adventure",
+      " Drama",
+      " Fantasy"
+    ],
+    "$$hashKey": "object:20",
+    "rating": "8.7"
   },
   {
-    "title": "Matrix",
-    "year": 1999,
-    "genres": []
+    "imdbId": "tt0133093",
+    "title": "The Matrix",
+    "year": "1999",
+    "genres": [
+      "Action",
+      " Sci-Fi"
+    ],
+    "$$hashKey": "object:21",
+    "rating": "8.7"
   },
   {
-    "title": "GoodFellas - Drei Jahrzehnte in der Mafia",
-    "year": 1990,
-    "genres": []
+    "imdbId": "tt0099685",
+    "title": "Goodfellas",
+    "year": "1990",
+    "genres": [
+      "Biography",
+      " Crime",
+      " Drama"
+    ],
+    "$$hashKey": "object:22",
+    "rating": "8.7"
   },
   {
-    "title": "Krieg der Sterne",
-    "year": 1977,
-    "genres": []
+    "imdbId": "tt0076759",
+    "title": "Star Wars: Episode IV - A New Hope",
+    "year": "1977",
+    "genres": [
+      "Action",
+      " Adventure",
+      " Fantasy"
+    ],
+    "$$hashKey": "object:23",
+    "rating": "8.7"
   },
   {
-    "title": "Die sieben Samurai",
-    "year": 1954,
-    "genres": []
+    "imdbId": "tt0047478",
+    "title": "Seven Samurai",
+    "year": "1954",
+    "genres": [
+      "Drama"
+    ],
+    "$$hashKey": "object:24",
+    "rating": "8.7"
   },
   {
+    "imdbId": "tt0317248",
     "title": "City of God",
-    "year": 2002,
-    "genres": []
+    "year": "2002",
+    "genres": [
+      "Crime",
+      " Drama"
+    ],
+    "$$hashKey": "object:25",
+    "rating": "8.7"
   },
   {
-    "title": "Sieben",
-    "year": 1995,
-    "genres": []
+    "imdbId": "tt0114369",
+    "title": "Se7en",
+    "year": "1995",
+    "genres": [
+      "Crime",
+      " Drama",
+      " Mystery"
+    ],
+    "$$hashKey": "object:26",
+    "rating": "8.6"
   },
   {
-    "title": "Das Schweigen der Lämmer",
-    "year": 1991,
-    "genres": []
+    "imdbId": "tt0102926",
+    "title": "The Silence of the Lambs",
+    "year": "1991",
+    "genres": [
+      "Crime",
+      " Drama",
+      " Thriller"
+    ],
+    "$$hashKey": "object:27",
+    "rating": "8.6"
   },
   {
-    "title": "Die üblichen Verdächtigen",
-    "year": 1995,
-    "genres": []
+    "imdbId": "tt0114814",
+    "title": "The Usual Suspects",
+    "year": "1995",
+    "genres": [
+      "Crime",
+      " Drama",
+      " Thriller"
+    ],
+    "$$hashKey": "object:28",
+    "rating": "8.6"
   },
   {
-    "title": "Ist das Leben nicht schön?",
-    "year": 1946,
-    "genres": []
+    "imdbId": "tt0038650",
+    "title": "It's a Wonderful Life",
+    "year": "1946",
+    "genres": [
+      "Drama",
+      " Family",
+      " Fantasy"
+    ],
+    "$$hashKey": "object:29",
+    "rating": "8.6"
   },
   {
-    "title": "Das Leben ist schön",
-    "year": 1997,
-    "genres": []
+    "imdbId": "tt0118799",
+    "title": "Life Is Beautiful",
+    "year": "1997",
+    "genres": [
+      "Comedy",
+      " Drama",
+      " Romance"
+    ],
+    "$$hashKey": "object:30",
+    "rating": "8.6"
   },
   {
-    "title": "Léon - Der Profi",
-    "year": 1994,
-    "genres": []
+    "imdbId": "tt0110413",
+    "title": "Léon: The Professional",
+    "year": "1994",
+    "genres": [
+      "Crime",
+      " Drama",
+      " Thriller"
+    ],
+    "$$hashKey": "object:31",
+    "rating": "8.6"
   },
   {
-    "title": "Spiel mir das Lied vom Tod",
-    "year": 1968,
-    "genres": []
+    "imdbId": "tt0064116",
+    "title": "Once Upon a Time in the West",
+    "year": "1968",
+    "genres": [
+      "Western"
+    ],
+    "$$hashKey": "object:32",
+    "rating": "8.6"
   },
   {
+    "imdbId": "tt0816692",
     "title": "Interstellar",
-    "year": 2014,
-    "genres": []
+    "year": "2014",
+    "genres": [
+      "Adventure",
+      " Drama",
+      " Sci-Fi"
+    ],
+    "$$hashKey": "object:33",
+    "rating": "8.6"
   },
   {
-    "title": "Chihiros Reise ins Zauberland",
-    "year": 2001,
-    "genres": []
+    "imdbId": "tt0245429",
+    "title": "Spirited Away",
+    "year": "2001",
+    "genres": [
+      "Animation",
+      " Adventure",
+      " Family"
+    ],
+    "$$hashKey": "object:34",
+    "rating": "8.6"
   },
   {
-    "title": "Der Soldat James Ryan",
-    "year": 1998,
-    "genres": []
+    "imdbId": "tt0120815",
+    "title": "Saving Private Ryan",
+    "year": "1998",
+    "genres": [
+      "Action",
+      " Drama",
+      " War"
+    ],
+    "$$hashKey": "object:35",
+    "rating": "8.6"
   },
   {
+    "imdbId": "tt0120586",
     "title": "American History X",
-    "year": 1998,
-    "genres": []
+    "year": "1998",
+    "genres": [
+      "Crime",
+      " Drama"
+    ],
+    "$$hashKey": "object:36",
+    "rating": "8.6"
   },
   {
+    "imdbId": "tt0034583",
     "title": "Casablanca",
-    "year": 1942,
-    "genres": []
+    "year": "1942",
+    "genres": [
+      "Drama",
+      " Romance",
+      " War"
+    ],
+    "$$hashKey": "object:37",
+    "rating": "8.6"
   },
   {
-    "title": "Lichter der Großstadt",
-    "year": 1931,
-    "genres": []
+    "imdbId": "tt0021749",
+    "title": "City Lights",
+    "year": "1931",
+    "genres": [
+      "Comedy",
+      " Drama",
+      " Romance"
+    ],
+    "$$hashKey": "object:38",
+    "rating": "8.6"
   },
   {
+    "imdbId": "tt0054215",
     "title": "Psycho",
-    "year": 1960,
-    "genres": []
+    "year": "1960",
+    "genres": [
+      "Horror",
+      " Mystery",
+      " Thriller"
+    ],
+    "$$hashKey": "object:39",
+    "rating": "8.5"
   },
   {
-    "title": "Jäger des verlorenen Schatzes",
-    "year": 1981,
-    "genres": []
+    "imdbId": "tt0082971",
+    "title": "Raiders of the Lost Ark",
+    "year": "1981",
+    "genres": [
+      "Action",
+      " Adventure"
+    ],
+    "$$hashKey": "object:40",
+    "rating": "8.5"
   },
   {
-    "title": "Das Fenster zum Hof",
-    "year": 1954,
-    "genres": []
+    "imdbId": "tt0047396",
+    "title": "Rear Window",
+    "year": "1954",
+    "genres": [
+      "Mystery",
+      " Thriller"
+    ],
+    "$$hashKey": "object:41",
+    "rating": "8.5"
   },
   {
-    "title": "Ziemlich beste Freunde",
-    "year": 2011,
-    "genres": []
+    "imdbId": "tt1675434",
+    "title": "The Intouchables",
+    "year": "2011",
+    "genres": [
+      "Biography",
+      " Comedy",
+      " Drama"
+    ],
+    "$$hashKey": "object:42",
+    "rating": "8.6"
   },
   {
-    "title": "Moderne Zeiten",
-    "year": 1936,
-    "genres": []
+    "imdbId": "tt0027977",
+    "title": "Modern Times",
+    "year": "1936",
+    "genres": [
+      "Comedy",
+      " Drama"
+    ],
+    "$$hashKey": "object:43",
+    "rating": "8.6"
   },
   {
-    "title": "Star Wars: Das Erwachen der Macht",
-    "year": 2015,
-    "genres": []
+    "imdbId": "tt2488496",
+    "title": "Star Wars: The Force Awakens",
+    "year": "2015",
+    "genres": [
+      "Action",
+      " Adventure",
+      " Fantasy"
+    ],
+    "$$hashKey": "object:44",
+    "rating": "8.9"
   },
   {
+    "imdbId": "tt0120689",
     "title": "The Green Mile",
-    "year": 1999,
-    "genres": []
+    "year": "1999",
+    "genres": [
+      "Crime",
+      " Drama",
+      " Fantasy"
+    ],
+    "$$hashKey": "object:45",
+    "rating": "8.5"
   },
   {
-    "title": "Terminator 2 - Tag der Abrechnung",
-    "year": 1991,
-    "genres": []
+    "imdbId": "tt0103064",
+    "title": "Terminator 2: Judgment Day",
+    "year": "1991",
+    "genres": [
+      "Action",
+      " Sci-Fi"
+    ],
+    "$$hashKey": "object:46",
+    "rating": "8.5"
   },
   {
-    "title": "Der Pianist",
-    "year": 2002,
-    "genres": []
+    "imdbId": "tt0253474",
+    "title": "The Pianist",
+    "year": "2002",
+    "genres": [
+      "Biography",
+      " Drama",
+      " War"
+    ],
+    "$$hashKey": "object:47",
+    "rating": "8.5"
   },
   {
+    "imdbId": "tt2582802",
     "title": "Whiplash",
-    "year": 2014,
-    "genres": []
+    "year": "2014",
+    "genres": [
+      "Drama",
+      " Music"
+    ],
+    "$$hashKey": "object:48",
+    "rating": "8.5"
   },
   {
-    "title": "Departed - Unter Feinden",
-    "year": 2006,
-    "genres": []
+    "imdbId": "tt0407887",
+    "title": "The Departed",
+    "year": "2006",
+    "genres": [
+      "Crime",
+      " Drama",
+      " Thriller"
+    ],
+    "$$hashKey": "object:49",
+    "rating": "8.5"
   },
   {
-    "title": "Zurück in die Zukunft",
-    "year": 1985,
-    "genres": []
+    "imdbId": "tt0088763",
+    "title": "Back to the Future",
+    "year": "1985",
+    "genres": [
+      "Adventure",
+      " Comedy",
+      " Sci-Fi"
+    ],
+    "$$hashKey": "object:50",
+    "rating": "8.5"
   },
   {
+    "imdbId": "tt0209144",
     "title": "Memento",
-    "year": 2000,
-    "genres": []
+    "year": "2000",
+    "genres": [
+      "Mystery",
+      " Thriller"
+    ],
+    "$$hashKey": "object:51",
+    "rating": "8.5"
   },
   {
+    "imdbId": "tt0172495",
     "title": "Gladiator",
-    "year": 2000,
-    "genres": []
+    "year": "2000",
+    "genres": [
+      "Action",
+      " Drama"
+    ],
+    "$$hashKey": "object:52",
+    "rating": "8.5"
   },
   {
+    "imdbId": "tt0078788",
     "title": "Apocalypse Now",
-    "year": 1979,
-    "genres": []
+    "year": "1979",
+    "genres": [
+      "Drama",
+      " War"
+    ],
+    "$$hashKey": "object:53",
+    "rating": "8.5"
   },
   {
-    "title": "Dr. Seltsam, oder wie ich lernte, die Bombe zu lieben",
-    "year": 1964,
-    "genres": []
+    "imdbId": "tt0057012",
+    "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "year": "1964",
+    "genres": [
+      "Comedy",
+      " War"
+    ],
+    "$$hashKey": "object:54",
+    "rating": "8.5"
   },
   {
-    "title": "Boulevard der Dämmerung",
-    "year": 1950,
-    "genres": []
+    "imdbId": "tt0043014",
+    "title": "Sunset Blvd.",
+    "year": "1950",
+    "genres": [
+      "Drama",
+      " Film-Noir"
+    ],
+    "$$hashKey": "object:55",
+    "rating": "8.5"
   },
   {
-    "title": "Prestige - Die Meister der Magie",
-    "year": 2006,
-    "genres": []
+    "imdbId": "tt0482571",
+    "title": "The Prestige",
+    "year": "2006",
+    "genres": [
+      "Drama",
+      " Mystery",
+      " Sci-Fi"
+    ],
+    "$$hashKey": "object:56",
+    "rating": "8.5"
   },
   {
-    "title": "Alien - Das unheimliche Wesen aus einer fremden Welt",
-    "year": 1979,
-    "genres": []
+    "imdbId": "tt0078748",
+    "title": "Alien",
+    "year": "1979",
+    "genres": [
+      "Horror",
+      " Sci-Fi"
+    ],
+    "$$hashKey": "object:57",
+    "rating": "8.5"
   },
   {
-    "title": "Der König der Löwen",
-    "year": 1994,
-    "genres": []
+    "imdbId": "tt0110357",
+    "title": "The Lion King",
+    "year": "1994",
+    "genres": [
+      "Animation",
+      " Adventure",
+      " Drama"
+    ],
+    "$$hashKey": "object:58",
+    "rating": "8.5"
   },
   {
-    "title": "Der große Diktator",
-    "year": 1940,
-    "genres": []
+    "imdbId": "tt0032553",
+    "title": "The Great Dictator",
+    "year": "1940",
+    "genres": [
+      "Comedy",
+      " Drama",
+      " War"
+    ],
+    "$$hashKey": "object:59",
+    "rating": "8.5"
   },
   {
-    "title": "Das Leben der Anderen",
-    "year": 2006,
-    "genres": []
+    "imdbId": "tt0405094",
+    "title": "The Lives of Others",
+    "year": "2006",
+    "genres": [
+      "Drama",
+      " Thriller"
+    ],
+    "$$hashKey": "object:60",
+    "rating": "8.5"
   },
   {
+    "imdbId": "tt0095765",
     "title": "Cinema Paradiso",
-    "year": 1988,
-    "genres": []
+    "year": "1988",
+    "genres": [
+      "Drama"
+    ],
+    "$$hashKey": "object:61",
+    "rating": "8.5"
   },
   {
-    "title": "Shining",
-    "year": 1980,
-    "genres": []
+    "imdbId": "tt0081505",
+    "title": "The Shining",
+    "year": "1980",
+    "genres": [
+      "Drama",
+      " Horror"
+    ],
+    "$$hashKey": "object:62",
+    "rating": "8.4"
   },
   {
-    "title": "Wege zum Ruhm",
-    "year": 1957,
-    "genres": []
+    "imdbId": "tt0050825",
+    "title": "Paths of Glory",
+    "year": "1957",
+    "genres": [
+      "Drama",
+      " War"
+    ],
+    "$$hashKey": "object:63",
+    "rating": "8.5"
   },
   {
+    "imdbId": "tt1853728",
     "title": "Django Unchained",
-    "year": 2012,
-    "genres": []
+    "year": "2012",
+    "genres": [
+      "Western"
+    ],
+    "$$hashKey": "object:64",
+    "rating": "8.5"
   },
   {
+    "imdbId": "tt1345836",
     "title": "The Dark Knight Rises",
-    "year": 2012,
-    "genres": []
+    "year": "2012",
+    "genres": [
+      "Action",
+      " Thriller"
+    ],
+    "$$hashKey": "object:65",
+    "rating": "8.5"
   },
   {
-    "title": "WALL·E - Der Letzte räumt die Erde auf",
-    "year": 2008,
-    "genres": []
+    "imdbId": "tt0910970",
+    "title": "WALL·E",
+    "year": "2008",
+    "genres": [
+      "Animation",
+      " Adventure",
+      " Family"
+    ],
+    "$$hashKey": "object:66",
+    "rating": "8.4"
   },
   {
+    "imdbId": "tt0169547",
     "title": "American Beauty",
-    "year": 1999,
-    "genres": []
+    "year": "1999",
+    "genres": [
+      "Drama",
+      " Romance"
+    ],
+    "$$hashKey": "object:67",
+    "rating": "8.4"
   },
   {
-    "title": "Die letzten Glühwürmchen",
-    "year": 1988,
-    "genres": []
+    "imdbId": "tt0095327",
+    "title": "Grave of the Fireflies",
+    "year": "1988",
+    "genres": [
+      "Animation",
+      " Drama",
+      " War"
+    ],
+    "$$hashKey": "object:68",
+    "rating": "8.5"
   },
   {
-    "title": "Aliens - Die Rückkehr",
-    "year": 1986,
-    "genres": []
+    "imdbId": "tt0090605",
+    "title": "Aliens",
+    "year": "1986",
+    "genres": [
+      "Action",
+      " Horror",
+      " Sci-Fi"
+    ],
+    "$$hashKey": "object:69",
+    "rating": "8.4"
   },
   {
+    "imdbId": "tt0033467",
     "title": "Citizen Kane",
-    "year": 1941,
-    "genres": []
+    "year": "1941",
+    "genres": [
+      "Drama",
+      " Mystery"
+    ],
+    "$$hashKey": "object:70",
+    "rating": "8.4"
   },
   {
-    "title": "Der unsichtbare Dritte",
-    "year": 1959,
-    "genres": []
+    "imdbId": "tt0053125",
+    "title": "North by Northwest",
+    "year": "1959",
+    "genres": [
+      "Adventure",
+      " Crime",
+      " Mystery"
+    ],
+    "$$hashKey": "object:71",
+    "rating": "8.4"
   },
   {
-    "title": "Prinzessin Mononoke",
-    "year": 1997,
-    "genres": []
+    "imdbId": "tt0119698",
+    "title": "Princess Mononoke",
+    "year": "1997",
+    "genres": [
+      "Animation",
+      " Adventure",
+      " Fantasy"
+    ],
+    "$$hashKey": "object:72",
+    "rating": "8.4"
   },
   {
+    "imdbId": "tt0364569",
     "title": "Oldboy",
-    "year": 2003,
-    "genres": []
+    "year": "2003",
+    "genres": [
+      "Drama",
+      " Mystery",
+      " Thriller"
+    ],
+    "$$hashKey": "object:73",
+    "rating": "8.4"
   },
   {
-    "title": "Vertigo - Aus dem Reich der Toten",
-    "year": 1958,
-    "genres": []
+    "imdbId": "tt0052357",
+    "title": "Vertigo",
+    "year": "1958",
+    "genres": [
+      "Mystery",
+      " Romance",
+      " Thriller"
+    ],
+    "$$hashKey": "object:74",
+    "rating": "8.4"
   },
   {
+    "imdbId": "tt0082096",
     "title": "Das Boot",
-    "year": 1981,
-    "genres": []
+    "year": "1981",
+    "genres": [
+      "Adventure",
+      " Drama",
+      " War"
+    ],
+    "$$hashKey": "object:75",
+    "rating": "8.4"
   },
   {
-    "title": "Die Rückkehr der Jedi-Ritter",
-    "year": 1983,
-    "genres": []
+    "imdbId": "tt0086190",
+    "title": "Star Wars: Episode VI - Return of the Jedi",
+    "year": "1983",
+    "genres": [
+      "Action",
+      " Adventure",
+      " Fantasy"
+    ],
+    "$$hashKey": "object:76",
+    "rating": "8.4"
   },
   {
-    "title": "Es war einmal in Amerika",
-    "year": 1984,
-    "genres": []
+    "imdbId": "tt0087843",
+    "title": "Once Upon a Time in America",
+    "year": "1984",
+    "genres": [
+      "Crime",
+      " Drama"
+    ],
+    "$$hashKey": "object:77",
+    "rating": "8.4"
   },
   {
-    "title": "M - Eine Stadt sucht einen Mörder",
-    "year": 1931,
-    "genres": []
+    "imdbId": "tt0022100",
+    "title": "M",
+    "year": "1931",
+    "genres": [
+      "Crime",
+      " Drama",
+      " Thriller"
+    ],
+    "$$hashKey": "object:78",
+    "rating": "8.4"
   },
   {
-    "title": "Die fabelhafte Welt der Amelie",
-    "year": 2001,
-    "genres": []
+    "imdbId": "tt0211915",
+    "title": "Amélie",
+    "year": "2001",
+    "genres": [
+      "Comedy",
+      " Romance"
+    ],
+    "$$hashKey": "object:79",
+    "rating": "8.4"
   },
   {
-    "title": "Zeugin der Anklage",
-    "year": 1957,
-    "genres": []
+    "imdbId": "tt0051201",
+    "title": "Witness for the Prosecution",
+    "year": "1957",
+    "genres": [
+      "Drama",
+      " Mystery"
+    ],
+    "$$hashKey": "object:80",
+    "rating": "8.4"
   },
   {
-    "title": "Reservoir Dogs - Wilde Hunde",
-    "year": 1992,
-    "genres": []
+    "imdbId": "tt0105236",
+    "title": "Reservoir Dogs",
+    "year": "1992",
+    "genres": [
+      "Crime",
+      " Drama"
+    ],
+    "$$hashKey": "object:81",
+    "rating": "8.4"
   },
   {
+    "imdbId": "tt0112573",
     "title": "Braveheart",
-    "year": 1995,
-    "genres": []
+    "year": "1995",
+    "genres": [
+      "Biography",
+      " Drama",
+      " History"
+    ],
+    "$$hashKey": "object:82",
+    "rating": "8.4"
   },
   {
-    "title": "Uhrwerk Orange",
-    "year": 1971,
-    "genres": []
+    "imdbId": "tt0066921",
+    "title": "A Clockwork Orange",
+    "year": "1971",
+    "genres": [
+      "Crime",
+      " Drama",
+      " Sci-Fi"
+    ],
+    "$$hashKey": "object:83",
+    "rating": "8.4"
   },
   {
+    "imdbId": "tt0435761",
     "title": "Toy Story 3",
-    "year": 2010,
-    "genres": []
+    "year": "2010",
+    "genres": [
+      "Animation",
+      " Adventure",
+      " Comedy"
+    ],
+    "$$hashKey": "object:84",
+    "rating": "8.4"
   },
   {
+    "imdbId": "tt0180093",
     "title": "Requiem for a Dream",
-    "year": 2000,
-    "genres": []
+    "year": "2000",
+    "genres": [
+      "Drama"
+    ],
+    "$$hashKey": "object:85",
+    "rating": "8.4"
   },
   {
+    "imdbId": "tt0075314",
     "title": "Taxi Driver",
-    "year": 1976,
-    "genres": []
+    "year": "1976",
+    "genres": [
+      "Crime",
+      " Drama"
+    ],
+    "$$hashKey": "object:86",
+    "rating": "8.4"
   },
   {
-    "title": "Frau ohne Gewissen",
-    "year": 1944,
-    "genres": []
+    "imdbId": "tt0036775",
+    "title": "Double Indemnity",
+    "year": "1944",
+    "genres": [
+      "Crime",
+      " Drama",
+      " Film-Noir"
+    ],
+    "$$hashKey": "object:87",
+    "rating": "8.4"
   },
   {
-    "title": "Wer die Nachtigall stört",
-    "year": 1962,
-    "genres": []
+    "imdbId": "tt0056592",
+    "title": "To Kill a Mockingbird",
+    "year": "1962",
+    "genres": [
+      "Drama"
+    ],
+    "$$hashKey": "object:88",
+    "rating": "8.4"
   },
   {
-    "title": "Lawrence von Arabien",
-    "year": 1962,
-    "genres": []
+    "imdbId": "tt0056172",
+    "title": "Lawrence of Arabia",
+    "year": "1962",
+    "genres": [
+      "Adventure",
+      " Biography",
+      " Drama"
+    ],
+    "$$hashKey": "object:89",
+    "rating": "8.4"
   },
   {
-    "title": "Vergiss mein nicht",
-    "year": 2004,
-    "genres": []
+    "imdbId": "tt0338013",
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": "2004",
+    "genres": [
+      "Drama",
+      " Romance",
+      " Sci-Fi"
+    ],
+    "$$hashKey": "object:90",
+    "rating": "8.4"
   },
   {
+    "imdbId": "tt0093058",
     "title": "Full Metal Jacket",
-    "year": 1987,
-    "genres": []
+    "year": "1987",
+    "genres": [
+      "Drama",
+      " War"
+    ],
+    "$$hashKey": "object:91",
+    "rating": "8.3"
   },
   {
+    "imdbId": "tt0086879",
     "title": "Amadeus",
-    "year": 1984,
-    "genres": []
+    "year": "1984",
+    "genres": [
+      "Biography",
+      " Drama",
+      " Music"
+    ],
+    "$$hashKey": "object:92",
+    "rating": "8.3"
   },
   {
-    "title": "Der Clou",
-    "year": 1973,
-    "genres": []
+    "imdbId": "tt0070735",
+    "title": "The Sting",
+    "year": "1973",
+    "genres": [
+      "Comedy",
+      " Crime",
+      " Drama"
+    ],
+    "$$hashKey": "object:93",
+    "rating": "8.3"
   },
   {
-    "title": "Du sollst mein Glücksstern sein",
-    "year": 1952,
-    "genres": []
+    "imdbId": "tt0045152",
+    "title": "Singin' in the Rain",
+    "year": "1952",
+    "genres": [
+      "Comedy",
+      " Musical",
+      " Romance"
+    ],
+    "$$hashKey": "object:94",
+    "rating": "8.4"
   },
   {
-    "title": "Fahrraddiebe",
-    "year": 1948,
-    "genres": []
+    "imdbId": "tt0040522",
+    "title": "Bicycle Thieves",
+    "year": "1948",
+    "genres": [
+      "Drama"
+    ],
+    "$$hashKey": "object:95",
+    "rating": "8.4"
   },
   {
-    "title": "2001: Odyssee im Weltraum",
-    "year": 1968,
-    "genres": []
+    "imdbId": "tt0062622",
+    "title": "2001: A Space Odyssey",
+    "year": "1968",
+    "genres": [
+      "Mystery",
+      " Sci-Fi"
+    ],
+    "$$hashKey": "object:96",
+    "rating": "8.3"
   },
   {
-    "title": "Alles steht Kopf",
-    "year": 2015,
-    "genres": []
+    "imdbId": "tt2096673",
+    "title": "Inside Out",
+    "year": "2015",
+    "genres": [
+      "Animation",
+      " Adventure",
+      " Comedy"
+    ],
+    "$$hashKey": "object:97",
+    "rating": "8.4"
   },
   {
-    "title": "Snatch - Schweine und Diamanten",
-    "year": 2000,
-    "genres": []
+    "imdbId": "tt0208092",
+    "title": "Snatch.",
+    "year": "2000",
+    "genres": [
+      "Comedy",
+      " Crime"
+    ],
+    "$$hashKey": "object:98",
+    "rating": "8.3"
   },
   {
-    "title": "Die Ritter der Kokosnuß",
-    "year": 1975,
-    "genres": []
+    "imdbId": "tt0071853",
+    "title": "Monty Python and the Holy Grail",
+    "year": "1975",
+    "genres": [
+      "Adventure",
+      " Comedy",
+      " Fantasy"
+    ],
+    "$$hashKey": "object:99",
+    "rating": "8.3"
   },
   {
-    "title": "Der Vagabund und das Kind",
-    "year": 1921,
-    "genres": []
+    "imdbId": "tt0012349",
+    "title": "The Kid",
+    "year": "1921",
+    "genres": [
+      "Comedy",
+      " Drama",
+      " Family"
+    ],
+    "$$hashKey": "object:100",
+    "rating": "8.4"
   },
   {
+    "imdbId": "tt0114709",
     "title": "Toy Story",
-    "year": 1995,
-    "genres": []
+    "year": "1995",
+    "genres": [
+      "Animation",
+      " Adventure",
+      " Comedy"
+    ],
+    "$$hashKey": "object:101",
+    "rating": "8.3"
   },
   {
-    "title": "Für ein paar Dollar mehr",
-    "year": 1965,
-    "genres": []
+    "imdbId": "tt0059578",
+    "title": "For a Few Dollars More",
+    "year": "1965",
+    "genres": [
+      "Western"
+    ],
+    "$$hashKey": "object:102",
+    "rating": "8.3"
   },
   {
+    "imdbId": "tt0119488",
     "title": "L.A. Confidential",
-    "year": 1997,
-    "genres": []
+    "year": "1997",
+    "genres": [
+      "Crime",
+      " Drama",
+      " Mystery"
+    ],
+    "$$hashKey": "object:103",
+    "rating": "8.3"
   },
   {
+    "imdbId": "tt0042876",
     "title": "Rashomon",
-    "year": 1950,
-    "genres": []
+    "year": "1950",
+    "genres": [
+      "Crime",
+      " Drama"
+    ],
+    "$$hashKey": "object:104",
+    "rating": "8.3"
   },
   {
+    "imdbId": "tt0361748",
     "title": "Inglourious Basterds",
-    "year": 2009,
-    "genres": []
+    "year": "2009",
+    "genres": [
+      "Adventure",
+      " Drama",
+      " War"
+    ],
+    "$$hashKey": "object:105",
+    "rating": "8.3"
   },
   {
-    "title": "Das Appartement",
-    "year": 1960,
-    "genres": []
+    "imdbId": "tt0053604",
+    "title": "The Apartment",
+    "year": "1960",
+    "genres": [
+      "Comedy",
+      " Drama",
+      " Romance"
+    ],
+    "$$hashKey": "object:106",
+    "rating": "8.3"
   },
   {
-    "title": "Alles über Eva",
-    "year": 1950,
-    "genres": []
+    "imdbId": "tt0042192",
+    "title": "All About Eve",
+    "year": "1950",
+    "genres": [
+      "Comedy",
+      " Drama"
+    ],
+    "$$hashKey": "object:107",
+    "rating": "8.3"
   },
   {
-    "title": "Indiana Jones und der letzte Kreuzzug",
-    "year": 1989,
-    "genres": []
+    "imdbId": "tt0097576",
+    "title": "Indiana Jones and the Last Crusade",
+    "year": "1989",
+    "genres": [
+      "Action",
+      " Adventure"
+    ],
+    "$$hashKey": "object:108",
+    "rating": "8.3"
   },
   {
-    "title": "Nader und Simin - eine Trennung",
-    "year": 2011,
-    "genres": []
+    "imdbId": "tt1832382",
+    "title": "A Separation",
+    "year": "2011",
+    "genres": [
+      "Drama"
+    ],
+    "$$hashKey": "object:109",
+    "rating": "8.4"
   },
   {
+    "imdbId": "tt0017136",
     "title": "Metropolis",
-    "year": 1927,
-    "genres": []
+    "year": "1927",
+    "genres": [
+      "Drama",
+      " Sci-Fi"
+    ],
+    "$$hashKey": "object:110",
+    "rating": "8.3"
   },
   {
-    "title": "Der Schatz der Sierra Madre",
-    "year": 1948,
-    "genres": []
+    "imdbId": "tt0040897",
+    "title": "The Treasure of the Sierra Madre",
+    "year": "1948",
+    "genres": [
+      "Action",
+      " Adventure",
+      " Drama"
+    ],
+    "$$hashKey": "object:111",
+    "rating": "8.3"
   },
   {
-    "title": "Yojimbo - Der Leibwächter",
-    "year": 1961,
-    "genres": []
+    "imdbId": "tt0055630",
+    "title": "Yojimbo",
+    "year": "1961",
+    "genres": [
+      "Drama"
+    ],
+    "$$hashKey": "object:112",
+    "rating": "8.3"
   },
   {
+    "imdbId": "tt0086250",
     "title": "Scarface",
-    "year": 1983,
-    "genres": []
+    "year": "1983",
+    "genres": [
+      "Crime",
+      " Drama"
+    ],
+    "$$hashKey": "object:113",
+    "rating": "8.3"
   },
   {
-    "title": "Manche mögen's heiß",
-    "year": 1959,
-    "genres": []
+    "imdbId": "tt0053291",
+    "title": "Some Like It Hot",
+    "year": "1959",
+    "genres": [
+      "Comedy"
+    ],
+    "$$hashKey": "object:114",
+    "rating": "8.3"
   },
   {
+    "imdbId": "tt0372784",
     "title": "Batman Begins",
-    "year": 2005,
-    "genres": []
+    "year": "2005",
+    "genres": [
+      "Action",
+      " Adventure"
+    ],
+    "$$hashKey": "object:115",
+    "rating": "8.3"
   },
   {
-    "title": "Der dritte Mann",
-    "year": 1949,
-    "genres": []
+    "imdbId": "tt0041959",
+    "title": "The Third Man",
+    "year": "1949",
+    "genres": [
+      "Film-Noir",
+      " Mystery",
+      " Thriller"
+    ],
+    "$$hashKey": "object:116",
+    "rating": "8.3"
   },
   {
-    "title": "Erbarmungslos",
-    "year": 1992,
-    "genres": []
+    "imdbId": "tt0105695",
+    "title": "Unforgiven",
+    "year": "1992",
+    "genres": [
+      "Western"
+    ],
+    "$$hashKey": "object:117",
+    "rating": "8.3"
   },
   {
+    "imdbId": "tt1187043",
     "title": "3 Idiots",
-    "year": 2009,
-    "genres": []
+    "year": "2009",
+    "genres": [
+      "Comedy",
+      " Drama"
+    ],
+    "$$hashKey": "object:118",
+    "rating": "8.5"
   },
   {
-    "title": "Oben",
-    "year": 2009,
-    "genres": []
+    "imdbId": "tt1049413",
+    "title": "Up",
+    "year": "2009",
+    "genres": [
+      "Animation",
+      " Adventure",
+      " Comedy"
+    ],
+    "$$hashKey": "object:119",
+    "rating": "8.3"
   },
   {
-    "title": "Die Jagd",
-    "year": 2012,
-    "genres": []
+    "imdbId": "tt2106476",
+    "title": "The Hunt",
+    "year": "2012",
+    "genres": [
+      "Drama"
+    ],
+    "$$hashKey": "object:120",
+    "rating": "8.3"
   },
   {
-    "title": "Wie ein wilder Stier",
-    "year": 1980,
-    "genres": []
+    "imdbId": "tt0081398",
+    "title": "Raging Bull",
+    "year": "1980",
+    "genres": [
+      "Biography",
+      " Drama",
+      " Sport"
+    ],
+    "$$hashKey": "object:121",
+    "rating": "8.3"
   },
   {
-    "title": "Der Untergang",
-    "year": 2004,
-    "genres": []
+    "imdbId": "tt0363163",
+    "title": "Downfall",
+    "year": "2004",
+    "genres": [
+      "Biography",
+      " Drama",
+      " War"
+    ],
+    "$$hashKey": "object:122",
+    "rating": "8.3"
   },
   {
-    "title": "Good Will Hunting - Der gute Will Hunting",
-    "year": 1997,
-    "genres": []
+    "imdbId": "tt0119217",
+    "title": "Good Will Hunting",
+    "year": "1997",
+    "genres": [
+      "Drama"
+    ],
+    "$$hashKey": "object:123",
+    "rating": "8.3"
   },
   {
-    "title": "Stirb langsam",
-    "year": 1988,
-    "genres": []
+    "imdbId": "tt0095016",
+    "title": "Die Hard",
+    "year": "1988",
+    "genres": [
+      "Action",
+      " Thriller"
+    ],
+    "$$hashKey": "object:124",
+    "rating": "8.2"
   },
   {
-    "title": "Gesprengte Ketten",
-    "year": 1963,
-    "genres": []
+    "imdbId": "tt0057115",
+    "title": "The Great Escape",
+    "year": "1963",
+    "genres": [
+      "Adventure",
+      " Drama",
+      " History"
+    ],
+    "$$hashKey": "object:125",
+    "rating": "8.3"
   },
   {
+    "imdbId": "tt0071315",
     "title": "Chinatown",
-    "year": 1974,
-    "genres": []
+    "year": "1974",
+    "genres": [
+      "Drama",
+      " Mystery",
+      " Thriller"
+    ],
+    "$$hashKey": "object:126",
+    "rating": "8.3"
   },
   {
+    "imdbId": "tt0073707",
     "title": "Sholay",
-    "year": 1975,
-    "genres": []
+    "year": "1975",
+    "genres": [
+      "Action",
+      " Adventure",
+      " Comedy"
+    ],
+    "$$hashKey": "object:127",
+    "rating": "8.6"
   },
   {
+    "imdbId": "tt0113277",
     "title": "Heat",
-    "year": 1995,
-    "genres": []
+    "year": "1995",
+    "genres": [
+      "Action",
+      " Crime",
+      " Drama"
+    ],
+    "$$hashKey": "object:128",
+    "rating": "8.3"
   },
   {
-    "title": "Sonnenaufgang",
-    "year": 1927,
-    "genres": []
+    "imdbId": "tt0018455",
+    "title": "Sunrise",
+    "year": "1927",
+    "genres": [
+      "Comedy",
+      " Drama",
+      " Romance"
+    ],
+    "$$hashKey": "object:129",
+    "rating": "8.4"
   },
   {
-    "title": "Die Faust im Nacken",
-    "year": 1954,
-    "genres": []
+    "imdbId": "tt0047296",
+    "title": "On the Waterfront",
+    "year": "1954",
+    "genres": [
+      "Crime",
+      " Drama"
+    ],
+    "$$hashKey": "object:130",
+    "rating": "8.3"
   },
   {
-    "title": "Pans Labyrinth",
-    "year": 2006,
-    "genres": []
+    "imdbId": "tt0457430",
+    "title": "Pan's Labyrinth",
+    "year": "2006",
+    "genres": [
+      "Drama",
+      " Fantasy",
+      " War"
+    ],
+    "$$hashKey": "object:131",
+    "rating": "8.2"
   },
   {
-    "title": "Mr. Smith geht nach Washington",
-    "year": 1939,
-    "genres": []
+    "imdbId": "tt0031679",
+    "title": "Mr. Smith Goes to Washington",
+    "year": "1939",
+    "genres": [
+      "Drama"
+    ],
+    "$$hashKey": "object:132",
+    "rating": "8.3"
   },
   {
-    "title": "Mein Nachbar Totoro",
-    "year": 1988,
-    "genres": []
+    "imdbId": "tt0096283",
+    "title": "My Neighbor Totoro",
+    "year": "1988",
+    "genres": [
+      "Animation",
+      " Family",
+      " Fantasy"
+    ],
+    "$$hashKey": "object:133",
+    "rating": "8.3"
   },
   {
-    "title": "Die Brücke am Kwai",
-    "year": 1957,
-    "genres": []
+    "imdbId": "tt0050212",
+    "title": "The Bridge on the River Kwai",
+    "year": "1957",
+    "genres": [
+      "Adventure",
+      " Drama",
+      " War"
+    ],
+    "$$hashKey": "object:134",
+    "rating": "8.2"
   },
   {
-    "title": "Ikiru - Einmal wirklich leben",
-    "year": 1952,
-    "genres": []
+    "imdbId": "tt0044741",
+    "title": "Ikiru",
+    "year": "1952",
+    "genres": [
+      "Drama"
+    ],
+    "$$hashKey": "object:135",
+    "rating": "8.3"
   },
   {
+    "imdbId": "tt0089881",
     "title": "Ran",
-    "year": 1985,
-    "genres": []
+    "year": "1985",
+    "genres": [
+      "Action",
+      " Drama",
+      " War"
+    ],
+    "$$hashKey": "object:136",
+    "rating": "8.3"
   },
   {
-    "title": "Goldrausch",
-    "year": 1925,
-    "genres": []
+    "imdbId": "tt0015864",
+    "title": "The Gold Rush",
+    "year": "1925",
+    "genres": [
+      "Adventure",
+      " Comedy",
+      " Drama"
+    ],
+    "$$hashKey": "object:137",
+    "rating": "8.3"
   },
   {
-    "title": "Das siebente Siegel",
-    "year": 1957,
-    "genres": []
+    "imdbId": "tt0050976",
+    "title": "The Seventh Seal",
+    "year": "1957",
+    "genres": [
+      "Drama",
+      " Fantasy"
+    ],
+    "$$hashKey": "object:138",
+    "rating": "8.2"
   },
   {
-    "title": "Der Blade Runner",
-    "year": 1982,
-    "genres": []
+    "imdbId": "tt0083658",
+    "title": "Blade Runner",
+    "year": "1982",
+    "genres": [
+      "Sci-Fi",
+      " Thriller"
+    ],
+    "$$hashKey": "object:139",
+    "rating": "8.2"
   },
   {
-    "title": "In ihren Augen",
-    "year": 2009,
-    "genres": []
+    "imdbId": "tt1305806",
+    "title": "The Secret in Their Eyes",
+    "year": "2009",
+    "genres": [
+      "Drama",
+      " Mystery",
+      " Thriller"
+    ],
+    "$$hashKey": "object:140",
+    "rating": "8.2"
   },
   {
-    "title": "Wilde Erdbeeren",
-    "year": 1957,
-    "genres": []
+    "imdbId": "tt0050986",
+    "title": "Wild Strawberries",
+    "year": "1957",
+    "genres": [
+      "Drama",
+      " Romance"
+    ],
+    "$$hashKey": "object:141",
+    "rating": "8.3"
   },
   {
-    "title": "Bube Dame König grAS",
-    "year": 1998,
-    "genres": []
+    "imdbId": "tt0120735",
+    "title": "Lock, Stock and Two Smoking Barrels",
+    "year": "1998",
+    "genres": [
+      "Comedy",
+      " Crime"
+    ],
+    "$$hashKey": "object:142",
+    "rating": "8.2"
   },
   {
-    "title": "Der General",
-    "year": 1926,
-    "genres": []
+    "imdbId": "tt0017925",
+    "title": "The General",
+    "year": "1926",
+    "genres": [
+      "Action",
+      " Adventure",
+      " Comedy"
+    ],
+    "$$hashKey": "object:143",
+    "rating": "8.3"
   },
   {
-    "title": "Der Elefantenmensch",
-    "year": 1980,
-    "genres": []
+    "imdbId": "tt0080678",
+    "title": "The Elephant Man",
+    "year": "1980",
+    "genres": [
+      "Biography",
+      " Drama"
+    ],
+    "$$hashKey": "object:144",
+    "rating": "8.2"
   },
   {
+    "imdbId": "tt0112641",
     "title": "Casino",
-    "year": 1995,
-    "genres": []
+    "year": "1995",
+    "genres": [
+      "Biography",
+      " Crime",
+      " Drama"
+    ],
+    "$$hashKey": "object:145",
+    "rating": "8.2"
   },
   {
-    "title": "Das wandelnde Schloss",
-    "year": 2004,
-    "genres": []
+    "imdbId": "tt0347149",
+    "title": "Howl's Moving Castle",
+    "year": "2004",
+    "genres": [
+      "Animation",
+      " Adventure",
+      " Family"
+    ],
+    "$$hashKey": "object:146",
+    "rating": "8.2"
   },
   {
+    "imdbId": "tt1291584",
     "title": "Warrior",
-    "year": 2011,
-    "genres": []
+    "year": "2011",
+    "genres": [
+      "Drama",
+      " Sport"
+    ],
+    "$$hashKey": "object:147",
+    "rating": "8.2"
   },
   {
+    "imdbId": "tt0993846",
     "title": "The Wolf of Wall Street",
-    "year": 2013,
-    "genres": []
+    "year": "2013",
+    "genres": [
+      "Biography",
+      " Comedy",
+      " Crime"
+    ],
+    "$$hashKey": "object:148",
+    "rating": "8.2"
   },
   {
-    "title": "V wie Vendetta",
-    "year": 2005,
-    "genres": []
+    "imdbId": "tt0434409",
+    "title": "V for Vendetta",
+    "year": "2005",
+    "genres": [
+      "Action",
+      " Drama",
+      " Thriller"
+    ],
+    "$$hashKey": "object:149",
+    "rating": "8.2"
   },
   {
+    "imdbId": "tt1205489",
     "title": "Gran Torino",
-    "year": 2008,
-    "genres": []
+    "year": "2008",
+    "genres": [
+      "Drama"
+    ],
+    "$$hashKey": "object:150",
+    "rating": "8.2"
   },
   {
-    "title": "Das Urteil von Nürnberg",
-    "year": 1961,
-    "genres": []
+    "imdbId": "tt0055031",
+    "title": "Judgment at Nuremberg",
+    "year": "1961",
+    "genres": [
+      "Drama",
+      " History",
+      " War"
+    ],
+    "$$hashKey": "object:151",
+    "rating": "8.3"
   },
   {
+    "imdbId": "tt0118715",
     "title": "The Big Lebowski",
-    "year": 1998,
-    "genres": []
+    "year": "1998",
+    "genres": [
+      "Comedy",
+      " Crime"
+    ],
+    "$$hashKey": "object:152",
+    "rating": "8.2"
   },
   {
-    "title": "A Beautiful Mind - Genie und Wahnsinn",
-    "year": 2001,
-    "genres": []
+    "imdbId": "tt0268978",
+    "title": "A Beautiful Mind",
+    "year": "2001",
+    "genres": [
+      "Biography",
+      " Drama"
+    ],
+    "$$hashKey": "object:153",
+    "rating": "8.2"
   },
   {
+    "imdbId": "tt0032976",
     "title": "Rebecca",
-    "year": 1940,
-    "genres": []
+    "year": "1940",
+    "genres": [
+      "Mystery",
+      " Thriller"
+    ],
+    "$$hashKey": "object:154",
+    "rating": "8.2"
   },
   {
-    "title": "Die durch die Hölle gehen",
-    "year": 1978,
-    "genres": []
+    "imdbId": "tt0077416",
+    "title": "The Deer Hunter",
+    "year": "1978",
+    "genres": [
+      "Drama",
+      " War"
+    ],
+    "$$hashKey": "object:155",
+    "rating": "8.2"
   },
   {
+    "imdbId": "tt1392190",
     "title": "Mad Max: Fury Road",
-    "year": 2015,
-    "genres": []
+    "year": "2015",
+    "genres": [
+      "Action",
+      " Adventure",
+      " Sci-Fi"
+    ],
+    "$$hashKey": "object:156",
+    "rating": "8.2"
   },
   {
-    "title": "Drachenzähmen leicht gemacht",
-    "year": 2010,
-    "genres": []
+    "imdbId": "tt0892769",
+    "title": "How to Train Your Dragon",
+    "year": "2010",
+    "genres": [
+      "Animation",
+      " Adventure",
+      " Family"
+    ],
+    "$$hashKey": "object:157",
+    "rating": "8.2"
   },
   {
-    "title": "Der Unbeugsame",
-    "year": 1967,
-    "genres": []
+    "imdbId": "tt0061512",
+    "title": "Cool Hand Luke",
+    "year": "1967",
+    "genres": [
+      "Crime",
+      " Drama"
+    ],
+    "$$hashKey": "object:158",
+    "rating": "8.2"
   },
   {
-    "title": "Vom Winde verweht",
-    "year": 1939,
-    "genres": []
+    "imdbId": "tt0031381",
+    "title": "Gone with the Wind",
+    "year": "1939",
+    "genres": [
+      "Drama",
+      " Romance",
+      " War"
+    ],
+    "$$hashKey": "object:159",
+    "rating": "8.2"
   },
   {
-    "title": "Fargo - Blutiger Schnee",
-    "year": 1996,
-    "genres": []
+    "imdbId": "tt0116282",
+    "title": "Fargo",
+    "year": "1996",
+    "genres": [
+      "Crime",
+      " Drama",
+      " Thriller"
+    ],
+    "$$hashKey": "object:160",
+    "rating": "8.2"
   },
   {
-    "title": "Trainspotting - Neue Helden",
-    "year": 1996,
-    "genres": []
+    "imdbId": "tt0117951",
+    "title": "Trainspotting",
+    "year": "1996",
+    "genres": [
+      "Drama"
+    ],
+    "$$hashKey": "object:161",
+    "rating": "8.2"
   },
   {
-    "title": "Bei Anruf Mord",
-    "year": 1954,
-    "genres": []
+    "imdbId": "tt0046912",
+    "title": "Dial M for Murder",
+    "year": "1954",
+    "genres": [
+      "Crime",
+      " Thriller"
+    ],
+    "$$hashKey": "object:162",
+    "rating": "8.2"
   },
   {
-    "title": "Die Frau die singt - Incendies",
-    "year": 2010,
-    "genres": []
+    "imdbId": "tt1255953",
+    "title": "Incendies",
+    "year": "2010",
+    "genres": [
+      "Drama",
+      " Mystery",
+      " War"
+    ],
+    "$$hashKey": "object:163",
+    "rating": "8.2"
   },
   {
-    "title": "Sixth Sense",
-    "year": 1999,
-    "genres": []
+    "imdbId": "tt0167404",
+    "title": "The Sixth Sense",
+    "year": "1999",
+    "genres": [
+      "Drama",
+      " Mystery",
+      " Thriller"
+    ],
+    "$$hashKey": "object:164",
+    "rating": "8.2"
   },
   {
+    "imdbId": "tt0758758",
     "title": "Into the Wild",
-    "year": 2007,
-    "genres": []
+    "year": "2007",
+    "genres": [
+      "Adventure",
+      " Biography",
+      " Drama"
+    ],
+    "$$hashKey": "object:165",
+    "rating": "8.2"
   },
   {
-    "title": "Es geschah in einer Nacht",
-    "year": 1934,
-    "genres": []
+    "imdbId": "tt0025316",
+    "title": "It Happened One Night",
+    "year": "1934",
+    "genres": [
+      "Comedy",
+      " Romance"
+    ],
+    "$$hashKey": "object:166",
+    "rating": "8.2"
   },
   {
-    "title": "Findet Nemo",
-    "year": 2003,
-    "genres": []
+    "imdbId": "tt0266543",
+    "title": "Finding Nemo",
+    "year": "2003",
+    "genres": [
+      "Animation",
+      " Adventure",
+      " Comedy"
+    ],
+    "$$hashKey": "object:167",
+    "rating": "8.2"
   },
   {
-    "title": "Gone Girl - Das perfekte Opfer",
-    "year": 2014,
-    "genres": []
+    "imdbId": "tt2267998",
+    "title": "Gone Girl",
+    "year": "2014",
+    "genres": [
+      "Crime",
+      " Drama",
+      " Mystery"
+    ],
+    "$$hashKey": "object:168",
+    "rating": "8.2"
   },
   {
+    "imdbId": "tt0477348",
     "title": "No Country for Old Men",
-    "year": 2007,
-    "genres": []
+    "year": "2007",
+    "genres": [
+      "Crime",
+      " Drama",
+      " Thriller"
+    ],
+    "$$hashKey": "object:169",
+    "rating": "8.1"
   },
   {
-    "title": "Das Ding aus einer anderen Welt",
-    "year": 1982,
-    "genres": []
+    "imdbId": "tt0084787",
+    "title": "The Thing",
+    "year": "1982",
+    "genres": [
+      "Horror",
+      " Sci-Fi"
+    ],
+    "$$hashKey": "object:170",
+    "rating": "8.2"
   },
   {
-    "title": "Mary & Max, oder - Schrumpfen Schafe, wenn es regnet",
-    "year": 2009,
-    "genres": []
+    "imdbId": "tt0978762",
+    "title": "Mary and Max",
+    "year": "2009",
+    "genres": [
+      "Animation",
+      " Comedy",
+      " Drama"
+    ],
+    "$$hashKey": "object:171",
+    "rating": "8.2"
   },
   {
-    "title": "Rush - Alles für den Sieg",
-    "year": 2013,
-    "genres": []
+    "imdbId": "tt1979320",
+    "title": "Rush",
+    "year": "2013",
+    "genres": [
+      "Action",
+      " Biography",
+      " Drama"
+    ],
+    "$$hashKey": "object:172",
+    "rating": "8.2"
   },
   {
-    "title": "Die Spur des Falken",
-    "year": 1941,
-    "genres": []
+    "imdbId": "tt0033870",
+    "title": "The Maltese Falcon",
+    "year": "1941",
+    "genres": [
+      "Crime",
+      " Drama",
+      " Film-Noir"
+    ],
+    "$$hashKey": "object:173",
+    "rating": "8.2"
   },
   {
+    "imdbId": "tt0266697",
     "title": "Kill Bill: Vol. 1",
-    "year": 2003,
-    "genres": []
+    "year": "2003",
+    "genres": [
+      "Action"
+    ],
+    "$$hashKey": "object:174",
+    "rating": "8.1"
   },
   {
-    "title": "Das Leben des Brian",
-    "year": 1979,
-    "genres": []
+    "imdbId": "tt0079470",
+    "title": "Life of Brian",
+    "year": "1979",
+    "genres": [
+      "Comedy"
+    ],
+    "$$hashKey": "object:175",
+    "rating": "8.1"
   },
   {
-    "title": "Lohn der Angst",
-    "year": 1953,
-    "genres": []
+    "imdbId": "tt0046268",
+    "title": "The Wages of Fear",
+    "year": "1953",
+    "genres": [
+      "Adventure",
+      " Drama",
+      " Thriller"
+    ],
+    "$$hashKey": "object:176",
+    "rating": "8.2"
   },
   {
-    "title": "Hotel Ruanda",
-    "year": 2004,
-    "genres": []
+    "imdbId": "tt0395169",
+    "title": "Hotel Rwanda",
+    "year": "2004",
+    "genres": [
+      "Drama",
+      " History",
+      " War"
+    ],
+    "$$hashKey": "object:177",
+    "rating": "8.1"
   },
   {
+    "imdbId": "tt0091763",
     "title": "Platoon",
-    "year": 1986,
-    "genres": []
+    "year": "1986",
+    "genres": [
+      "Drama",
+      " War"
+    ],
+    "$$hashKey": "object:178",
+    "rating": "8.1"
   },
   {
-    "title": "Der Marsianer - Rettet Mark Watney",
-    "year": 2015,
-    "genres": []
+    "imdbId": "tt3659388",
+    "title": "The Martian",
+    "year": "2015",
+    "genres": [
+      "Adventure",
+      " Drama",
+      " Sci-Fi"
+    ],
+    "$$hashKey": "object:179",
+    "rating": "8.2"
   },
   {
+    "imdbId": "tt0469494",
     "title": "There Will Be Blood",
-    "year": 2007,
-    "genres": []
+    "year": "2007",
+    "genres": [
+      "Drama"
+    ],
+    "$$hashKey": "object:180",
+    "rating": "8.1"
   },
   {
-    "title": "Butch Cassidy und Sundance Kid",
-    "year": 1969,
-    "genres": []
+    "imdbId": "tt0064115",
+    "title": "Butch Cassidy and the Sundance Kid",
+    "year": "1969",
+    "genres": [
+      "Biography",
+      " Crime",
+      " Drama"
+    ],
+    "$$hashKey": "object:181",
+    "rating": "8.1"
   },
   {
+    "imdbId": "tt0074958",
     "title": "Network",
-    "year": 1976,
-    "genres": []
+    "year": "1976",
+    "genres": [
+      "Drama"
+    ],
+    "$$hashKey": "object:182",
+    "rating": "8.1"
   },
   {
-    "title": "Sie küßten und sie schlugen ihn",
-    "year": 1959,
-    "genres": []
+    "imdbId": "tt0053198",
+    "title": "The 400 Blows",
+    "year": "1959",
+    "genres": [
+      "Crime",
+      " Drama"
+    ],
+    "$$hashKey": "object:183",
+    "rating": "8.2"
   },
   {
+    "imdbId": "tt0060827",
     "title": "Persona",
-    "year": 1966,
-    "genres": []
+    "year": "1966",
+    "genres": [
+      "Drama",
+      " Thriller"
+    ],
+    "$$hashKey": "object:184",
+    "rating": "8.2"
   },
   {
-    "title": "Stand by Me - Das Geheimnis eines Sommers",
-    "year": 1986,
-    "genres": []
+    "imdbId": "tt0092005",
+    "title": "Stand by Me",
+    "year": "1986",
+    "genres": [
+      "Adventure",
+      " Drama"
+    ],
+    "$$hashKey": "object:185",
+    "rating": "8.1"
   },
   {
-    "title": "Im Zeichen des Bösen",
-    "year": 1958,
-    "genres": []
+    "imdbId": "tt0052311",
+    "title": "Touch of Evil",
+    "year": "1958",
+    "genres": [
+      "Crime",
+      " Film-Noir",
+      " Thriller"
+    ],
+    "$$hashKey": "object:186",
+    "rating": "8.1"
   },
   {
+    "imdbId": "tt2024544",
     "title": "12 Years a Slave",
-    "year": 2013,
-    "genres": []
+    "year": "2013",
+    "genres": [
+      "Biography",
+      " Drama",
+      " History"
+    ],
+    "$$hashKey": "object:187",
+    "rating": "8.1"
   },
   {
-    "title": "Die Braut des Prinzen",
-    "year": 1987,
-    "genres": []
+    "imdbId": "tt0093779",
+    "title": "The Princess Bride",
+    "year": "1987",
+    "genres": [
+      "Adventure",
+      " Comedy",
+      " Family"
+    ],
+    "$$hashKey": "object:188",
+    "rating": "8.1"
   },
   {
-    "title": "Grand Budapest Hotel",
-    "year": 2014,
-    "genres": []
+    "imdbId": "tt2278388",
+    "title": "The Grand Budapest Hotel",
+    "year": "2014",
+    "genres": [
+      "Adventure",
+      " Comedy",
+      " Drama"
+    ],
+    "$$hashKey": "object:189",
+    "rating": "8.1"
   },
   {
-    "title": "Amores perros",
-    "year": 2000,
-    "genres": []
+    "imdbId": "tt0245712",
+    "title": "Amores Perros",
+    "year": "2000",
+    "genres": [
+      "Drama",
+      " Thriller"
+    ],
+    "$$hashKey": "object:190",
+    "rating": "8.1"
   },
   {
-    "title": "Im Namen des Vaters",
-    "year": 1993,
-    "genres": []
+    "imdbId": "tt0107207",
+    "title": "In the Name of the Father",
+    "year": "1993",
+    "genres": [
+      "Biography",
+      " Drama",
+      " History"
+    ],
+    "$$hashKey": "object:191",
+    "rating": "8.1"
   },
   {
+    "imdbId": "tt0405159",
     "title": "Million Dollar Baby",
-    "year": 2004,
-    "genres": []
+    "year": "2004",
+    "genres": [
+      "Drama",
+      " Sport"
+    ],
+    "$$hashKey": "object:192",
+    "rating": "8.1"
   },
   {
-    "title": "Der Stadtneurotiker",
-    "year": 1977,
-    "genres": []
+    "imdbId": "tt0075686",
+    "title": "Annie Hall",
+    "year": "1977",
+    "genres": [
+      "Comedy",
+      " Romance"
+    ],
+    "$$hashKey": "object:193",
+    "rating": "8.1"
   },
   {
-    "title": "Ben Hur",
-    "year": 1959,
-    "genres": []
+    "imdbId": "tt0052618",
+    "title": "Ben-Hur",
+    "year": "1959",
+    "genres": [
+      "Adventure",
+      " Drama",
+      " War"
+    ],
+    "$$hashKey": "object:194",
+    "rating": "8.1"
   },
   {
+    "imdbId": "tt1130884",
     "title": "Shutter Island",
-    "year": 2010,
-    "genres": []
+    "year": "2010",
+    "genres": [
+      "Mystery",
+      " Thriller"
+    ],
+    "$$hashKey": "object:195",
+    "rating": "8.1"
   },
   {
-    "title": "Früchte des Zorns",
-    "year": 1940,
-    "genres": []
+    "imdbId": "tt0032551",
+    "title": "The Grapes of Wrath",
+    "year": "1940",
+    "genres": [
+      "Drama"
+    ],
+    "$$hashKey": "object:196",
+    "rating": "8.1"
   },
   {
-    "title": "Wild Tales: Jeder dreht mal durch!",
-    "year": 2014,
-    "genres": []
+    "imdbId": "tt3011894",
+    "title": "Wild Tales",
+    "year": "2014",
+    "genres": [
+      "Comedy",
+      " Drama",
+      " Thriller"
+    ],
+    "$$hashKey": "object:197",
+    "rating": "8.2"
   },
   {
-    "title": "Hachiko - Eine wunderbare Freundschaft",
-    "year": 2009,
-    "genres": []
+    "imdbId": "tt1028532",
+    "title": "Hachi: A Dog's Tale",
+    "year": "2009",
+    "genres": [
+      "Drama",
+      " Family"
+    ],
+    "$$hashKey": "object:198",
+    "rating": "8.2"
   },
   {
-    "title": "Nausicaä - Prinzessin aus dem Tal der Winde",
-    "year": 1984,
-    "genres": []
+    "imdbId": "tt0087544",
+    "title": "Nausicaä of the Valley of the Wind",
+    "year": "1984",
+    "genres": [
+      "Animation",
+      " Adventure",
+      " Fantasy"
+    ],
+    "$$hashKey": "object:199",
+    "rating": "8.1"
   },
   {
-    "title": "Die Teuflischen",
-    "year": 1955,
-    "genres": []
+    "imdbId": "tt0046911",
+    "title": "Diabolique",
+    "year": "1955",
+    "genres": [
+      "Drama",
+      " Horror",
+      " Thriller"
+    ],
+    "$$hashKey": "object:200",
+    "rating": "8.1"
   },
   {
+    "imdbId": "tt0079944",
     "title": "Stalker",
-    "year": 1979,
-    "genres": []
+    "year": "1979",
+    "genres": [
+      "Drama",
+      " Sci-Fi"
+    ],
+    "$$hashKey": "object:201",
+    "rating": "8.2"
   },
   {
+    "imdbId": "tt0107290",
     "title": "Jurassic Park",
-    "year": 1993,
-    "genres": []
+    "year": "1993",
+    "genres": [
+      "Adventure",
+      " Sci-Fi",
+      " Thriller"
+    ],
+    "$$hashKey": "object:202",
+    "rating": "8.1"
   },
   {
+    "imdbId": "tt0083987",
     "title": "Gandhi",
-    "year": 1982,
-    "genres": []
+    "year": "1982",
+    "genres": [
+      "Biography",
+      " Drama",
+      " History"
+    ],
+    "$$hashKey": "object:203",
+    "rating": "8.1"
   },
   {
-    "title": "Der Zauberer von Oz",
-    "year": 1939,
-    "genres": []
+    "imdbId": "tt0032138",
+    "title": "The Wizard of Oz",
+    "year": "1939",
+    "genres": [
+      "Adventure",
+      " Family",
+      " Fantasy"
+    ],
+    "$$hashKey": "object:204",
+    "rating": "8.1"
   },
   {
-    "title": "Das Bourne Ultimatum",
-    "year": 2007,
-    "genres": []
+    "imdbId": "tt0440963",
+    "title": "The Bourne Ultimatum",
+    "year": "2007",
+    "genres": [
+      "Action",
+      " Thriller"
+    ],
+    "$$hashKey": "object:205",
+    "rating": "8.1"
   },
   {
-    "title": "Die besten Jahre unseres Lebens",
-    "year": 1946,
-    "genres": []
+    "imdbId": "tt0036868",
+    "title": "The Best Years of Our Lives",
+    "year": "1946",
+    "genres": [
+      "Drama",
+      " Romance",
+      " War"
+    ],
+    "$$hashKey": "object:206",
+    "rating": "8.2"
   },
   {
+    "imdbId": "tt0401792",
     "title": "Sin City",
-    "year": 2005,
-    "genres": []
+    "year": "2005",
+    "genres": [
+      "Crime",
+      " Thriller"
+    ],
+    "$$hashKey": "object:207",
+    "rating": "8.1"
   },
   {
+    "imdbId": "tt0246578",
     "title": "Donnie Darko",
-    "year": 2001,
-    "genres": []
+    "year": "2001",
+    "genres": [
+      "Drama",
+      " Sci-Fi"
+    ],
+    "$$hashKey": "object:208",
+    "rating": "8.1"
   },
   {
-    "title": "Achteinhalb",
-    "year": 1963,
-    "genres": []
+    "imdbId": "tt0056801",
+    "title": "8½",
+    "year": "1963",
+    "genres": [
+      "Drama"
+    ],
+    "$$hashKey": "object:209",
+    "rating": "8.1"
   },
   {
-    "title": "Der Fremde im Zug",
-    "year": 1951,
-    "genres": []
+    "imdbId": "tt0044079",
+    "title": "Strangers on a Train",
+    "year": "1951",
+    "genres": [
+      "Crime",
+      " Film-Noir",
+      " Thriller"
+    ],
+    "$$hashKey": "object:210",
+    "rating": "8.1"
   },
   {
-    "title": "Before Sunrise - Zwischenstopp in Wien",
-    "year": 1995,
-    "genres": []
+    "imdbId": "tt0112471",
+    "title": "Before Sunrise",
+    "year": "1995",
+    "genres": [
+      "Drama",
+      " Romance"
+    ],
+    "$$hashKey": "object:211",
+    "rating": "8.1"
   },
   {
-    "title": "12 Monkeys",
-    "year": 1995,
-    "genres": []
+    "imdbId": "tt0114746",
+    "title": "Twelve Monkeys",
+    "year": "1995",
+    "genres": [
+      "Mystery",
+      " Sci-Fi",
+      " Thriller"
+    ],
+    "$$hashKey": "object:212",
+    "rating": "8.1"
   },
   {
-    "title": "Terminator",
-    "year": 1984,
-    "genres": []
+    "imdbId": "tt0088247",
+    "title": "The Terminator",
+    "year": "1984",
+    "genres": [
+      "Action",
+      " Sci-Fi"
+    ],
+    "$$hashKey": "object:213",
+    "rating": "8.1"
   },
   {
-    "title": "Die Truman Show",
-    "year": 1998,
-    "genres": []
+    "imdbId": "tt0120382",
+    "title": "The Truman Show",
+    "year": "1998",
+    "genres": [
+      "Drama"
+    ],
+    "$$hashKey": "object:214",
+    "rating": "8.1"
   },
   {
-    "title": "...und täglich grüßt das Murmeltier",
-    "year": 1993,
-    "genres": []
+    "imdbId": "tt0107048",
+    "title": "Groundhog Day",
+    "year": "1993",
+    "genres": [
+      "Comedy",
+      " Fantasy",
+      " Romance"
+    ],
+    "$$hashKey": "object:215",
+    "rating": "8.1"
   },
   {
-    "title": "Die Monster AG",
-    "year": 2001,
-    "genres": []
+    "imdbId": "tt0198781",
+    "title": "Monsters, Inc.",
+    "year": "2001",
+    "genres": [
+      "Animation",
+      " Adventure",
+      " Comedy"
+    ],
+    "$$hashKey": "object:216",
+    "rating": "8.1"
   },
   {
+    "imdbId": "tt0353969",
     "title": "Memories of Murder",
-    "year": 2003,
-    "genres": []
+    "year": "2003",
+    "genres": [
+      "Crime",
+      " Drama",
+      " Mystery"
+    ],
+    "$$hashKey": "object:217",
+    "rating": "8.1"
   },
   {
-    "title": "Schlacht um Algier",
-    "year": 1966,
-    "genres": []
+    "imdbId": "tt0058946",
+    "title": "The Battle of Algiers",
+    "year": "1966",
+    "genres": [
+      "Drama",
+      " History",
+      " War"
+    ],
+    "$$hashKey": "object:218",
+    "rating": "8.2"
   },
   {
-    "title": "Der weiße Hai",
-    "year": 1975,
-    "genres": []
+    "imdbId": "tt0073195",
+    "title": "Jaws",
+    "year": "1975",
+    "genres": [
+      "Adventure",
+      " Thriller"
+    ],
+    "$$hashKey": "object:219",
+    "rating": "8.1"
   },
   {
-    "title": "Infernal Affairs - Die achte Hölle",
-    "year": 2002,
-    "genres": []
+    "imdbId": "tt0338564",
+    "title": "Infernal Affairs",
+    "year": "2002",
+    "genres": [
+      "Crime",
+      " Mystery",
+      " Thriller"
+    ],
+    "$$hashKey": "object:220",
+    "rating": "8.1"
   },
   {
+    "imdbId": "tt0075148",
     "title": "Rocky",
-    "year": 1976,
-    "genres": []
+    "year": "1976",
+    "genres": [
+      "Drama",
+      " Sport"
+    ],
+    "$$hashKey": "object:221",
+    "rating": "8.1"
   },
   {
-    "title": "Marvel's The Avengers",
-    "year": 2012,
-    "genres": []
+    "imdbId": "tt0848228",
+    "title": "The Avengers",
+    "year": "2012",
+    "genres": [
+      "Action",
+      " Adventure",
+      " Sci-Fi"
+    ],
+    "$$hashKey": "object:222",
+    "rating": "8.1"
   },
   {
-    "title": "Harry Potter und die Heiligtümer des Todes - Teil 2",
-    "year": 2011,
-    "genres": []
+    "imdbId": "tt1201607",
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
+    "year": "2011",
+    "genres": [
+      "Adventure",
+      " Drama",
+      " Fantasy"
+    ],
+    "$$hashKey": "object:223",
+    "rating": "8.1"
   },
   {
-    "title": "Hundstage",
-    "year": 1975,
-    "genres": []
+    "imdbId": "tt0072890",
+    "title": "Dog Day Afternoon",
+    "year": "1975",
+    "genres": [
+      "Crime",
+      " Drama"
+    ],
+    "$$hashKey": "object:224",
+    "rating": "8.1"
   },
   {
+    "imdbId": "tt0072684",
     "title": "Barry Lyndon",
-    "year": 1975,
-    "genres": []
+    "year": "1975",
+    "genres": [
+      "Adventure",
+      " Drama",
+      " Romance"
+    ],
+    "$$hashKey": "object:225",
+    "rating": "8.1"
   },
   {
-    "title": "Fanny und Alexander",
-    "year": 1982,
-    "genres": []
+    "imdbId": "tt0083922",
+    "title": "Fanny and Alexander",
+    "year": "1982",
+    "genres": [
+      "Drama"
+    ],
+    "$$hashKey": "object:226",
+    "rating": "8.1"
   },
   {
-    "title": "Hass",
-    "year": 1995,
-    "genres": []
+    "imdbId": "tt0113247",
+    "title": "La Haine",
+    "year": "1995",
+    "genres": [
+      "Crime",
+      " Drama"
+    ],
+    "$$hashKey": "object:227",
+    "rating": "8.1"
   },
   {
-    "title": "Das Schloß im Spinnwebwald",
-    "year": 1957,
-    "genres": []
+    "imdbId": "tt0050613",
+    "title": "Throne of Blood",
+    "year": "1957",
+    "genres": [
+      "Drama"
+    ],
+    "$$hashKey": "object:228",
+    "rating": "8.2"
   },
   {
+    "imdbId": "tt2015381",
     "title": "Guardians of the Galaxy",
-    "year": 2014,
-    "genres": []
+    "year": "2014",
+    "genres": [
+      "Action",
+      " Adventure",
+      " Sci-Fi"
+    ],
+    "$$hashKey": "object:229",
+    "rating": "8.1"
   },
   {
+    "imdbId": "tt1220719",
     "title": "Ip Man",
-    "year": 2008,
-    "genres": []
+    "year": "2008",
+    "genres": [
+      "Action",
+      " Biography",
+      " Drama"
+    ],
+    "$$hashKey": "object:230",
+    "rating": "8.1"
   },
   {
-    "title": "The Imitation Game - Ein streng geheimes Leben",
-    "year": 2014,
-    "genres": []
+    "imdbId": "tt2084970",
+    "title": "The Imitation Game",
+    "year": "2014",
+    "genres": [
+      "Biography",
+      " Drama",
+      " Thriller"
+    ],
+    "$$hashKey": "object:231",
+    "rating": "8.1"
   },
   {
-    "title": "The King's Speech - Die Rede des Königs",
-    "year": 2010,
-    "genres": []
+    "imdbId": "tt1504320",
+    "title": "The King's Speech",
+    "year": "2010",
+    "genres": [
+      "Biography",
+      " Drama",
+      " History"
+    ],
+    "$$hashKey": "object:232",
+    "rating": "8.0"
   },
   {
-    "title": "Für eine Handvoll Dollar",
-    "year": 1964,
-    "genres": []
+    "imdbId": "tt0058461",
+    "title": "A Fistful of Dollars",
+    "year": "1964",
+    "genres": [
+      "Action",
+      " Drama",
+      " Western"
+    ],
+    "$$hashKey": "object:233",
+    "rating": "8.1"
   },
   {
-    "title": "Zwölf Uhr mittags",
-    "year": 1952,
-    "genres": []
+    "imdbId": "tt0044706",
+    "title": "High Noon",
+    "year": "1952",
+    "genres": [
+      "Action",
+      " Drama",
+      " Western"
+    ],
+    "$$hashKey": "object:234",
+    "rating": "8.1"
   },
   {
+    "imdbId": "tt1392214",
     "title": "Prisoners",
-    "year": 2013,
-    "genres": []
+    "year": "2013",
+    "genres": [
+      "Crime",
+      " Drama",
+      " Mystery"
+    ],
+    "$$hashKey": "object:235",
+    "rating": "8.1"
   },
   {
-    "title": "Fluch der Karibik",
-    "year": 2003,
-    "genres": []
+    "imdbId": "tt0325980",
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "year": "2003",
+    "genres": [
+      "Action",
+      " Adventure",
+      " Fantasy"
+    ],
+    "$$hashKey": "object:236",
+    "rating": "8.1"
   },
   {
-    "title": "Das Schloss im Himmel",
-    "year": 1986,
-    "genres": []
+    "imdbId": "tt0092067",
+    "title": "Castle in the Sky",
+    "year": "1986",
+    "genres": [
+      "Animation",
+      " Adventure",
+      " Family"
+    ],
+    "$$hashKey": "object:237",
+    "rating": "8.1"
   },
   {
+    "imdbId": "tt1454029",
     "title": "The Help",
-    "year": 2011,
-    "genres": []
+    "year": "2011",
+    "genres": [
+      "Drama"
+    ],
+    "$$hashKey": "object:238",
+    "rating": "8.1"
   },
   {
-    "title": "Berüchtigt",
-    "year": 1946,
-    "genres": []
+    "imdbId": "tt0038787",
+    "title": "Notorious",
+    "year": "1946",
+    "genres": [
+      "Drama",
+      " Film-Noir",
+      " Romance"
+    ],
+    "$$hashKey": "object:239",
+    "rating": "8.1"
   },
   {
-    "title": "Ein Herz und eine Krone",
-    "year": 1953,
-    "genres": []
+    "imdbId": "tt0046250",
+    "title": "Roman Holiday",
+    "year": "1953",
+    "genres": [
+      "Comedy",
+      " Romance"
+    ],
+    "$$hashKey": "object:240",
+    "rating": "8.1"
   },
   {
-    "title": "Creed - Rocky's Legacy",
-    "year": 2015,
-    "genres": []
+    "imdbId": "tt3076658",
+    "title": "Creed",
+    "year": "2015",
+    "genres": [
+      "Drama",
+      " Sport"
+    ],
+    "$$hashKey": "object:241",
+    "rating": "8.2"
   },
   {
-    "title": "Wer hat Angst vor Virginia Woolf?",
-    "year": 1966,
-    "genres": []
+    "imdbId": "tt0061184",
+    "title": "Who's Afraid of Virginia Woolf?",
+    "year": "1966",
+    "genres": [
+      "Drama"
+    ],
+    "$$hashKey": "object:242",
+    "rating": "8.1"
   },
   {
+    "imdbId": "tt0070511",
     "title": "Papillon",
-    "year": 1973,
-    "genres": []
+    "year": "1973",
+    "genres": [
+      "Biography",
+      " Crime",
+      " Drama"
+    ],
+    "$$hashKey": "object:243",
+    "rating": "8.1"
   },
   {
-    "title": "Frühling, Sommer, Herbst, Winter... und Frühling",
-    "year": 2003,
-    "genres": []
+    "imdbId": "tt0374546",
+    "title": "Spring, Summer, Fall, Winter... and Spring",
+    "year": "2003",
+    "genres": [
+      "Drama"
+    ],
+    "$$hashKey": "object:244",
+    "rating": "8.1"
   },
   {
-    "title": "Die Schöne und das Biest",
-    "year": 1991,
-    "genres": []
+    "imdbId": "tt0101414",
+    "title": "Beauty and the Beast",
+    "year": "1991",
+    "genres": [
+      "Animation",
+      " Family",
+      " Fantasy"
+    ],
+    "$$hashKey": "object:245",
+    "rating": "8.0"
   },
   {
-    "title": "Die Nacht des Jägers",
-    "year": 1955,
-    "genres": []
+    "imdbId": "tt0048424",
+    "title": "The Night of the Hunter",
+    "year": "1955",
+    "genres": [
+      "Crime",
+      " Drama",
+      " Film-Noir"
+    ],
+    "$$hashKey": "object:246",
+    "rating": "8.1"
   },
   {
-    "title": "Anatomie eines Mordes",
-    "year": 1959,
-    "genres": []
+    "imdbId": "tt0052561",
+    "title": "Anatomy of a Murder",
+    "year": "1959",
+    "genres": [
+      "Crime",
+      " Drama",
+      " Mystery"
+    ],
+    "$$hashKey": "object:247",
+    "rating": "8.1"
   },
   {
+    "imdbId": "tt0381681",
     "title": "Before Sunset",
-    "year": 2004,
-    "genres": []
+    "year": "2004",
+    "genres": [
+      "Drama",
+      " Romance"
+    ],
+    "$$hashKey": "object:248",
+    "rating": "8.0"
   },
   {
+    "imdbId": "tt0264464",
     "title": "Catch Me If You Can",
-    "year": 2002,
-    "genres": []
+    "year": "2002",
+    "genres": [
+      "Biography",
+      " Crime",
+      " Drama"
+    ],
+    "$$hashKey": "object:249",
+    "rating": "8.0"
   },
   {
-    "title": "Drei Farben - Rot",
-    "year": 1994,
-    "genres": []
+    "imdbId": "tt0111495",
+    "title": "Three Colors: Red",
+    "year": "1994",
+    "genres": [
+      "Drama",
+      " Mystery",
+      " Romance"
+    ],
+    "$$hashKey": "object:250",
+    "rating": "8.1"
   },
   {
-    "title": "Das Lied der Straße",
-    "year": 1954,
-    "genres": []
+    "imdbId": "tt0047528",
+    "title": "La Strada",
+    "year": "1954",
+    "genres": [
+      "Drama"
+    ],
+    "$$hashKey": "object:251",
+    "rating": "8.1"
   },
   {
+    "imdbId": "tt0069293",
     "title": "Solaris",
-    "year": 1972,
-    "genres": []
+    "year": "1972",
+    "genres": [
+      "Drama",
+      " Mystery",
+      " Sci-Fi"
+    ],
+    "$$hashKey": "object:252",
+    "rating": "8.1"
   },
   {
-    "title": "Die Rechnung ging nicht auf",
-    "year": 1956,
-    "genres": []
+    "imdbId": "tt0049406",
+    "title": "The Killing",
+    "year": "1956",
+    "genres": [
+      "Crime",
+      " Film-Noir",
+      " Thriller"
+    ],
+    "$$hashKey": "object:253",
+    "rating": "8.1"
   },
   {
-    "title": "In the Mood for Love - Der Klang der Liebe",
-    "year": 2000,
-    "genres": []
+    "imdbId": "tt0118694",
+    "title": "In the Mood for Love",
+    "year": "2000",
+    "genres": [
+      "Drama",
+      " Romance"
+    ],
+    "$$hashKey": "object:254",
+    "rating": "8.1"
   }
 ]

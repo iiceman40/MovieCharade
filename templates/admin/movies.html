@@ -1,0 +1,59 @@
+<h2>Movies</h2>
+<div class="row">
+	<div class="col-sm-6">
+		<button class="btn btn-success" ng-click="addMovie()">
+			<span class="glyphicon glyphicon-plus"></span> Hinzufügen
+		</button>
+		<button class="btn btn-warning" ng-click="save()">
+			<span class="glyphicon glyphicon-save"></span> Speichern
+		</button>
+	</div>
+	<div class="col-sm-6">
+		<div ng-if="!updateAllInProgress" class="pull-right">
+			<button class="btn btn-warning" ng-click="updateInfo(0, true)">
+				<span class="glyphicon glyphicon-refresh"></span> Update Info
+			</button>
+		</div>
+		<div ng-if="updateAllInProgress">
+			<div class="progress">
+				<div class="progress-bar" role="progressbar" aria-valuenow="{{updateAllProgress}}" aria-valuemin="0" aria-valuemax="100" ng-style="{width: updateAllProgress + '%'}">
+					{{updateAllProgress}}%
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<br/>
+<div ng-repeat="movie in movies" class="form-horizontal">
+	<div class="panel panel-default">
+		<div class="panel-body">
+			<div class="row">
+				<div class="col-sm-6">
+					<label for="title-{{$index}}">Titel</label>
+					<input id="title-{{$index}}" ng-model="movie.title" class="input-sm form-control"/>
+					<label for="imdb-{{$index}}">IMDB-ID</label>
+					<input id="imdb-{{$index}}" ng-model="movie.imdbId" class="input-sm form-control"/>
+					<label for="year-{{$index}}">Jahr</label>
+					<input id="year-{{$index}}" ng-model="movie.year" class="input-sm form-control"/>
+				</div>
+				<div class="col-sm-6">
+					<label for="genres-{{$index}}">Genres</label>
+					<select id="genres-{{$index}}" ng-model="movie.genres" multiple="multiple" class="input-sm form-control">
+						<option ng-repeat="genre in genres">{{genre}}</option>
+					</select>
+					<span ng-repeat="genre in movie.genres">
+						{{genre}}
+					</span>
+					<div ng-if="movie.imdbId">
+						<button class="btn btn-primary" ng-click="updateInfo(movies.indexOf(movie), false)">IMDB Daten</button>
+					</div>
+					<div ng-if="movie.rating">
+						<span class="badge">
+							{{movie.rating}}
+						</span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

@@ -4,7 +4,9 @@
 		<div ng-if="currentMovie">
 			<div class="panel panel-danger">
 				<div class="panel-heading">
-					<h3 class="panel-title">{{currentMovie.title}}</h3>
+					<h3 class="panel-title">
+						{{currentMovie.title}}
+					</h3>
 				</div>
 				<div class="panel-body">
 					{{currentMovie.year}}
@@ -12,6 +14,9 @@
 					<span ng-repeat="genre in currentMovie.genres">
 						{{genre}}<span ng-if="!$last">,</span>
 					</span>
+				</div>
+				<div class="panel-footer">
+					IMDB-Rating: {{currentMovie.rating}}
 				</div>
 			</div>
 		</div>
