@@ -1,6 +1,6 @@
 <h2>Movies</h2>
 <div class="row">
-	<div class="col-sm-6">
+	<div class="col-sm-4">
 		<button class="btn btn-success" ng-click="addMovie()">
 			<span class="glyphicon glyphicon-plus"></span> Hinzufügen
 		</button>
@@ -8,10 +8,19 @@
 			<span class="glyphicon glyphicon-save"></span> Speichern
 		</button>
 	</div>
-	<div class="col-sm-6">
-		<div ng-if="!updateAllInProgress" class="pull-right">
-			<button class="btn btn-warning" ng-click="updateInfo(0, true)">
-				<span class="glyphicon glyphicon-refresh"></span> Update Info
+	<div class="col-sm-8">
+		<div ng-if="!updateAllInProgress" class="text-right">
+			<span class="checkbox" style="display: inline">
+				<label>
+					<input type="checkbox" ng-model="updateOptions.onlyEmptyFields" />
+					Nur leere Felder befüllen
+				</label>
+			</span>
+			<button class="btn btn-warning" ng-click="updateInfoFromOmdb(0, true)">
+				<span class="glyphicon glyphicon-refresh"></span> Update Info OMDB
+			</button>
+			<button class="btn btn-warning" ng-click="updateInfoFromMyApiFilms(0, true)">
+				<span class="glyphicon glyphicon-refresh"></span> Update Deutsche Titel
 			</button>
 		</div>
 		<div ng-if="updateAllInProgress">
@@ -24,13 +33,40 @@
 	</div>
 </div>
 <br/>
-<div ng-repeat="movie in movies" class="form-horizontal">
+<div class="row">
+	<div class="col-sm-6">
+		<div class="form-inline">
+			<label for="search">Suche</label>
+			<input type="text" ng-model="pagination.search" class="input-sm form-control" id="search">
+			<span>Anzahl nach Filter {{filteredMovies.length}}</span>
+		</div>
+	</div>
+	<div class="col-sm-6">
+		<div class="pull-right">
+			<div class="form-inline">
+				Einträge pro Seite <input type="number" ng-model="pagination.limit" class="input-sm form-control" />
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="text-center">
+	<ul class="pagination">
+		<li ng-repeat="page in getPages() track by $index" ng-class="{active: $index == pagination.currentPageIndex}">
+			<a href="" ng-click="goToPage($index)">{{$index+1}}</a>
+		</li>
+	</ul>
+</div>
+
+<div ng-repeat="movie in filteredMovies | filter:search | limitTo:pagination.limit:pagination.offset" class="form-horizontal">
 	<div class="panel panel-default">
 		<div class="panel-body">
 			<div class="row">
 				<div class="col-sm-6">
-					<label for="title-{{$index}}">Titel</label>
+					<label for="title-{{$index}}">Original Titel</label>
 					<input id="title-{{$index}}" ng-model="movie.title" class="input-sm form-control"/>
+					<label for="germanTitle-{{$index}}">Deutscher Titel</label>
+					<input id="germanTitle-{{$index}}" ng-model="movie.germanTitle" class="input-sm form-control"/>
 					<label for="imdb-{{$index}}">IMDB-ID</label>
 					<input id="imdb-{{$index}}" ng-model="movie.imdbId" class="input-sm form-control"/>
 					<label for="year-{{$index}}">Jahr</label>
@@ -41,16 +77,27 @@
 					<select id="genres-{{$index}}" ng-model="movie.genres" multiple="multiple" class="input-sm form-control">
 						<option ng-repeat="genre in genres">{{genre}}</option>
 					</select>
-					<span ng-repeat="genre in movie.genres">
-						{{genre}}
-					</span>
-					<div ng-if="movie.imdbId">
-						<button class="btn btn-primary" ng-click="updateInfo(movies.indexOf(movie), false)">IMDB Daten</button>
+					<div ng-if="movie.genres.length">
+						Genres:
+						<span ng-repeat="genre in movie.genres" class="badge">
+							{{genre}}
+						</span>
 					</div>
 					<div ng-if="movie.rating">
+						Rating:
 						<span class="badge">
 							{{movie.rating}}
 						</span>
+					</div>
+					<div>
+						<br/>
+						<span ng-if="movie.imdbId">
+							<button class="btn btn-primary" ng-click="updateInfoFromOmdb(movies.indexOf(movie), false)">IMDB Info von OMDB</button>
+						</span>
+						<span ng-if="movie.imdbId && settings.myApiFilmsToken">
+							<button class="btn btn-primary" ng-click="updateInfoFromMyApiFilms(movies.indexOf(movie), false)">Deutschen Titel von MyApiFilms</button>
+						</span>
+						<button class="btn btn-danger" ng-click="removeMovie(movie)">Film löschen</button>
 					</div>
 				</div>
 			</div>

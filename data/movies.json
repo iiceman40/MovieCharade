@@ -1,5 +1,31 @@
 [
   {
+    "title": "The Little Mermaid",
+    "year": "1989",
+    "genres": [
+      "Animation",
+      " Family",
+      " Fantasy"
+    ],
+    "imdbId": "tt0097757",
+    "germanTitle": "Arielle, die Meerjungfrau",
+    "$$hashKey": "object:33570",
+    "rating": "7.6"
+  },
+  {
+    "title": "The Hateful Eight",
+    "year": "2015",
+    "genres": [
+      "Drama",
+      " Mystery",
+      " Thriller"
+    ],
+    "imdbId": "tt3460252",
+    "rating": "8.2",
+    "germanTitle": "The Hateful Eight",
+    "$$hashKey": "object:8642"
+  },
+  {
     "imdbId": "tt3899796",
     "title": "Sharknado 3: Oh Hell No!",
     "year": "2015",
@@ -8,7 +34,8 @@
       " Sci-Fi"
     ],
     "$$hashKey": "object:7004",
-    "rating": "4.4"
+    "rating": "4.4",
+    "germanTitle": "Sharknado 3: Oh Hell No!"
   },
   {
     "imdbId": "tt0111161",
@@ -19,7 +46,8 @@
       " Drama"
     ],
     "$$hashKey": "object:5",
-    "rating": "9.3"
+    "rating": "9.3",
+    "germanTitle": "Die Verurteilten"
   },
   {
     "imdbId": "tt0068646",
@@ -30,7 +58,8 @@
       " Drama"
     ],
     "$$hashKey": "object:6",
-    "rating": "9.2"
+    "rating": "9.2",
+    "germanTitle": "Der Pate"
   },
   {
     "imdbId": "tt0071562",
@@ -41,7 +70,8 @@
       " Drama"
     ],
     "$$hashKey": "object:7",
-    "rating": "9.0"
+    "rating": "9.0",
+    "germanTitle": "Der Pate - Teil II"
   },
   {
     "imdbId": "tt0468569",
@@ -53,7 +83,8 @@
       " Drama"
     ],
     "$$hashKey": "object:8",
-    "rating": "9.0"
+    "rating": "9.0",
+    "germanTitle": "The Dark Knight"
   },
   {
     "imdbId": "tt0050083",
@@ -64,7 +95,8 @@
       " Drama"
     ],
     "$$hashKey": "object:9",
-    "rating": "8.9"
+    "rating": "8.9",
+    "germanTitle": "Die zwölf Geschworenen"
   },
   {
     "imdbId": "tt0108052",
@@ -76,7 +108,8 @@
       " History"
     ],
     "$$hashKey": "object:10",
-    "rating": "8.9"
+    "rating": "8.9",
+    "germanTitle": "Schindlers Liste"
   },
   {
     "imdbId": "tt0110912",
@@ -87,7 +120,8 @@
       " Drama"
     ],
     "$$hashKey": "object:11",
-    "rating": "8.9"
+    "rating": "8.9",
+    "germanTitle": "Pulp Fiction"
   },
   {
     "imdbId": "tt0060196",
@@ -97,7 +131,8 @@
       "Western"
     ],
     "$$hashKey": "object:12",
-    "rating": "8.9"
+    "rating": "8.9",
+    "germanTitle": "Zwei glorreiche Halunken"
   },
   {
     "imdbId": "tt0167260",
@@ -109,7 +144,8 @@
       " Fantasy"
     ],
     "$$hashKey": "object:13",
-    "rating": "8.9"
+    "rating": "8.9",
+    "germanTitle": "Der Herr der Ringe - Die Rückkehr des Königs"
   },
   {
     "imdbId": "tt0137523",
@@ -119,7 +155,8 @@
       "Drama"
     ],
     "$$hashKey": "object:14",
-    "rating": "8.9"
+    "rating": "8.9",
+    "germanTitle": "Fight Club"
   },
   {
     "imdbId": "tt0120737",
@@ -131,7 +168,8 @@
       " Fantasy"
     ],
     "$$hashKey": "object:15",
-    "rating": "8.8"
+    "rating": "8.8",
+    "germanTitle": "Der Herr der Ringe - Die Gefährten"
   },
   {
     "imdbId": "tt0080684",
@@ -143,7 +181,8 @@
       " Fantasy"
     ],
     "$$hashKey": "object:16",
-    "rating": "8.8"
+    "rating": "8.8",
+    "germanTitle": "Star Wars: Episode V - Das Imperium schlägt zurück"
   },
   {
     "imdbId": "tt0109830",
@@ -154,7 +193,8 @@
       " Romance"
     ],
     "$$hashKey": "object:17",
-    "rating": "8.8"
+    "rating": "8.8",
+    "germanTitle": "Forrest Gump"
   },
   {
     "imdbId": "tt1375666",
@@ -166,7 +206,8 @@
       " Sci-Fi"
     ],
     "$$hashKey": "object:18",
-    "rating": "8.8"
+    "rating": "8.8",
+    "germanTitle": "Inception"
   },
   {
     "imdbId": "tt0073486",
@@ -176,7 +217,8 @@
       "Drama"
     ],
     "$$hashKey": "object:19",
-    "rating": "8.7"
+    "rating": "8.7",
+    "germanTitle": "Einer flog über das Kuckucksnest"
   },
   {
     "imdbId": "tt0167261",
@@ -188,7 +230,8 @@
       " Fantasy"
     ],
     "$$hashKey": "object:20",
-    "rating": "8.7"
+    "rating": "8.7",
+    "germanTitle": "Der Herr der Ringe - Die zwei Türme"
   },
   {
     "imdbId": "tt0133093",
@@ -199,7 +242,8 @@
       " Sci-Fi"
     ],
     "$$hashKey": "object:21",
-    "rating": "8.7"
+    "rating": "8.7",
+    "germanTitle": "Matrix"
   },
   {
     "imdbId": "tt0099685",
@@ -211,7 +255,8 @@
       " Drama"
     ],
     "$$hashKey": "object:22",
-    "rating": "8.7"
+    "rating": "8.7",
+    "germanTitle": "Good Fellas - Drei Jahrzehnte in der Mafia"
   },
   {
     "imdbId": "tt0076759",
@@ -223,7 +268,8 @@
       " Fantasy"
     ],
     "$$hashKey": "object:23",
-    "rating": "8.7"
+    "rating": "8.7",
+    "germanTitle": "Star Wars: Episode IV - Eine neue Hoffnung"
   },
   {
     "imdbId": "tt0047478",
@@ -233,7 +279,8 @@
       "Drama"
     ],
     "$$hashKey": "object:24",
-    "rating": "8.7"
+    "rating": "8.7",
+    "germanTitle": "Die sieben Samurai"
   },
   {
     "imdbId": "tt0317248",
@@ -244,7 +291,8 @@
       " Drama"
     ],
     "$$hashKey": "object:25",
-    "rating": "8.7"
+    "rating": "8.7",
+    "germanTitle": "City of God"
   },
   {
     "imdbId": "tt0114369",
@@ -256,7 +304,8 @@
       " Mystery"
     ],
     "$$hashKey": "object:26",
-    "rating": "8.6"
+    "rating": "8.6",
+    "germanTitle": "Sieben"
   },
   {
     "imdbId": "tt0102926",
@@ -268,7 +317,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:27",
-    "rating": "8.6"
+    "rating": "8.6",
+    "germanTitle": "Das Schweigen der Lämmer"
   },
   {
     "imdbId": "tt0114814",
@@ -280,7 +330,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:28",
-    "rating": "8.6"
+    "rating": "8.6",
+    "germanTitle": "Die üblichen Verdächtigen"
   },
   {
     "imdbId": "tt0038650",
@@ -292,7 +343,8 @@
       " Fantasy"
     ],
     "$$hashKey": "object:29",
-    "rating": "8.6"
+    "rating": "8.6",
+    "germanTitle": "Ist das Leben nicht schön?"
   },
   {
     "imdbId": "tt0118799",
@@ -304,7 +356,8 @@
       " Romance"
     ],
     "$$hashKey": "object:30",
-    "rating": "8.6"
+    "rating": "8.6",
+    "germanTitle": "Das Leben ist schön"
   },
   {
     "imdbId": "tt0110413",
@@ -316,7 +369,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:31",
-    "rating": "8.6"
+    "rating": "8.6",
+    "germanTitle": "Léon - Der Profi"
   },
   {
     "imdbId": "tt0064116",
@@ -326,7 +380,8 @@
       "Western"
     ],
     "$$hashKey": "object:32",
-    "rating": "8.6"
+    "rating": "8.6",
+    "germanTitle": "Spiel mir das Lied vom Tod"
   },
   {
     "imdbId": "tt0816692",
@@ -338,7 +393,8 @@
       " Sci-Fi"
     ],
     "$$hashKey": "object:33",
-    "rating": "8.6"
+    "rating": "8.6",
+    "germanTitle": "Interstellar"
   },
   {
     "imdbId": "tt0245429",
@@ -350,7 +406,8 @@
       " Family"
     ],
     "$$hashKey": "object:34",
-    "rating": "8.6"
+    "rating": "8.6",
+    "germanTitle": "Chihiros Reise ins Zauberland"
   },
   {
     "imdbId": "tt0120815",
@@ -362,7 +419,8 @@
       " War"
     ],
     "$$hashKey": "object:35",
-    "rating": "8.6"
+    "rating": "8.6",
+    "germanTitle": "Der Soldat James Ryan"
   },
   {
     "imdbId": "tt0120586",
@@ -373,7 +431,8 @@
       " Drama"
     ],
     "$$hashKey": "object:36",
-    "rating": "8.6"
+    "rating": "8.6",
+    "germanTitle": "American History X"
   },
   {
     "imdbId": "tt0034583",
@@ -385,7 +444,8 @@
       " War"
     ],
     "$$hashKey": "object:37",
-    "rating": "8.6"
+    "rating": "8.6",
+    "germanTitle": "Casablanca"
   },
   {
     "imdbId": "tt0021749",
@@ -397,7 +457,8 @@
       " Romance"
     ],
     "$$hashKey": "object:38",
-    "rating": "8.6"
+    "rating": "8.6",
+    "germanTitle": "Lichter der Großstadt"
   },
   {
     "imdbId": "tt0054215",
@@ -409,7 +470,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:39",
-    "rating": "8.5"
+    "rating": "8.5",
+    "germanTitle": "Psycho"
   },
   {
     "imdbId": "tt0082971",
@@ -420,7 +482,8 @@
       " Adventure"
     ],
     "$$hashKey": "object:40",
-    "rating": "8.5"
+    "rating": "8.5",
+    "germanTitle": "Jäger des verlorenen Schatzes"
   },
   {
     "imdbId": "tt0047396",
@@ -431,7 +494,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:41",
-    "rating": "8.5"
+    "rating": "8.5",
+    "germanTitle": "Das Fenster zum Hof"
   },
   {
     "imdbId": "tt1675434",
@@ -443,7 +507,8 @@
       " Drama"
     ],
     "$$hashKey": "object:42",
-    "rating": "8.6"
+    "rating": "8.6",
+    "germanTitle": "Ziemlich beste Freunde"
   },
   {
     "imdbId": "tt0027977",
@@ -454,7 +519,8 @@
       " Drama"
     ],
     "$$hashKey": "object:43",
-    "rating": "8.6"
+    "rating": "8.6",
+    "germanTitle": "Moderne Zeiten"
   },
   {
     "imdbId": "tt2488496",
@@ -466,7 +532,8 @@
       " Fantasy"
     ],
     "$$hashKey": "object:44",
-    "rating": "8.9"
+    "rating": "8.9",
+    "germanTitle": "Star Wars: Episode VII - Das Erwachen der Macht"
   },
   {
     "imdbId": "tt0120689",
@@ -478,7 +545,8 @@
       " Fantasy"
     ],
     "$$hashKey": "object:45",
-    "rating": "8.5"
+    "rating": "8.5",
+    "germanTitle": "The Green Mile"
   },
   {
     "imdbId": "tt0103064",
@@ -489,7 +557,8 @@
       " Sci-Fi"
     ],
     "$$hashKey": "object:46",
-    "rating": "8.5"
+    "rating": "8.5",
+    "germanTitle": "Terminator 2 - Tag der Abrechnung"
   },
   {
     "imdbId": "tt0253474",
@@ -501,7 +570,8 @@
       " War"
     ],
     "$$hashKey": "object:47",
-    "rating": "8.5"
+    "rating": "8.5",
+    "germanTitle": "Der Pianist"
   },
   {
     "imdbId": "tt2582802",
@@ -512,7 +582,8 @@
       " Music"
     ],
     "$$hashKey": "object:48",
-    "rating": "8.5"
+    "rating": "8.5",
+    "germanTitle": "Whiplash"
   },
   {
     "imdbId": "tt0407887",
@@ -524,7 +595,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:49",
-    "rating": "8.5"
+    "rating": "8.5",
+    "germanTitle": "Departed - Unter Feinden"
   },
   {
     "imdbId": "tt0088763",
@@ -536,7 +608,8 @@
       " Sci-Fi"
     ],
     "$$hashKey": "object:50",
-    "rating": "8.5"
+    "rating": "8.5",
+    "germanTitle": "Zurück in die Zukunft"
   },
   {
     "imdbId": "tt0209144",
@@ -547,7 +620,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:51",
-    "rating": "8.5"
+    "rating": "8.5",
+    "germanTitle": "Memento"
   },
   {
     "imdbId": "tt0172495",
@@ -558,7 +632,8 @@
       " Drama"
     ],
     "$$hashKey": "object:52",
-    "rating": "8.5"
+    "rating": "8.5",
+    "germanTitle": "Gladiator"
   },
   {
     "imdbId": "tt0078788",
@@ -569,7 +644,8 @@
       " War"
     ],
     "$$hashKey": "object:53",
-    "rating": "8.5"
+    "rating": "8.5",
+    "germanTitle": "Apocalypse Now"
   },
   {
     "imdbId": "tt0057012",
@@ -580,7 +656,8 @@
       " War"
     ],
     "$$hashKey": "object:54",
-    "rating": "8.5"
+    "rating": "8.5",
+    "germanTitle": "Dr. Seltsam oder: Wie ich lernte, die Bombe zu lieben"
   },
   {
     "imdbId": "tt0043014",
@@ -591,7 +668,8 @@
       " Film-Noir"
     ],
     "$$hashKey": "object:55",
-    "rating": "8.5"
+    "rating": "8.5",
+    "germanTitle": "Boulevard der Dämmerung - Sunset Boulevard"
   },
   {
     "imdbId": "tt0482571",
@@ -603,7 +681,8 @@
       " Sci-Fi"
     ],
     "$$hashKey": "object:56",
-    "rating": "8.5"
+    "rating": "8.5",
+    "germanTitle": "Prestige - Die Meister der Magie"
   },
   {
     "imdbId": "tt0078748",
@@ -614,7 +693,8 @@
       " Sci-Fi"
     ],
     "$$hashKey": "object:57",
-    "rating": "8.5"
+    "rating": "8.5",
+    "germanTitle": "Alien - Das unheimliche Wesen aus einer fremden Welt"
   },
   {
     "imdbId": "tt0110357",
@@ -626,7 +706,8 @@
       " Drama"
     ],
     "$$hashKey": "object:58",
-    "rating": "8.5"
+    "rating": "8.5",
+    "germanTitle": "Der König der Löwen"
   },
   {
     "imdbId": "tt0032553",
@@ -638,7 +719,8 @@
       " War"
     ],
     "$$hashKey": "object:59",
-    "rating": "8.5"
+    "rating": "8.5",
+    "germanTitle": "Der große Diktator"
   },
   {
     "imdbId": "tt0405094",
@@ -649,7 +731,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:60",
-    "rating": "8.5"
+    "rating": "8.5",
+    "germanTitle": "Das Leben der Anderen"
   },
   {
     "imdbId": "tt0095765",
@@ -659,7 +742,8 @@
       "Drama"
     ],
     "$$hashKey": "object:61",
-    "rating": "8.5"
+    "rating": "8.5",
+    "germanTitle": "Cinema Paradiso"
   },
   {
     "imdbId": "tt0081505",
@@ -670,7 +754,8 @@
       " Horror"
     ],
     "$$hashKey": "object:62",
-    "rating": "8.4"
+    "rating": "8.4",
+    "germanTitle": "Shining"
   },
   {
     "imdbId": "tt0050825",
@@ -681,7 +766,8 @@
       " War"
     ],
     "$$hashKey": "object:63",
-    "rating": "8.5"
+    "rating": "8.5",
+    "germanTitle": "Wege zum Ruhm"
   },
   {
     "imdbId": "tt1853728",
@@ -691,7 +777,8 @@
       "Western"
     ],
     "$$hashKey": "object:64",
-    "rating": "8.5"
+    "rating": "8.5",
+    "germanTitle": "Django Unchained"
   },
   {
     "imdbId": "tt1345836",
@@ -702,7 +789,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:65",
-    "rating": "8.5"
+    "rating": "8.5",
+    "germanTitle": "The Dark Knight Rises"
   },
   {
     "imdbId": "tt0910970",
@@ -714,7 +802,8 @@
       " Family"
     ],
     "$$hashKey": "object:66",
-    "rating": "8.4"
+    "rating": "8.4",
+    "germanTitle": "WALL·E - Der Letzte räumt die Erde auf"
   },
   {
     "imdbId": "tt0169547",
@@ -725,7 +814,8 @@
       " Romance"
     ],
     "$$hashKey": "object:67",
-    "rating": "8.4"
+    "rating": "8.4",
+    "germanTitle": "American Beauty"
   },
   {
     "imdbId": "tt0095327",
@@ -737,7 +827,8 @@
       " War"
     ],
     "$$hashKey": "object:68",
-    "rating": "8.5"
+    "rating": "8.5",
+    "germanTitle": "Die letzten Glühwürmchen"
   },
   {
     "imdbId": "tt0090605",
@@ -749,7 +840,8 @@
       " Sci-Fi"
     ],
     "$$hashKey": "object:69",
-    "rating": "8.4"
+    "rating": "8.4",
+    "germanTitle": "Aliens - Die Rückkehr"
   },
   {
     "imdbId": "tt0033467",
@@ -760,7 +852,8 @@
       " Mystery"
     ],
     "$$hashKey": "object:70",
-    "rating": "8.4"
+    "rating": "8.4",
+    "germanTitle": "Citizen Kane"
   },
   {
     "imdbId": "tt0053125",
@@ -772,7 +865,8 @@
       " Mystery"
     ],
     "$$hashKey": "object:71",
-    "rating": "8.4"
+    "rating": "8.4",
+    "germanTitle": "Der unsichtbare Dritte"
   },
   {
     "imdbId": "tt0119698",
@@ -784,7 +878,8 @@
       " Fantasy"
     ],
     "$$hashKey": "object:72",
-    "rating": "8.4"
+    "rating": "8.4",
+    "germanTitle": "Prinzessin Mononoke"
   },
   {
     "imdbId": "tt0364569",
@@ -796,7 +891,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:73",
-    "rating": "8.4"
+    "rating": "8.4",
+    "germanTitle": "Oldboy"
   },
   {
     "imdbId": "tt0052357",
@@ -808,7 +904,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:74",
-    "rating": "8.4"
+    "rating": "8.4",
+    "germanTitle": "Vertigo - Aus dem Reich der Toten"
   },
   {
     "imdbId": "tt0082096",
@@ -820,7 +917,8 @@
       " War"
     ],
     "$$hashKey": "object:75",
-    "rating": "8.4"
+    "rating": "8.4",
+    "germanTitle": "Das Boot"
   },
   {
     "imdbId": "tt0086190",
@@ -832,7 +930,8 @@
       " Fantasy"
     ],
     "$$hashKey": "object:76",
-    "rating": "8.4"
+    "rating": "8.4",
+    "germanTitle": "Star Wars: Episode VI - Die Rückkehr der Jedi-Ritter"
   },
   {
     "imdbId": "tt0087843",
@@ -843,7 +942,8 @@
       " Drama"
     ],
     "$$hashKey": "object:77",
-    "rating": "8.4"
+    "rating": "8.4",
+    "germanTitle": "Es war einmal in Amerika"
   },
   {
     "imdbId": "tt0022100",
@@ -855,7 +955,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:78",
-    "rating": "8.4"
+    "rating": "8.4",
+    "germanTitle": "M - Eine Stadt sucht einen Mörder"
   },
   {
     "imdbId": "tt0211915",
@@ -866,7 +967,8 @@
       " Romance"
     ],
     "$$hashKey": "object:79",
-    "rating": "8.4"
+    "rating": "8.4",
+    "germanTitle": "Die fabelhafte Welt der Amélie"
   },
   {
     "imdbId": "tt0051201",
@@ -877,7 +979,8 @@
       " Mystery"
     ],
     "$$hashKey": "object:80",
-    "rating": "8.4"
+    "rating": "8.4",
+    "germanTitle": "Zeugin der Anklage"
   },
   {
     "imdbId": "tt0105236",
@@ -888,7 +991,8 @@
       " Drama"
     ],
     "$$hashKey": "object:81",
-    "rating": "8.4"
+    "rating": "8.4",
+    "germanTitle": "Reservoir Dogs - Wilde Hunde"
   },
   {
     "imdbId": "tt0112573",
@@ -900,7 +1004,8 @@
       " History"
     ],
     "$$hashKey": "object:82",
-    "rating": "8.4"
+    "rating": "8.4",
+    "germanTitle": "Braveheart"
   },
   {
     "imdbId": "tt0066921",
@@ -912,7 +1017,8 @@
       " Sci-Fi"
     ],
     "$$hashKey": "object:83",
-    "rating": "8.4"
+    "rating": "8.4",
+    "germanTitle": "Uhrwerk Orange"
   },
   {
     "imdbId": "tt0435761",
@@ -924,7 +1030,8 @@
       " Comedy"
     ],
     "$$hashKey": "object:84",
-    "rating": "8.4"
+    "rating": "8.4",
+    "germanTitle": "Toy Story 3"
   },
   {
     "imdbId": "tt0180093",
@@ -934,7 +1041,8 @@
       "Drama"
     ],
     "$$hashKey": "object:85",
-    "rating": "8.4"
+    "rating": "8.4",
+    "germanTitle": "Requiem for a Dream"
   },
   {
     "imdbId": "tt0075314",
@@ -945,7 +1053,8 @@
       " Drama"
     ],
     "$$hashKey": "object:86",
-    "rating": "8.4"
+    "rating": "8.4",
+    "germanTitle": "Taxi Driver"
   },
   {
     "imdbId": "tt0036775",
@@ -957,7 +1066,8 @@
       " Film-Noir"
     ],
     "$$hashKey": "object:87",
-    "rating": "8.4"
+    "rating": "8.4",
+    "germanTitle": "Frau ohne Gewissen"
   },
   {
     "imdbId": "tt0056592",
@@ -967,7 +1077,8 @@
       "Drama"
     ],
     "$$hashKey": "object:88",
-    "rating": "8.4"
+    "rating": "8.4",
+    "germanTitle": "Wer die Nachtigall stört"
   },
   {
     "imdbId": "tt0056172",
@@ -979,7 +1090,8 @@
       " Drama"
     ],
     "$$hashKey": "object:89",
-    "rating": "8.4"
+    "rating": "8.4",
+    "germanTitle": "Lawrence von Arabien"
   },
   {
     "imdbId": "tt0338013",
@@ -991,7 +1103,8 @@
       " Sci-Fi"
     ],
     "$$hashKey": "object:90",
-    "rating": "8.4"
+    "rating": "8.4",
+    "germanTitle": "Vergiss mein nicht!"
   },
   {
     "imdbId": "tt0093058",
@@ -1002,7 +1115,8 @@
       " War"
     ],
     "$$hashKey": "object:91",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Full Metal Jacket"
   },
   {
     "imdbId": "tt0086879",
@@ -1014,7 +1128,8 @@
       " Music"
     ],
     "$$hashKey": "object:92",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Amadeus"
   },
   {
     "imdbId": "tt0070735",
@@ -1026,7 +1141,8 @@
       " Drama"
     ],
     "$$hashKey": "object:93",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Der Clou"
   },
   {
     "imdbId": "tt0045152",
@@ -1038,7 +1154,8 @@
       " Romance"
     ],
     "$$hashKey": "object:94",
-    "rating": "8.4"
+    "rating": "8.4",
+    "germanTitle": "Du sollst mein Glücksstern sein"
   },
   {
     "imdbId": "tt0040522",
@@ -1048,7 +1165,8 @@
       "Drama"
     ],
     "$$hashKey": "object:95",
-    "rating": "8.4"
+    "rating": "8.4",
+    "germanTitle": "Fahrraddiebe"
   },
   {
     "imdbId": "tt0062622",
@@ -1059,7 +1177,8 @@
       " Sci-Fi"
     ],
     "$$hashKey": "object:96",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "2001: Odyssee im Weltraum"
   },
   {
     "imdbId": "tt2096673",
@@ -1071,7 +1190,8 @@
       " Comedy"
     ],
     "$$hashKey": "object:97",
-    "rating": "8.4"
+    "rating": "8.4",
+    "germanTitle": "Alles steht Kopf"
   },
   {
     "imdbId": "tt0208092",
@@ -1082,7 +1202,8 @@
       " Crime"
     ],
     "$$hashKey": "object:98",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Snatch - Schweine und Diamanten"
   },
   {
     "imdbId": "tt0071853",
@@ -1094,7 +1215,8 @@
       " Fantasy"
     ],
     "$$hashKey": "object:99",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Die Ritter der Kokosnuss"
   },
   {
     "imdbId": "tt0012349",
@@ -1106,7 +1228,8 @@
       " Family"
     ],
     "$$hashKey": "object:100",
-    "rating": "8.4"
+    "rating": "8.4",
+    "germanTitle": "Der Vagabund und das Kind"
   },
   {
     "imdbId": "tt0114709",
@@ -1118,7 +1241,8 @@
       " Comedy"
     ],
     "$$hashKey": "object:101",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Toy Story"
   },
   {
     "imdbId": "tt0059578",
@@ -1128,7 +1252,8 @@
       "Western"
     ],
     "$$hashKey": "object:102",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Für ein paar Dollar mehr"
   },
   {
     "imdbId": "tt0119488",
@@ -1140,7 +1265,8 @@
       " Mystery"
     ],
     "$$hashKey": "object:103",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "L.A. Confidential - Jeder hat seinen Preis"
   },
   {
     "imdbId": "tt0042876",
@@ -1151,7 +1277,8 @@
       " Drama"
     ],
     "$$hashKey": "object:104",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Rashomon - Das Lustwäldchen"
   },
   {
     "imdbId": "tt0361748",
@@ -1163,7 +1290,8 @@
       " War"
     ],
     "$$hashKey": "object:105",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Inglourious Basterds"
   },
   {
     "imdbId": "tt0053604",
@@ -1175,7 +1303,8 @@
       " Romance"
     ],
     "$$hashKey": "object:106",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Das Appartement"
   },
   {
     "imdbId": "tt0042192",
@@ -1186,7 +1315,8 @@
       " Drama"
     ],
     "$$hashKey": "object:107",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Alles über Eva"
   },
   {
     "imdbId": "tt0097576",
@@ -1197,7 +1327,8 @@
       " Adventure"
     ],
     "$$hashKey": "object:108",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Indiana Jones und der letzte Kreuzzug"
   },
   {
     "imdbId": "tt1832382",
@@ -1207,7 +1338,8 @@
       "Drama"
     ],
     "$$hashKey": "object:109",
-    "rating": "8.4"
+    "rating": "8.4",
+    "germanTitle": "Nader und Simin - eine Trennung"
   },
   {
     "imdbId": "tt0017136",
@@ -1218,7 +1350,8 @@
       " Sci-Fi"
     ],
     "$$hashKey": "object:110",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Metropolis"
   },
   {
     "imdbId": "tt0040897",
@@ -1230,7 +1363,8 @@
       " Drama"
     ],
     "$$hashKey": "object:111",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Der Schatz der Sierra Madre"
   },
   {
     "imdbId": "tt0055630",
@@ -1240,7 +1374,8 @@
       "Drama"
     ],
     "$$hashKey": "object:112",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Yojimbo - Der Leibwächter"
   },
   {
     "imdbId": "tt0086250",
@@ -1251,7 +1386,8 @@
       " Drama"
     ],
     "$$hashKey": "object:113",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Scarface - Toni, das Narbengesicht"
   },
   {
     "imdbId": "tt0053291",
@@ -1261,7 +1397,8 @@
       "Comedy"
     ],
     "$$hashKey": "object:114",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Manche mögen’s heiß"
   },
   {
     "imdbId": "tt0372784",
@@ -1272,7 +1409,8 @@
       " Adventure"
     ],
     "$$hashKey": "object:115",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Batman Begins"
   },
   {
     "imdbId": "tt0041959",
@@ -1284,7 +1422,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:116",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Der dritte Mann"
   },
   {
     "imdbId": "tt0105695",
@@ -1294,7 +1433,8 @@
       "Western"
     ],
     "$$hashKey": "object:117",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Erbarmungslos"
   },
   {
     "imdbId": "tt1187043",
@@ -1305,7 +1445,8 @@
       " Drama"
     ],
     "$$hashKey": "object:118",
-    "rating": "8.5"
+    "rating": "8.5",
+    "germanTitle": "3 Idiots"
   },
   {
     "imdbId": "tt1049413",
@@ -1317,7 +1458,8 @@
       " Comedy"
     ],
     "$$hashKey": "object:119",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Oben"
   },
   {
     "imdbId": "tt2106476",
@@ -1327,7 +1469,8 @@
       "Drama"
     ],
     "$$hashKey": "object:120",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Die Jagd"
   },
   {
     "imdbId": "tt0081398",
@@ -1339,7 +1482,8 @@
       " Sport"
     ],
     "$$hashKey": "object:121",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Wie ein wilder Stier"
   },
   {
     "imdbId": "tt0363163",
@@ -1351,7 +1495,8 @@
       " War"
     ],
     "$$hashKey": "object:122",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Der Untergang"
   },
   {
     "imdbId": "tt0119217",
@@ -1361,7 +1506,8 @@
       "Drama"
     ],
     "$$hashKey": "object:123",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Good Will Hunting"
   },
   {
     "imdbId": "tt0095016",
@@ -1372,7 +1518,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:124",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Stirb Langsam"
   },
   {
     "imdbId": "tt0057115",
@@ -1384,7 +1531,8 @@
       " History"
     ],
     "$$hashKey": "object:125",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Gesprengte Ketten"
   },
   {
     "imdbId": "tt0071315",
@@ -1396,7 +1544,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:126",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Chinatown"
   },
   {
     "imdbId": "tt0073707",
@@ -1408,7 +1557,8 @@
       " Comedy"
     ],
     "$$hashKey": "object:127",
-    "rating": "8.6"
+    "rating": "8.6",
+    "germanTitle": "Sholay"
   },
   {
     "imdbId": "tt0113277",
@@ -1420,7 +1570,8 @@
       " Drama"
     ],
     "$$hashKey": "object:128",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Heat"
   },
   {
     "imdbId": "tt0018455",
@@ -1432,7 +1583,8 @@
       " Romance"
     ],
     "$$hashKey": "object:129",
-    "rating": "8.4"
+    "rating": "8.4",
+    "germanTitle": "Sunrise - Sonnenaufgang: Lied von zwei Menschen"
   },
   {
     "imdbId": "tt0047296",
@@ -1443,7 +1595,8 @@
       " Drama"
     ],
     "$$hashKey": "object:130",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Die Faust im Nacken"
   },
   {
     "imdbId": "tt0457430",
@@ -1455,7 +1608,8 @@
       " War"
     ],
     "$$hashKey": "object:131",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Pans Labyrinth"
   },
   {
     "imdbId": "tt0031679",
@@ -1465,7 +1619,8 @@
       "Drama"
     ],
     "$$hashKey": "object:132",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Mr. Smith geht nach Washington"
   },
   {
     "imdbId": "tt0096283",
@@ -1477,7 +1632,8 @@
       " Fantasy"
     ],
     "$$hashKey": "object:133",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Mein Nachbar Totoro"
   },
   {
     "imdbId": "tt0050212",
@@ -1489,7 +1645,8 @@
       " War"
     ],
     "$$hashKey": "object:134",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Die Brücke am Kwai"
   },
   {
     "imdbId": "tt0044741",
@@ -1499,7 +1656,8 @@
       "Drama"
     ],
     "$$hashKey": "object:135",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Ikiru - Einmal wirklich leben"
   },
   {
     "imdbId": "tt0089881",
@@ -1511,7 +1669,8 @@
       " War"
     ],
     "$$hashKey": "object:136",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Ran"
   },
   {
     "imdbId": "tt0015864",
@@ -1523,7 +1682,8 @@
       " Drama"
     ],
     "$$hashKey": "object:137",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Goldrausch"
   },
   {
     "imdbId": "tt0050976",
@@ -1534,7 +1694,8 @@
       " Fantasy"
     ],
     "$$hashKey": "object:138",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Das siebente Siegel"
   },
   {
     "imdbId": "tt0083658",
@@ -1545,7 +1706,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:139",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Der Blade Runner"
   },
   {
     "imdbId": "tt1305806",
@@ -1557,7 +1719,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:140",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "In ihren Augen"
   },
   {
     "imdbId": "tt0050986",
@@ -1568,7 +1731,8 @@
       " Romance"
     ],
     "$$hashKey": "object:141",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Wilde Erdbeeren"
   },
   {
     "imdbId": "tt0120735",
@@ -1579,7 +1743,8 @@
       " Crime"
     ],
     "$$hashKey": "object:142",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Bube, Dame, König, grAS"
   },
   {
     "imdbId": "tt0017925",
@@ -1591,7 +1756,8 @@
       " Comedy"
     ],
     "$$hashKey": "object:143",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Der General"
   },
   {
     "imdbId": "tt0080678",
@@ -1602,7 +1768,8 @@
       " Drama"
     ],
     "$$hashKey": "object:144",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Der Elefantenmensch"
   },
   {
     "imdbId": "tt0112641",
@@ -1614,7 +1781,8 @@
       " Drama"
     ],
     "$$hashKey": "object:145",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Casino"
   },
   {
     "imdbId": "tt0347149",
@@ -1626,7 +1794,8 @@
       " Family"
     ],
     "$$hashKey": "object:146",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Das wandelnde Schloss"
   },
   {
     "imdbId": "tt1291584",
@@ -1637,7 +1806,8 @@
       " Sport"
     ],
     "$$hashKey": "object:147",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Warrior"
   },
   {
     "imdbId": "tt0993846",
@@ -1649,7 +1819,8 @@
       " Crime"
     ],
     "$$hashKey": "object:148",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "The Wolf of Wall Street"
   },
   {
     "imdbId": "tt0434409",
@@ -1661,7 +1832,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:149",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "V wie Vendetta"
   },
   {
     "imdbId": "tt1205489",
@@ -1671,7 +1843,8 @@
       "Drama"
     ],
     "$$hashKey": "object:150",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Gran Torino"
   },
   {
     "imdbId": "tt0055031",
@@ -1683,7 +1856,8 @@
       " War"
     ],
     "$$hashKey": "object:151",
-    "rating": "8.3"
+    "rating": "8.3",
+    "germanTitle": "Das Urteil von Nürnberg"
   },
   {
     "imdbId": "tt0118715",
@@ -1694,7 +1868,8 @@
       " Crime"
     ],
     "$$hashKey": "object:152",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "The Big Lebowski"
   },
   {
     "imdbId": "tt0268978",
@@ -1705,7 +1880,8 @@
       " Drama"
     ],
     "$$hashKey": "object:153",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "A Beautiful Mind - Genie und Wahnsinn"
   },
   {
     "imdbId": "tt0032976",
@@ -1716,7 +1892,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:154",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Rebecca"
   },
   {
     "imdbId": "tt0077416",
@@ -1727,7 +1904,8 @@
       " War"
     ],
     "$$hashKey": "object:155",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Die durch die Hölle gehen"
   },
   {
     "imdbId": "tt1392190",
@@ -1739,7 +1917,8 @@
       " Sci-Fi"
     ],
     "$$hashKey": "object:156",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Mad Max: Fury Road"
   },
   {
     "imdbId": "tt0892769",
@@ -1751,7 +1930,8 @@
       " Family"
     ],
     "$$hashKey": "object:157",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Drachenzähmen leicht gemacht"
   },
   {
     "imdbId": "tt0061512",
@@ -1762,7 +1942,8 @@
       " Drama"
     ],
     "$$hashKey": "object:158",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Der Unbeugsame"
   },
   {
     "imdbId": "tt0031381",
@@ -1774,7 +1955,8 @@
       " War"
     ],
     "$$hashKey": "object:159",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Vom Winde verweht"
   },
   {
     "imdbId": "tt0116282",
@@ -1786,7 +1968,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:160",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Fargo"
   },
   {
     "imdbId": "tt0117951",
@@ -1796,7 +1979,8 @@
       "Drama"
     ],
     "$$hashKey": "object:161",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Trainspotting - Neue Helden"
   },
   {
     "imdbId": "tt0046912",
@@ -1807,7 +1991,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:162",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Bei Anruf Mord"
   },
   {
     "imdbId": "tt1255953",
@@ -1819,7 +2004,8 @@
       " War"
     ],
     "$$hashKey": "object:163",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Die Frau die singt – Incendies"
   },
   {
     "imdbId": "tt0167404",
@@ -1831,7 +2017,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:164",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "The Sixth Sense"
   },
   {
     "imdbId": "tt0758758",
@@ -1843,7 +2030,8 @@
       " Drama"
     ],
     "$$hashKey": "object:165",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Into the Wild"
   },
   {
     "imdbId": "tt0025316",
@@ -1854,7 +2042,8 @@
       " Romance"
     ],
     "$$hashKey": "object:166",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "It Happened One Night - Es geschah in einer Nacht"
   },
   {
     "imdbId": "tt0266543",
@@ -1866,7 +2055,8 @@
       " Comedy"
     ],
     "$$hashKey": "object:167",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Findet Nemo"
   },
   {
     "imdbId": "tt2267998",
@@ -1878,7 +2068,8 @@
       " Mystery"
     ],
     "$$hashKey": "object:168",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Gone Girl - Das perfekte Opfer"
   },
   {
     "imdbId": "tt0477348",
@@ -1890,7 +2081,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:169",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "No Country for Old Men"
   },
   {
     "imdbId": "tt0084787",
@@ -1901,7 +2093,8 @@
       " Sci-Fi"
     ],
     "$$hashKey": "object:170",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Das Ding aus einer anderen Welt"
   },
   {
     "imdbId": "tt0978762",
@@ -1913,7 +2106,8 @@
       " Drama"
     ],
     "$$hashKey": "object:171",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Mary & Max, oder - Schrumpfen Schafe, wenn es regnet"
   },
   {
     "imdbId": "tt1979320",
@@ -1925,7 +2119,8 @@
       " Drama"
     ],
     "$$hashKey": "object:172",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Rush - Alles für den Sieg"
   },
   {
     "imdbId": "tt0033870",
@@ -1937,7 +2132,8 @@
       " Film-Noir"
     ],
     "$$hashKey": "object:173",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Die Spur des Falken"
   },
   {
     "imdbId": "tt0266697",
@@ -1947,7 +2143,8 @@
       "Action"
     ],
     "$$hashKey": "object:174",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Kill Bill - Vol. 1"
   },
   {
     "imdbId": "tt0079470",
@@ -1957,7 +2154,8 @@
       "Comedy"
     ],
     "$$hashKey": "object:175",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Das Leben des Brian"
   },
   {
     "imdbId": "tt0046268",
@@ -1969,7 +2167,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:176",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Lohn der Angst"
   },
   {
     "imdbId": "tt0395169",
@@ -1981,7 +2180,8 @@
       " War"
     ],
     "$$hashKey": "object:177",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Hotel Ruanda"
   },
   {
     "imdbId": "tt0091763",
@@ -1992,7 +2192,8 @@
       " War"
     ],
     "$$hashKey": "object:178",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Platoon"
   },
   {
     "imdbId": "tt3659388",
@@ -2004,7 +2205,8 @@
       " Sci-Fi"
     ],
     "$$hashKey": "object:179",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Der Marsianer - Rettet Mark Watney"
   },
   {
     "imdbId": "tt0469494",
@@ -2014,7 +2216,8 @@
       "Drama"
     ],
     "$$hashKey": "object:180",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "There Will Be Blood"
   },
   {
     "imdbId": "tt0064115",
@@ -2026,7 +2229,8 @@
       " Drama"
     ],
     "$$hashKey": "object:181",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Butch Cassidy und Sundance Kid"
   },
   {
     "imdbId": "tt0074958",
@@ -2036,7 +2240,8 @@
       "Drama"
     ],
     "$$hashKey": "object:182",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Network"
   },
   {
     "imdbId": "tt0053198",
@@ -2047,7 +2252,8 @@
       " Drama"
     ],
     "$$hashKey": "object:183",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Sie küssten und sie schlugen ihn"
   },
   {
     "imdbId": "tt0060827",
@@ -2058,7 +2264,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:184",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Persona"
   },
   {
     "imdbId": "tt0092005",
@@ -2069,7 +2276,8 @@
       " Drama"
     ],
     "$$hashKey": "object:185",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Stand By Me - Das Geheimnis eines Sommers"
   },
   {
     "imdbId": "tt0052311",
@@ -2081,7 +2289,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:186",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Im Zeichen des Bösen"
   },
   {
     "imdbId": "tt2024544",
@@ -2093,7 +2302,8 @@
       " History"
     ],
     "$$hashKey": "object:187",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "12 Years a Slave"
   },
   {
     "imdbId": "tt0093779",
@@ -2105,7 +2315,8 @@
       " Family"
     ],
     "$$hashKey": "object:188",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Die Braut des Prinzen"
   },
   {
     "imdbId": "tt2278388",
@@ -2117,7 +2328,8 @@
       " Drama"
     ],
     "$$hashKey": "object:189",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Grand Budapest Hotel"
   },
   {
     "imdbId": "tt0245712",
@@ -2128,7 +2340,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:190",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Amores perros - Von Hunden und Menschen"
   },
   {
     "imdbId": "tt0107207",
@@ -2140,7 +2353,8 @@
       " History"
     ],
     "$$hashKey": "object:191",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Im Namen des Vaters"
   },
   {
     "imdbId": "tt0405159",
@@ -2151,7 +2365,8 @@
       " Sport"
     ],
     "$$hashKey": "object:192",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Million Dollar Baby"
   },
   {
     "imdbId": "tt0075686",
@@ -2162,7 +2377,8 @@
       " Romance"
     ],
     "$$hashKey": "object:193",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Der Stadtneurotiker"
   },
   {
     "imdbId": "tt0052618",
@@ -2174,7 +2390,8 @@
       " War"
     ],
     "$$hashKey": "object:194",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Ben Hur"
   },
   {
     "imdbId": "tt1130884",
@@ -2185,7 +2402,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:195",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Shutter Island"
   },
   {
     "imdbId": "tt0032551",
@@ -2195,7 +2413,8 @@
       "Drama"
     ],
     "$$hashKey": "object:196",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Früchte des Zorns"
   },
   {
     "imdbId": "tt3011894",
@@ -2207,7 +2426,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:197",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Wild Tales - Jeder dreht mal durch!"
   },
   {
     "imdbId": "tt1028532",
@@ -2218,7 +2438,8 @@
       " Family"
     ],
     "$$hashKey": "object:198",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Hachiko - Eine wunderbare Freundschaft"
   },
   {
     "imdbId": "tt0087544",
@@ -2230,7 +2451,8 @@
       " Fantasy"
     ],
     "$$hashKey": "object:199",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Nausicaä aus dem Tal der Winde"
   },
   {
     "imdbId": "tt0046911",
@@ -2242,7 +2464,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:200",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Die Teuflischen"
   },
   {
     "imdbId": "tt0079944",
@@ -2253,7 +2476,8 @@
       " Sci-Fi"
     ],
     "$$hashKey": "object:201",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Stalker"
   },
   {
     "imdbId": "tt0107290",
@@ -2265,7 +2489,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:202",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Jurassic Park"
   },
   {
     "imdbId": "tt0083987",
@@ -2277,7 +2502,8 @@
       " History"
     ],
     "$$hashKey": "object:203",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Gandhi"
   },
   {
     "imdbId": "tt0032138",
@@ -2289,7 +2515,8 @@
       " Fantasy"
     ],
     "$$hashKey": "object:204",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Der Zauberer von Oz"
   },
   {
     "imdbId": "tt0440963",
@@ -2300,7 +2527,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:205",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Das Bourne Ultimatum"
   },
   {
     "imdbId": "tt0036868",
@@ -2312,7 +2540,8 @@
       " War"
     ],
     "$$hashKey": "object:206",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Die besten Jahre unseres Lebens"
   },
   {
     "imdbId": "tt0401792",
@@ -2323,7 +2552,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:207",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Sin City"
   },
   {
     "imdbId": "tt0246578",
@@ -2334,7 +2564,8 @@
       " Sci-Fi"
     ],
     "$$hashKey": "object:208",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Donnie Darko"
   },
   {
     "imdbId": "tt0056801",
@@ -2344,7 +2575,8 @@
       "Drama"
     ],
     "$$hashKey": "object:209",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Achteinhalb"
   },
   {
     "imdbId": "tt0044079",
@@ -2356,7 +2588,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:210",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Der Fremde im Zug"
   },
   {
     "imdbId": "tt0112471",
@@ -2367,7 +2600,8 @@
       " Romance"
     ],
     "$$hashKey": "object:211",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Before Sunrise - Zwischenstop in Wien"
   },
   {
     "imdbId": "tt0114746",
@@ -2379,7 +2613,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:212",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "12 Monkeys"
   },
   {
     "imdbId": "tt0088247",
@@ -2390,7 +2625,8 @@
       " Sci-Fi"
     ],
     "$$hashKey": "object:213",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Terminator"
   },
   {
     "imdbId": "tt0120382",
@@ -2400,7 +2636,8 @@
       "Drama"
     ],
     "$$hashKey": "object:214",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Die Truman Show"
   },
   {
     "imdbId": "tt0107048",
@@ -2412,7 +2649,8 @@
       " Romance"
     ],
     "$$hashKey": "object:215",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Und täglich grüßt das Murmeltier"
   },
   {
     "imdbId": "tt0198781",
@@ -2424,7 +2662,8 @@
       " Comedy"
     ],
     "$$hashKey": "object:216",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Die Monster AG"
   },
   {
     "imdbId": "tt0353969",
@@ -2436,7 +2675,8 @@
       " Mystery"
     ],
     "$$hashKey": "object:217",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Memories of Murder"
   },
   {
     "imdbId": "tt0058946",
@@ -2448,7 +2688,8 @@
       " War"
     ],
     "$$hashKey": "object:218",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Schlacht um Algier"
   },
   {
     "imdbId": "tt0073195",
@@ -2459,7 +2700,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:219",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Der weiße Hai"
   },
   {
     "imdbId": "tt0338564",
@@ -2471,7 +2713,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:220",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Infernal Affairs"
   },
   {
     "imdbId": "tt0075148",
@@ -2482,7 +2725,8 @@
       " Sport"
     ],
     "$$hashKey": "object:221",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Rocky"
   },
   {
     "imdbId": "tt0848228",
@@ -2494,7 +2738,8 @@
       " Sci-Fi"
     ],
     "$$hashKey": "object:222",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Marvel's The Avengers"
   },
   {
     "imdbId": "tt1201607",
@@ -2506,7 +2751,8 @@
       " Fantasy"
     ],
     "$$hashKey": "object:223",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Harry Potter und die Heiligtümer des Todes - Teil 2"
   },
   {
     "imdbId": "tt0072890",
@@ -2517,7 +2763,8 @@
       " Drama"
     ],
     "$$hashKey": "object:224",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Hundstage"
   },
   {
     "imdbId": "tt0072684",
@@ -2529,7 +2776,8 @@
       " Romance"
     ],
     "$$hashKey": "object:225",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Barry Lyndon"
   },
   {
     "imdbId": "tt0083922",
@@ -2539,7 +2787,8 @@
       "Drama"
     ],
     "$$hashKey": "object:226",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Fanny und Alexander"
   },
   {
     "imdbId": "tt0113247",
@@ -2550,7 +2799,8 @@
       " Drama"
     ],
     "$$hashKey": "object:227",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Hass"
   },
   {
     "imdbId": "tt0050613",
@@ -2560,7 +2810,8 @@
       "Drama"
     ],
     "$$hashKey": "object:228",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Das Schloss im Spinnwebwald"
   },
   {
     "imdbId": "tt2015381",
@@ -2572,7 +2823,8 @@
       " Sci-Fi"
     ],
     "$$hashKey": "object:229",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Guardians of the Galaxy"
   },
   {
     "imdbId": "tt1220719",
@@ -2584,7 +2836,8 @@
       " Drama"
     ],
     "$$hashKey": "object:230",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Ip Man"
   },
   {
     "imdbId": "tt2084970",
@@ -2596,7 +2849,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:231",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "The Imitation Game - Ein streng geheimes Leben"
   },
   {
     "imdbId": "tt1504320",
@@ -2608,7 +2862,8 @@
       " History"
     ],
     "$$hashKey": "object:232",
-    "rating": "8.0"
+    "rating": "8.0",
+    "germanTitle": "The King's Speech"
   },
   {
     "imdbId": "tt0058461",
@@ -2620,7 +2875,8 @@
       " Western"
     ],
     "$$hashKey": "object:233",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Für eine Handvoll Dollar"
   },
   {
     "imdbId": "tt0044706",
@@ -2632,7 +2888,8 @@
       " Western"
     ],
     "$$hashKey": "object:234",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Zwölf Uhr mittags"
   },
   {
     "imdbId": "tt1392214",
@@ -2644,7 +2901,8 @@
       " Mystery"
     ],
     "$$hashKey": "object:235",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Prisoners"
   },
   {
     "imdbId": "tt0325980",
@@ -2656,7 +2914,8 @@
       " Fantasy"
     ],
     "$$hashKey": "object:236",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Fluch der Karibik"
   },
   {
     "imdbId": "tt0092067",
@@ -2668,7 +2927,8 @@
       " Family"
     ],
     "$$hashKey": "object:237",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Das Schloss im Himmel"
   },
   {
     "imdbId": "tt1454029",
@@ -2678,7 +2938,8 @@
       "Drama"
     ],
     "$$hashKey": "object:238",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "The Help"
   },
   {
     "imdbId": "tt0038787",
@@ -2690,7 +2951,8 @@
       " Romance"
     ],
     "$$hashKey": "object:239",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Notorious - Berüchtigt"
   },
   {
     "imdbId": "tt0046250",
@@ -2701,7 +2963,8 @@
       " Romance"
     ],
     "$$hashKey": "object:240",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Ein Herz und eine Krone"
   },
   {
     "imdbId": "tt3076658",
@@ -2712,7 +2975,8 @@
       " Sport"
     ],
     "$$hashKey": "object:241",
-    "rating": "8.2"
+    "rating": "8.2",
+    "germanTitle": "Creed - Rocky's Legacy"
   },
   {
     "imdbId": "tt0061184",
@@ -2722,7 +2986,8 @@
       "Drama"
     ],
     "$$hashKey": "object:242",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Wer hat Angst vor Virginia Woolf?"
   },
   {
     "imdbId": "tt0070511",
@@ -2734,7 +2999,8 @@
       " Drama"
     ],
     "$$hashKey": "object:243",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Papillon"
   },
   {
     "imdbId": "tt0374546",
@@ -2744,7 +3010,8 @@
       "Drama"
     ],
     "$$hashKey": "object:244",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Frühling, Sommer, Herbst, Winter... und Frühling"
   },
   {
     "imdbId": "tt0101414",
@@ -2756,7 +3023,8 @@
       " Fantasy"
     ],
     "$$hashKey": "object:245",
-    "rating": "8.0"
+    "rating": "8.0",
+    "germanTitle": "Die Schöne und das Biest"
   },
   {
     "imdbId": "tt0048424",
@@ -2768,7 +3036,8 @@
       " Film-Noir"
     ],
     "$$hashKey": "object:246",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Die Nacht des Jägers"
   },
   {
     "imdbId": "tt0052561",
@@ -2780,7 +3049,8 @@
       " Mystery"
     ],
     "$$hashKey": "object:247",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Anatomie eines Mordes"
   },
   {
     "imdbId": "tt0381681",
@@ -2791,7 +3061,8 @@
       " Romance"
     ],
     "$$hashKey": "object:248",
-    "rating": "8.0"
+    "rating": "8.0",
+    "germanTitle": "Before Sunset"
   },
   {
     "imdbId": "tt0264464",
@@ -2803,7 +3074,8 @@
       " Drama"
     ],
     "$$hashKey": "object:249",
-    "rating": "8.0"
+    "rating": "8.0",
+    "germanTitle": "Catch Me If You Can"
   },
   {
     "imdbId": "tt0111495",
@@ -2815,7 +3087,8 @@
       " Romance"
     ],
     "$$hashKey": "object:250",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Drei Farben: Rot"
   },
   {
     "imdbId": "tt0047528",
@@ -2825,7 +3098,8 @@
       "Drama"
     ],
     "$$hashKey": "object:251",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "La Strada - Das Lied der Straße"
   },
   {
     "imdbId": "tt0069293",
@@ -2837,7 +3111,8 @@
       " Sci-Fi"
     ],
     "$$hashKey": "object:252",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Solaris"
   },
   {
     "imdbId": "tt0049406",
@@ -2849,7 +3124,8 @@
       " Thriller"
     ],
     "$$hashKey": "object:253",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "Die Rechnung ging nicht auf"
   },
   {
     "imdbId": "tt0118694",
@@ -2860,6 +3136,7 @@
       " Romance"
     ],
     "$$hashKey": "object:254",
-    "rating": "8.1"
+    "rating": "8.1",
+    "germanTitle": "In The Mood For Love - Der Klang der Liebe"
   }
 ]
