@@ -5,13 +5,8 @@
 			Anzahl erratene Filme: {{successfullyGuessedMovies.length}}
 		</p>
 		<div class="row">
-			<div ng-repeat="movie in successfullyGuessedMovies" class="col-sm-3">
-				<div class="panel panel-default">
-					<div class="panel-heading">
-						<h3 class="panel-title">{{movie.title}}</h3>
-					</div>
-					<div class="panel-body">{{movie.year}}</div>
-				</div>
+			<div ng-repeat="movie in successfullyGuessedMovies" class="col-sm-6">
+				<div class="panel panel-default" ng-include="'templates/page/movies/moviePanelContent.html'"></div>
 			</div>
 		</div>
 	</div>
@@ -21,13 +16,8 @@
 			Anzahl übersprungene Filme: {{discardedMovies.length}}
 		</p>
 		<div class="row">
-			<div ng-repeat="movie in discardedMovies" class="col-sm-3">
-				<div class="panel panel-default">
-					<div class="panel-heading">
-						<h3 class="panel-title">{{movie.title}}</h3>
-					</div>
-					<div class="panel-body">{{movie.year}}</div>
-				</div>
+			<div ng-repeat="movie in discardedMovies" class="col-sm-6">
+				<div class="panel panel-default" ng-include="'templates/page/movies/moviePanelContent.html'"></div>
 			</div>
 		</div>
 	</div>

@@ -2,7 +2,8 @@ app.controller('GameController', function ($scope, $filter, $location, MoviesDat
 	// SETTINGS
 	$scope.settings = {
 		time: 60,
-		maxDiscards: 1
+		maxDiscards: 1,
+		maxPoints: 5
 	};
 	// TEAMS
 	$scope.teams = [];
@@ -64,6 +65,10 @@ app.controller('GameController', function ($scope, $filter, $location, MoviesDat
 		$scope.saveFilter();
 	}, true);
 
+	$scope.$watch('currentTeam', function(newValue, oldValue){
+		$scope.checkForMaxPointsReached();
+	});
+
 	$scope.timer = $scope.settings.time.toFixed(2);
 
 	// filtered movie lists
@@ -77,9 +82,14 @@ app.controller('GameController', function ($scope, $filter, $location, MoviesDat
 		return $filter('yearFilter')($scope.successfullyGuessedMovies, $scope.filter.minYear, $scope.filter.maxYear);
 	};
 
-	$scope.availableMoviesNumber = function () {
+	MoviesDataService.getMovies().then(function (data) {
+		$scope.movies = data;
+	});
+
+	$scope.numberOfAvailableMovies = function () {
 		var count = $scope.getFilteredMovies().length - $scope.getFilteredDiscardedMovies().length - $scope.getFilteredSuccessfullyGuessedMovies().length;
-		if (count - ($scope.teams.length - ($scope.teams.indexOf($scope.currentTeam) + 1)) <= 0) {
+		var numberOfMoviesNeededToCompleteRound = $scope.teams.length - ($scope.teams.indexOf($scope.currentTeam) + 1);
+		if (count - numberOfMoviesNeededToCompleteRound <= 0) {
 			if ($scope.gameState == 1) {
 				$scope.gameState = 2;
 			}
@@ -87,11 +97,32 @@ app.controller('GameController', function ($scope, $filter, $location, MoviesDat
 		return count;
 	};
 
-	MoviesDataService.getMovies().then(function (data) {
-		$scope.movies = data;
-	});
+	$scope.checkForMaxPointsReached = function(){
+		if($scope.currentTeam == $scope.teams[0]){
+			for(var i = 0; i < $scope.teams.length; i++){
+				var team = $scope.teams[i];
+				if(team.points >= $scope.settings.maxPoints){
+					$scope.stopGame();
+					return true;
+				}
+			}
+		}
+		return false;
+	};
+
+	$scope.getHighestPoints = function(){
+		var maxPoints = 0;
+		for(var i = 0; i < $scope.teams.length; i++){
+			var team = $scope.teams[i];
+			if(team.points > maxPoints){
+				maxPoints = team.points;
+			}
+		}
+		return maxPoints;
+	};
 
 	$scope.movieSuccessfullyGuessed = function () {
+		$scope.checkForMaxPointsReached();
 		$scope.stopTimer();
 		$scope.discardsUsed = 0;
 		if ($scope.currentMovie) {
@@ -108,12 +139,6 @@ app.controller('GameController', function ($scope, $filter, $location, MoviesDat
 			$scope.discardedMovies.push($scope.currentMovie);
 		}
 		$scope.discardsUsed++;
-		$scope.getRandomMovie();
-	};
-
-	$scope.teamReady = function () {
-		$scope.turnState = 1;
-		$scope.timer = $scope.settings.time.toFixed(2);
 		$scope.getRandomMovie();
 	};
 
@@ -160,6 +185,13 @@ app.controller('GameController', function ($scope, $filter, $location, MoviesDat
 		$scope.teams.splice($scope.teams.indexOf(team), 1);
 	};
 
+	$scope.teamReady = function () {
+		$scope.checkForMaxPointsReached();
+		$scope.turnState = 1;
+		$scope.timer = $scope.settings.time.toFixed(2);
+		$scope.getRandomMovie();
+	};
+
 	$scope.teamIsActive = function (team) {
 		return $scope.gameState != 1 || team == $scope.currentTeam;
 	};
@@ -176,22 +208,24 @@ app.controller('GameController', function ($scope, $filter, $location, MoviesDat
 		}
 	};
 
+	$scope.stopGame = function(){
+		$scope.stopTimer();
+		$scope.gameState = 2;
+	};
+
 	$scope.saveTeams = function(){
-		console.log('saving teams');
 		if (typeof(Storage) !== "undefined") {
 			localStorage.setItem("teams", JSON.stringify($scope.teams));
 		}
 	};
 
 	$scope.saveSettings = function(){
-		console.log('saving settings');
 		if (typeof(Storage) !== "undefined") {
 			localStorage.setItem("settings", JSON.stringify($scope.settings));
 		}
 	};
 
 	$scope.saveFilter = function(){
-		console.log('saving filter');
 		if (typeof(Storage) !== "undefined") {
 			localStorage.setItem("filter", JSON.stringify($scope.filter));
 		}
@@ -212,7 +246,7 @@ app.controller('GameController', function ($scope, $filter, $location, MoviesDat
 		var filteredMovies = $scope.getFilteredMovies();
 		var filteredDiscardedMovies = $scope.getFilteredDiscardedMovies();
 		var filteredSuccessfullyGuessedMovies = $scope.getFilteredSuccessfullyGuessedMovies();
-		if ($scope.availableMoviesNumber() > 0) {
+		if ($scope.numberOfAvailableMovies() > 0) {
 			var newMovie = filteredMovies[Math.floor(Math.random() * filteredMovies.length)];
 			while (
 			filteredDiscardedMovies.indexOf(newMovie) != -1 ||

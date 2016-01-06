@@ -19,9 +19,11 @@
 				<a href="" class="" ng-click="toggleEditTeam(team)">
 					<span class="glyphicon glyphicon-edit"></span>
 				</a>
-				<a href="" class="" ng-click="removeTeam(team)">
-					<span class="glyphicon glyphicon-remove"></span>
-				</a>
+				<span ng-if="gameState == 0">
+					<a href="" class="" ng-click="removeTeam(team)">
+						<span class="glyphicon glyphicon-remove"></span>
+					</a>
+				</span>
 			</div>
 		</div>
 	</div>

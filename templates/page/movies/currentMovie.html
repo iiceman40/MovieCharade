@@ -1,24 +1,8 @@
 <div ng-if="currentMovie && gameState == 1">
 	<h3>Film</h3>
-	<div ng-if="availableMoviesNumber() > 0">
+	<div ng-if="numberOfAvailableMovies() > 0">
 		<div ng-if="currentMovie">
-			<div class="panel panel-danger">
-				<div class="panel-heading">
-					<h3 class="panel-title">
-						{{currentMovie.title}}
-					</h3>
-				</div>
-				<div class="panel-body">
-					{{currentMovie.year}}
-					<span ng-if="currentMovie.genres.length">-</span>
-					<span ng-repeat="genre in currentMovie.genres">
-						{{genre}}<span ng-if="!$last">,</span>
-					</span>
-				</div>
-				<div class="panel-footer">
-					IMDB-Rating: {{currentMovie.rating}}
-				</div>
-			</div>
+			<div class="panel panel-danger" ng-init="movie = currentMovie" ng-include="'templates/page/movies/moviePanelContent.html'"></div>
 		</div>
 		<div class="row" ng-if="turnState == 1">
 			<div ng-if="timer > 0">
