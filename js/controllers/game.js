@@ -31,6 +31,8 @@ app.controller('GameController', function ($scope, $filter, $location, MoviesDat
 	$scope.discardedMovies = [];
 	$scope.successfullyGuessedMovies = [];
 
+	$scope.buzz = new Audio("audio/buzz.mp3");
+
 	// init teams, settings and filter from local storage
 	if (typeof(Storage) !== "undefined") {
 		var teams = angular.fromJson(localStorage.getItem("teams"));
@@ -159,6 +161,8 @@ app.controller('GameController', function ($scope, $filter, $location, MoviesDat
 			});
 			if ($scope.timer > 0) {
 				$scope.decreaseTimer();
+			} else {
+				$scope.buzz.play();
 			}
 		}, 100);
 	};

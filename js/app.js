@@ -13,9 +13,9 @@ function onDeviceReady() {
 }
 
 // MUST HAVE
-// TODO add translations
 // TODO add sound when the time runs out
 // TODO reference a server side data source for the movies that can be updated
+// TODO add translations
 
 // NICE TO HAVE
 // TODO styling
