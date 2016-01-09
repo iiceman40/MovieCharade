@@ -174,7 +174,7 @@ app.controller('GameController', function ($scope, $filter, $location, MoviesDat
 				$scope.decreaseTimer();
 			} else {
 				if( window.plugins && window.plugins.LowLatencyAudio ) {
-					lla.play($scope.buzzPath);
+					$scope.lla.play($scope.buzzPath);
 				} else {
 					$scope.buzz.play();
 				}
