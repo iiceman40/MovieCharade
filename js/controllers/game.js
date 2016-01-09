@@ -31,18 +31,7 @@ app.controller('GameController', function ($scope, $filter, $location, MoviesDat
 	$scope.discardedMovies = [];
 	$scope.successfullyGuessedMovies = [];
 
-	$scope.buzzPath = "audio/buzz.mp3"
-	$scope.buzz = new Audio($scope.buzzPath);
-
-	if( window.plugins && window.plugins.LowLatencyAudio ) {
-		$scope.lla = window.plugins.LowLatencyAudio;
-
-		// preload audio resource
-		$scope.lla.preloadFX($scope.buzzPath, $scope.buzzPath, 1, function (msg) {
-		}, function (msg) {
-			alert('error: ' + msg);
-		});
-	}
+	$scope.buzz = new Audio(buzzSound);
 
 	// init teams, settings and filter from local storage
 	if (typeof(Storage) !== "undefined") {
@@ -174,7 +163,7 @@ app.controller('GameController', function ($scope, $filter, $location, MoviesDat
 				$scope.decreaseTimer();
 			} else {
 				if( window.plugins && window.plugins.LowLatencyAudio ) {
-					$scope.lla.play($scope.buzzPath);
+					lowLatencyAudio.play(buzzSound);
 				} else {
 					$scope.buzz.play();
 				}

@@ -1,8 +1,10 @@
 var app = angular.module('movieCharadeApp', ['ngRoute']);
+var buzzSound = "audio/buzz.mp3";
+var lowLatencyAudio = null;
 
 document.addEventListener('deviceready', onDeviceReady, false);
 
-window.onerror = function(a,b,c) {
+window.onerror = function (a, b, c) {
 	alert(a);
 	alert(b);
 	alert(c);
@@ -10,6 +12,15 @@ window.onerror = function(a,b,c) {
 
 function onDeviceReady() {
 	window.plugins.insomnia.keepAwake();
+
+	if (window.plugins && window.plugins.LowLatencyAudio) {
+		lowLatencyAudio = window.plugins.LowLatencyAudio;
+		// preload audio resource
+		lowLatencyAudio.preloadFX(buzzSound, buzzSound, 1, function (msg) {
+		}, function (msg) {
+			alert('error: ' + msg);
+		});
+	}
 }
 
 // MUST HAVE
