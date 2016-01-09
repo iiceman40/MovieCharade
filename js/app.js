@@ -16,7 +16,7 @@ function onDeviceReady() {
 	if (window.plugins && window.plugins.LowLatencyAudio) {
 		lowLatencyAudio = window.plugins.LowLatencyAudio;
 		// preload audio resource
-		lowLatencyAudio.preloadFX(buzzSound, buzzSound, 1, function (msg) {
+		lowLatencyAudio.preloadFX(buzzSound, buzzSound, function (msg) {
 		}, function (msg) {
 			alert('error: ' + msg);
 		});
