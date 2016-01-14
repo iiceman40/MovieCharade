@@ -7,17 +7,25 @@ app.factory('MoviesDataService', function ($http) {
 	return {
 		getMovies: function () {
 			if (!promiseMovies) {
-				promiseMovies = $http.get('data/movies.json').then(function (moviesResponse) {
-					return moviesResponse.data;
+				promiseMovies = $http.get('http://p215008.mittwaldserver.info/MovieCharade/db/load_movies.php').then(function (moviesResponse) {
+					// SUCCESS
+					return JSON.parse(moviesResponse.data.movies);
+				}, function errorCallback(response) {
+					// error
+					promiseMovies = $http.get('data/movies.json').then(function (moviesResponse) {
+						return moviesResponse.data;
+					});
 				});
 			}
 			return promiseMovies;
 		},
 		getMoviesFromHtml: function () {
 			if (!promiseMovies) {
-				promiseMovies = $http.get('top250.html').then(function (moviesResponse) {
-					$('#movie-info').append(moviesResponse.data);
-					var chart = $('#movie-info').find('table.chart');
+				promiseMovies = $http.get('data/top250.html').then(function (moviesResponse) {
+					var infoArea = $('#movie-info');
+					infoArea.append(moviesResponse.data);
+
+					var chart = infoArea.find('table.chart');
 					var movies = [];
 					chart.find('tr').each(function(){
 						var thisMovieInfo = $(this).find('td.titleColumn');

@@ -254,19 +254,21 @@ app.controller('GameController', function ($scope, $filter, $location, MoviesDat
 		var filteredMovies = $scope.getFilteredMovies();
 		var filteredDiscardedMovies = $scope.getFilteredDiscardedMovies();
 		var filteredSuccessfullyGuessedMovies = $scope.getFilteredSuccessfullyGuessedMovies();
+
+		var newMovie = null;
+
 		if ($scope.numberOfAvailableMovies() > 0) {
-			var newMovie = filteredMovies[Math.floor(Math.random() * filteredMovies.length)];
+			newMovie = filteredMovies[Math.floor(Math.random() * filteredMovies.length)];
 			while (
-			filteredDiscardedMovies.indexOf(newMovie) != -1 ||
-			filteredSuccessfullyGuessedMovies.indexOf(newMovie) != -1
-				) {
+				filteredDiscardedMovies.indexOf(newMovie) != -1 ||
+				filteredSuccessfullyGuessedMovies.indexOf(newMovie) != -1
+			) {
 				newMovie = filteredMovies[Math.floor(Math.random() * filteredMovies.length)];
 			}
-		} else {
-			newMovie = null;
 		}
 
 		$scope.currentMovie = newMovie;
+
 	};
 
 	$scope.resetStack = function () {

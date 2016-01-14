@@ -1,14 +1,3 @@
 <div ng-repeat="movie in movies">
-	<div class="panel panel-default">
-		<div class="panel-heading">
-			<h4 class="panel-title">{{movie.title}}</h4>
-		</div>
-		<div class="panel-body">
-			{{movie.year}}
-			<span ng-if="movie.genres.length">-</span>
-			<span ng-repeat="genre in movie.genres">
-				{{genre}}<span ng-if="!$last">,</span>
-			</span>
-		</div>
-	</div>
+	<moviepanel type="default" movie="movie"></moviepanel>
 </div>

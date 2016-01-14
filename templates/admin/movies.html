@@ -98,6 +98,9 @@
 							<button class="btn btn-primary" ng-click="updateInfoFromMyApiFilms(movies.indexOf(movie), false)">Deutschen Titel von MyApiFilms</button>
 						</span>
 						<button class="btn btn-danger" ng-click="removeMovie(movie)">Film löschen</button>
+						<div ng-if="movie.imdbId && !settings.myApiFilmsToken">
+							<small>Hinweis: Trage den API Key in den Einstellungen für Zugriff auf MyApiFilms</small>
+						</div>
 					</div>
 				</div>
 			</div>

@@ -24,12 +24,15 @@ function onDeviceReady() {
 }
 
 // MUST HAVE
-// TODO add sound when the time runs out
 // TODO reference a server side data source for the movies that can be updated
 // TODO add translations
+// TODO unlock cross site requests in phonegap?
 
 // NICE TO HAVE
 // TODO styling
+// TODO clean up results / game end screen
+// TODO show only active team by default, add button to show all
+// TODO button to hide the current movie info
 // TODO add filter for genre
 
 // BACKLOG

@@ -2,7 +2,7 @@
 	<h3>Film</h3>
 	<div ng-if="numberOfAvailableMovies() > 0">
 		<div ng-if="currentMovie">
-			<div class="panel panel-danger" ng-init="movie = currentMovie" ng-include="'templates/page/movies/moviePanelContent.html'"></div>
+			<moviepanel type="danger" movie="currentMovie"></moviepanel>
 		</div>
 		<div class="row" ng-if="turnState == 1">
 			<div ng-if="timer > 0">
