@@ -7,6 +7,10 @@ app.factory('MoviesDataService', function ($http) {
 	return {
 		getMovies: function () {
 			if (!promiseMovies) {
+				promiseMovies = $http.get('data/movies.json').then(function (moviesResponse) {
+					return moviesResponse.data;
+				});
+				/* FIXME
 				promiseMovies = $http.get('http://p215008.mittwaldserver.info/MovieCharade/db/load_movies.php').then(function (moviesResponse) {
 					// SUCCESS
 					return JSON.parse(moviesResponse.data.movies);
@@ -16,6 +20,7 @@ app.factory('MoviesDataService', function ($http) {
 						return moviesResponse.data;
 					});
 				});
+				*/
 			}
 			return promiseMovies;
 		},
