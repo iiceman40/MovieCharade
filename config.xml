@@ -8,6 +8,7 @@
     <!-- versionCode is optional and Android only -->
 
     <name>Movie Charade</name>
+    <icon src="icon.png" />
 
     <description>
         A Game of Charade with Movies only.
